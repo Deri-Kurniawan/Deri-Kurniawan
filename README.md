@@ -3,11 +3,17 @@ My Name Is Deri Kurniawan :bearded_person:
 
 ### About
 A passionate fullstack web developer from Indonesia :indonesia:
+</br>
 🔭 I’m currently working on DID LEARN.
+</br>
 🌱 I’m currently learning Website & Desktop Programming
+</br>
 👯 I’m looking to collaborate on open source
+</br>
 💬 Ask me about Everything
+</br>
 📫 How to reach me? deri.netuchi@gmail.com
+</br>
 ⚡ Fun fact: i have no laptop :joy:
 
 ### Social Media:
