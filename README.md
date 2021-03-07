@@ -30,4 +30,4 @@ Deri Kurniawan | Instagram
 
 
 Languages and Tools:
-Visual Studio Code PHP HTML5 CSS3 JavaScript SQLBootstrap python Git GitHub Terminal Batch
+Visual Studio CodePHP HTML5 CSS3 JavaScript SQLBootstrap python Git GitHub Terminal Batch
