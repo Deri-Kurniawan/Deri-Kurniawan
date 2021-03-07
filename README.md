@@ -15,3 +15,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello World, I'm Deri Kurniawan 👋
+
+A passionate frontend and backend web developer from Indonesia
+🔭 I’m currently working on DID LEARN.
+🌱 I’m currently learning Website & Desktop Programming
+👯 I’m looking to collaborate on open source
+💬 Ask me about ... Everything
+📫 How to reach me deri.netuchi@gmail.com
+⚡ Fun fact: i have no laptop 😄
+
+Deri Kurniawan | Instagram
+
+
+Languages and Tools:
+Visual Studio Code PHP HTML5 CSS3 JavaScript SQLBootstrap python Git GitHub Terminal Batch
