@@ -41,6 +41,8 @@ A passionate fullstack web developer from Indonesia :indonesia:
 <br />
 <br />
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
