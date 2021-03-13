@@ -38,19 +38,4 @@ A passionate fullstack web developer from Indonesia :indonesia:
 <br />
 ---
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Deri Kurniawan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deri-Kurniawan&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Deri Kurniawan GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deri-Kurniawan" />
-
-</details>
-
 [instagram]: https://instagram.com/deri561
