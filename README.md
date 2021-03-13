@@ -36,6 +36,5 @@ A passionate fullstack web developer from Indonesia :indonesia:
 
 <br />
 <br />
----
 
 [instagram]: https://instagram.com/deri561
