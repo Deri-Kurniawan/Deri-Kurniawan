@@ -2,7 +2,7 @@
 My Name Is Deri Kurniawan :bearded_person:
 
 ### About
-A passionate fullstack web developer from Indonesia :indonesia:
+A passionate fullstack web & multi platform developer from Indonesia :indonesia:
 </br>
 🔭 I’m currently working on DID LEARN.
 </br>
