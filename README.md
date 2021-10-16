@@ -11,7 +11,7 @@ My Name is Deri Kurniawan :bearded_person:
   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="40px" height="40px">
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/deri-kurniawan">
     <img height="180em" 
      src="https://github-readme-stats-eight-theta.vercel.app/api?username=deri-kurniawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
