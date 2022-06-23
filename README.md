@@ -47,8 +47,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/derikurniawan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="derikurniawan" /></a><a href="https://ko-fi.com/derikurniawan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="derikurniawan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deri-kurniawan&show_icons=true&locale=en&layout=compact" alt="deri-kurniawan" /></p>
+<h3 align="left">Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deri-kurniawan&show_icons=true&locale=en" alt="deri-kurniawan" /></p>
+<div style="display: flex;">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deri-kurniawan&show_icons=true&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deri-kurniawan&layout=compact&langs_count=8"/>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deri-kurniawan&" alt="deri-kurniawan" /></p>
