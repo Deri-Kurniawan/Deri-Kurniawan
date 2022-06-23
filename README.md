@@ -52,3 +52,13 @@
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deri-kurniawan&" alt="deri-kurniawan" /></p>
+
+<h3 align="left">My Favorite Project:</h3>
+
+<a href="https://github.com/deri-kurniawan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=dikdok&theme=buefy" />
+</a>
+
+<a href="https://github.com/deri-kurniawan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=Derizer&theme=buefy" />
+</a>
