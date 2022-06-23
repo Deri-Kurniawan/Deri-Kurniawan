@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deri Kurniawan</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deri-kurniawan&label=Profile%20views&color=0e75b6&style=flat" alt="deri-kurniawan" /> </p>
+![Profile views](https://gpvc.arturio.dev/deri-kurniawan) [![GitHub forks](https://badgen.net/github/forks/deri-kurniawan/deri-kurniawan/)](https://GitHub.com/deri-kurniawan/deri-kurniawan/network/) [![GitHub followers](https://img.shields.io/github/followers/deri-kurniawan.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/deri-kurniawan?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/deri-kurniawan/deri-kurniawan.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/deri-kurniawan/deri-kurniawan/stargazers/)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/deri-kurniawan/) [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/deri-kurniawan/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deri-kurniawan" alt="deri-kurniawan" /></a> </p>
 
@@ -55,10 +57,10 @@
 
 <h3 align="left">My Favorite Project:</h3>
 
-<a href="https://github.com/deri-kurniawan/github-readme-stats">
+<a href="https://github.com/deri-kurniawan/deri-kurniawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=dikdok&theme=buefy" />
 </a>
 
-<a href="https://github.com/deri-kurniawan/github-readme-stats">
+<a href="https://github.com/deri-kurniawan/deri-kurniawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=Derizer&theme=buefy" />
 </a>
