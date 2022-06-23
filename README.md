@@ -57,10 +57,10 @@
 
 <h3 align="left">My Favorite Project:</h3>
 
-<a href="https://github.com/deri-kurniawan/deri-kurniawan">
+<a href="https://github.com/deri-kurniawan/dikdok">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=dikdok&theme=buefy" />
 </a>
 
-<a href="https://github.com/deri-kurniawan/deri-kurniawan">
+<a href="https://github.com/deri-kurniawan/derizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=Derizer&theme=buefy" />
 </a>
