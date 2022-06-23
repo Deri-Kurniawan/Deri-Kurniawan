@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Deri Kurniawan</h1>
-<h3 align="center">A passionate full-stack developer from Indonesia</h3>
-<div align="center">
+<h1 align="left">Hi 👋, I'm Deri Kurniawan</h1>
+<h3 align="left">A passionate full-stack developer from Indonesia</h3>
 
 ![Profile views](https://gpvc.arturio.dev/deri-kurniawan) [![GitHub forks](https://badgen.net/github/forks/deri-kurniawan/deri-kurniawan/)](https://GitHub.com/deri-kurniawan/deri-kurniawan/network/) [![GitHub followers](https://img.shields.io/github/followers/deri-kurniawan.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/deri-kurniawan?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/deri-kurniawan/deri-kurniawan.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/deri-kurniawan/deri-kurniawan/stargazers/)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/deri-kurniawan/) [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/deri-kurniawan/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deri-kurniawan" alt="deri-kurniawan" /></a> </p>
-
-</div>
 
 <p align="left"> <a href="https://twitter.com/derii561" target="blank"><img src="https://img.shields.io/twitter/follow/derii561?logo=twitter&style=for-the-badge" alt="derii561" /></a> </p>
 
@@ -67,4 +64,3 @@
 <a href="https://github.com/deri-kurniawan/derizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=Derizer&theme=buefy" />
 </a>
-
