@@ -61,6 +61,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=dikdok&theme=buefy" />
 </a>
 
+<a href="https://github.com/deri-kurniawan/css-glassmorphism">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=css-glassmorphism&theme=buefy" />
+</a>
+
 <a href="https://github.com/deri-kurniawan/derizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=Derizer&theme=buefy" />
 </a>
