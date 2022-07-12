@@ -73,3 +73,5 @@
 <a href="https://skyline.github.com/Deri-Kurniawan/2020">2020</a> |
 <a href="https://skyline.github.com/Deri-Kurniawan/2021">2021</a> |
 <a href="https://skyline.github.com/Deri-Kurniawan/2022">2022</a>
+
+![Image](https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/output/github-contribution-grid-snake.svg)
