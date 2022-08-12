@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS, React native, Express, Next JS, Nest JS, Tailwindcss.**
 
-- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/deri-kurniawan)
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Deri-Kurniawan?tab=repositories)
 
 - 📝 I regularly write articles on [DEV](https://dev.to/deri_kurniawan) and [Medium](https://deri-kurniawan.medium.com/)
 
