@@ -3,17 +3,17 @@
 
 ![Profile views](https://gpvc.arturio.dev/deri-kurniawan) [![GitHub followers](https://img.shields.io/github/followers/deri-kurniawan.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/deri-kurniawan?tab=followers)
 
-- 🌱 I’m currently learning **React JS, React Native, Express, Next JS, Tailwindcss.**
+- 🌱 I’m currently learning **React Js, React Native, Express Js, Next Js, Tailwindcss.**
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Deri-Kurniawan?tab=repositories)
 
 - 📝 I regularly write articles on [DEV](https://dev.to/deri_kurniawan) and [Medium](https://deri-kurniawan.medium.com/)
 
-- 💬 Ask me about **React Js, React Native, Express, PHP, CodeIgniter, Bootstrap, Tailwindcss**
+- 💬 Ask me about **React Js, React Native, Express Js, PHP, CodeIgniter, Bootstrap, Tailwindcss**
 
 - 📫 How to reach me **deri.netuchi@gmail.com**
 
-- 📄 Know about my experiences at [My Personal Website](https://deri-kurniawan.vercel.app) and [Linkedin](https://linkedin.com/in/deri-kurninawan)
+- 📄 Know about me at [My Portfolio Website](https://portfolio.deri-kurniawan.vercel.app) and [LinkedIn](https://linkedin.com/in/deri-kurninawan)
 
 - ⚡ Fun fact **I have no idea to fill this field 😐**
 
@@ -80,6 +80,10 @@
 
 <a href="https://github.com/deri-kurniawan/deri-kurniawan.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=deri-kurniawan.github.io&theme=buefy" />
+</a>
+
+<a href="https://github.com/deri-kurniawan/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=portfolio&theme=buefy" />
 </a>
 
 <a href="https://github.com/deri-kurniawan/dikdok">
