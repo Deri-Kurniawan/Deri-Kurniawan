@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [DEV](https://dev.to/deri_kurniawan) and [Medium](https://deri-kurniawan.medium.com/)
 
-- 💬 Ask me about **React Js, React Native, Express Js, PHP, CodeIgniter, Bootstrap, Tailwindcss**
+- 💬 Ask me about **React Js, React Native, Express Js, Next Js, PHP, CodeIgniter, Bootstrap, Tailwindcss**
 
 - 📫 How to reach me **deri.netuchi@gmail.com**
 
