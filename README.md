@@ -18,10 +18,6 @@
 - ⚡ Fun fact **I have no idea to fill this field 😐**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-
- Last Updated on 24/11/2022 21:07:50 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Trophies:</h3>
