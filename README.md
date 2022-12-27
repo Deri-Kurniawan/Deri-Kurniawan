@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/deri-kurniawan) [![GitHub followers](https://img.shields.io/github/followers/deri-kurniawan.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/deri-kurniawan?tab=followers)
 
-- 🌱 I’m currently learning **React Js, React Native, Express Js, Next Js, Tailwindcss.**
+- 🌱 I’m currently learning **React Js, React Native, Express Js, Next Js, Tailwindcss and Laravel.**
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Deri-Kurniawan?tab=repositories)
 
