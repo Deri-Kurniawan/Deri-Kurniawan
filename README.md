@@ -1,7 +1,12 @@
 <h1 align="left">Hi 👋, I'm Deri Kurniawan 👨‍💻</h1>
 <h3 align="left">A passionate full-stack developer from Indonesia</h3>
 
-![Profile views](https://gpvc.arturio.dev/deri-kurniawan) [![GitHub followers](https://img.shields.io/github/followers/deri-kurniawan.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/deri-kurniawan?tab=followers)
+![Profile views](https://gpvc.arturio.dev/deri-kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) [![GitHub followers](https://img.shields.io/github/followers/deri-kurniawan.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/deri-kurniawan?tab=followers)
+
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!-- [![DEVTO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
+)](https://dev.to/deri_kurniawan) [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+)](https://medium.com/@deri-kurniawan) -->
 
 - 🌱 I’m currently learning **React Js, React Native, Express Js, Next Js, Tailwindcss and Laravel.**
 
