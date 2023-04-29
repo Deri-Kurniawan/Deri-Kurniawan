@@ -23,65 +23,6 @@
 - ⚡ Fun fact **I have no idea to fill this field 😐**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2011%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 600 Contributions in the Year 2022
- > 
-> 📦 103.7 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 50 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
-🌆 Daytime    259 commits    ████████░░░░░░░░░░░░░░░░░   34.3% 
-🌃 Evening    317 commits    ██████████░░░░░░░░░░░░░░░   41.99% 
-🌙 Night      118 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               18 hrs 48 mins      ███████████████░░░░░░░░░░   63.2% 
-JavaScript               4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-JSON                     3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.84% 
-HTML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.54% 
-Other                    58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
-
-🔥 Editors: 
-VS Code                  29 hrs 45 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  29 hrs 45 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               30 repos            █████████████░░░░░░░░░░░░   54.55% 
-PHP                      9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
-
-```
-
-
-
- Last Updated on 04/12/2022 19:00:02 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Trophies:</h3>
@@ -125,10 +66,6 @@ Python                   2 repos             █░░░░░░░░░░�
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
-<h3 align="left">Support:</h3>
-<a href="https://www.buymeacoffee.com/derikurniawan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110" alt="derikurniawan" /></a>
-<a href="https://ko-fi.com/derikurniawan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="110" alt="derikurniawan" /></a><br/><br/>
-
 <h3 align="left">Stats:</h3>
 
 <div style="display: flex;">
@@ -149,10 +86,6 @@ Python                   2 repos             █░░░░░░░░░░�
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=portfolio&theme=buefy" />
 </a>
 
-<a href="https://github.com/deri-kurniawan/dikdok">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=dikdok&theme=buefy" />
-</a>
-
 <a href="https://github.com/deri-kurniawan/css-glassmorphism">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=css-glassmorphism&theme=buefy" />
 </a>
@@ -164,6 +97,7 @@ Python                   2 repos             █░░░░░░░░░░�
 <h3 align="left">My Commits Skyline 3DView:</h3>
 <a href="https://skyline.github.com/Deri-Kurniawan/2020">2020</a> |
 <a href="https://skyline.github.com/Deri-Kurniawan/2021">2021</a> |
-<a href="https://skyline.github.com/Deri-Kurniawan/2022">2022</a>
+<a href="https://skyline.github.com/Deri-Kurniawan/2022">2022</a> |
+<a href="https://skyline.github.com/Deri-Kurniawan/2023">2023</a>
 
 ![Image](https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/output/github-contribution-grid-snake.svg)
