@@ -23,6 +23,24 @@
 - ⚡ Fun fact **I have no idea to fill this field 😐**
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 24 November 2022 - To: 26 June 2023
+
+Total Time: 544 hrs 51 mins
+
+TypeScript                 345 hrs 41 mins >>>>>>>>>>>>>>>>---------   63.44 %
+JavaScript                 126 hrs 21 mins >>>>>>-------------------   23.19 %
+JSON                       19 hrs 28 mins  >------------------------   03.58 %
+CSS                        15 hrs 13 mins  >------------------------   02.80 %
+Other                      10 hrs 11 mins  -------------------------   01.87 %
+MDX                        6 hrs 3 mins    -------------------------   01.11 %
+HTML                       5 hrs 16 mins   -------------------------   00.97 %
+Bash                       4 hrs 23 mins   -------------------------   00.81 %
+PHP                        2 hrs 49 mins   -------------------------   00.52 %
+Astro                      2 hrs 16 mins   -------------------------   00.42 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Trophies:</h3>
