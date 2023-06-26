@@ -15,7 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TITLE: true
-          BLOCKS: ->
+          BLOCKS: 🔥
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
