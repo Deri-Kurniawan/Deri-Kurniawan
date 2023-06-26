@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **deri.netuchi@gmail.com**
 
-- 📄 Know about me at [My Portfolio Website](https://portfolio.deri-kurniawan.vercel.app) and [LinkedIn](https://linkedin.com/in/deri-kurniawan/)
+- 📄 Know about me at [My Portfolio Website](https://deri.my.id) and [LinkedIn](https://linkedin.com/in/deri-kurniawan/)
 
 - ⚡ Fun fact **I have no idea to fill this field 😐**
 
