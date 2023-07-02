@@ -20,7 +20,7 @@
 
 - 📄 Know about me at [My Portfolio Website](https://deri.my.id) and [LinkedIn](https://linkedin.com/in/deri-kurniawan/)
 
-- ⚡ Fun fact **I have no idea to fill this field 😐**
+- ⚡ Fun fact **I like to lick technology that I don't know the taste of🤣**
 
 <!--START_SECTION:waka-->
 
