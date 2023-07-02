@@ -23,6 +23,36 @@
 - ⚡ Fun fact **I like to lick technology that I don't know the taste of🤣**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%2054%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+🌆 Daytime                1038 commits        ██████████░░░░░░░░░░░░░░░   41.26 % 
+🌃 Evening                902 commits         █████████░░░░░░░░░░░░░░░░   35.85 % 
+🌙 Night                  299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Batchfile                1 hr 2 mins         ████████████████████████░   94.30 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+
+💻 Operating System: 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 17:42:15 02-07-2023 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Trophies:</h3>
