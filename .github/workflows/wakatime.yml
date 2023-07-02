@@ -1,0 +1,26 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch: #for workflow manual trigger
+  schedule:
+    - cron: '0 17 * * *' # Runs at 12 am Indonesian time (UTC+7)
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_PROJECTS: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_LANGUAGE_PER_REPO: "Flase"
+          SHOW_LOC_CHART: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          UPDATED_DATE_FORMAT: "%H:%M:%S %d-%m-%Y"
+          SHOW_LINES_OF_CODE: "True"
