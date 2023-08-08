@@ -8,13 +8,13 @@
 )](https://dev.to/deri_kurniawan) [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 )](https://medium.com/@deri-kurniawan) -->
 
-- 🌱 I’m currently learning **React Js, React Native, Express Js, Next Js, Tailwindcss and Laravel.**
+- 🌱 I’m currently learning **React Js, React Native, Express Js, Next Js, CT3A, Tailwindcss and Laravel.**
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Deri-Kurniawan?tab=repositories)
 
 - 📝 I regularly write articles on [DEV](https://dev.to/deri_kurniawan) and [Medium](https://deri-kurniawan.medium.com/)
 
-- 💬 Ask me about **React Js, React Native, Express Js, Next Js, PHP, CodeIgniter, Bootstrap, Tailwindcss**
+- 💬 Ask me about **Javascript, Typescript, React Js, React Native, Express Js, Next Js, Tailwindcss**
 
 - 📫 How to reach me **deri.netuchi@gmail.com**
 
