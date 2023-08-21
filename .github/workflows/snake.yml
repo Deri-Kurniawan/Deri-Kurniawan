@@ -24,15 +24,20 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
-
+    
     # Generates the snake  
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: deri-kurniawan
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          # a github token is required to fetch the contribution calendar from github API
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
