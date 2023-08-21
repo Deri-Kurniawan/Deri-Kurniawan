@@ -144,4 +144,4 @@ Windows                  6 hrs 33 mins       ███████████�
 <a href="https://skyline.github.com/Deri-Kurniawan/2022">2022</a> |
 <a href="https://skyline.github.com/Deri-Kurniawan/2023">2023</a>
 
-![Image](https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/output/github-contribution-grid-snake.svg)
+![Image](https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/output/github-snake.svg)
