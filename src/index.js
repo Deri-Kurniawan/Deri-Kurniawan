@@ -18,7 +18,7 @@ async function createSettingsFile(baseDir, markdownFiles, settingsFileName) {
   }
 }
 
-async function generateREADME(baseDir, compiledFileName, settingsFileName) {
+async function generateREADME(baseDir, compiledPath, settingsFileName) {
   try {
     const files = await readDir(baseDir);
     const markdownFiles = files.filter(
@@ -73,7 +73,7 @@ async function generateREADME(baseDir, compiledFileName, settingsFileName) {
       })
     );
 
-    await writeFile(compiledFileName, readmeContent.join("\n"));
+    await writeFile(compiledPath, readmeContent.join("\n"));
     log("success", "README.md generated successfully");
   } catch (error) {
     log("error", "An error occurred during README.md generation.");
@@ -83,10 +83,11 @@ async function generateREADME(baseDir, compiledFileName, settingsFileName) {
 
 async function main() {
   const baseDir = "./src/components";
-  const compiledFileName = "./README.md";
+  const compiledPath = "./README.md";
   const settingsFileName = "settings.json";
+
   try {
-    await generateREADME(baseDir, compiledFileName, settingsFileName);
+    await generateREADME(baseDir, compiledPath, settingsFileName);
   } catch (error) {
     makeDir("./src/components");
   }
