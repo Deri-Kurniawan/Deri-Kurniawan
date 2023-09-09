@@ -1,0 +1,6 @@
+{
+    "watch": ["./src/**/*.md", "./src/**/*.js", "./src/**/*.json"],
+    "ext": ".md, .js, .json",
+    "exec": "node ."
+  }
+  

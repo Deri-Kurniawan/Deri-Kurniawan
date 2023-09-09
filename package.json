@@ -1,0 +1,29 @@
+{
+  "name": "deri-kurniawan",
+  "version": "1.0.0",
+  "description": "Deri Kurniawan Github Markdown",
+  "main": "./src/index.js",
+  "type": "module",
+  "devDependencies": {
+    "chalk": "^5.3.0",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deri-kurniawan/deri-kurniawan.git"
+  },
+  "keywords": [
+    "markdown",
+    "github-markdown"
+  ],
+  "author": "Deri Kurniawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deri-kurniawan/deri-kurniawan/issues"
+  },
+  "homepage": "https://github.com/deri-kurniawan/deri-kurniawan#readme"
+}
