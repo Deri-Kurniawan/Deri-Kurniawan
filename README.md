@@ -130,12 +130,20 @@ Windows                  42 hrs 52 mins      ███████████�
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=portfolio&theme=buefy" />
 </a>
 
-<a href="https://github.com/deri-kurniawan/css-glassmorphism">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=css-glassmorphism&theme=buefy" />
+<a href="https://github.com/deri-kurniawan/plant_shop_mobile_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=plant_shop_mobile_app&theme=buefy" />
+</a>
+
+<a href="https://github.com/deri-kurniawan/screen-recorder-online">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=screen-recorder-online&theme=buefy" />
 </a>
 
 <a href="https://github.com/deri-kurniawan/derizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=Derizer&theme=buefy" />
+</a>
+
+<a href="https://github.com/deri-kurniawan/css-glassmorphism">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=css-glassmorphism&theme=buefy" />
 </a>
 
 ![Image](https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/output/github-snake.svg)
