@@ -3,8 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) [![GitHub followers](https://img.shields.io/github/followers/deri-kurniawan.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/deri-kurniawan?tab=followers)
 
-<a href="https://app.daily.dev/deri561"><img src="https://api.daily.dev/devcards/cb819c5f4f6547419fdbbaa82ac33fef.png?r=tc9" width="400" alt="Deri Kurniawan's Dev Card"/></a>
-
 - 🌱 I’m currently learning **React Js, React Native, Express Js, Next Js, CT3A, Tailwindcss and Laravel.**
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Deri-Kurniawan?tab=repositories)
