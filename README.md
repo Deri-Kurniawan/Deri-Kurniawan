@@ -1,19 +1,15 @@
 <h1 align="left">Hi 👋, I'm Deri Kurniawan 👨‍💻</h1>
-
 <h3 align="left">A passionate full-stack developer from Indonesia</h3>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) [![GitHub followers](https://img.shields.io/github/followers/deri-kurniawan.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/deri-kurniawan?tab=followers)
 
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-<!-- [![DEVTO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
-)](https://dev.to/deri_kurniawan) [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-)](https://medium.com/@deri-kurniawan) -->
+<a href="https://app.daily.dev/deri561"><img src="https://api.daily.dev/devcards/cb819c5f4f6547419fdbbaa82ac33fef.png?r=tc9" width="400" alt="Deri Kurniawan's Dev Card"/></a>
 
 - 🌱 I’m currently learning **React Js, React Native, Express Js, Next Js, CT3A, Tailwindcss and Laravel.**
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Deri-Kurniawan?tab=repositories)
 
-- 📝 I regularly write articles on [DEV](https://dev.to/deri_kurniawan) and [Medium](https://deri-kurniawan.medium.com/)
+- 📝 I regularly write articles on [DEV](https://dev.to/deri_kurniawan)
 
 - 💬 Ask me about **Javascript, Typescript, React Js, React Native, Express Js, Next Js, Tailwindcss**
 
