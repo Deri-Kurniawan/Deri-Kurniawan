@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **React Js, React Native, Express Js, Next Js, CT3A, Tailwindcss and Laravel.**
 
-- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Deri-Kurniawan?tab=repositories)
+- 💼 I’m currently working using **React Js, Next Js, CT3A, Tailwindcss and Laravel.**
+
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Deri-Kurniawan?tab=repositories) & [Gist Github](https://gist.github.com/Deri-Kurniawan)
 
 - 📝 I regularly write articles on [DEV](https://dev.to/deri_kurniawan)
 
