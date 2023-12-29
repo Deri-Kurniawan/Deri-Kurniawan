@@ -3,7 +3,7 @@
 
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjR6aTU1MmF5Z3NlaGtmNWoyNGlsZ2ZiazI5a3N4OWJwZnFoeHltMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" src="" width="300px">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjR6aTU1MmF5Z3NlaGtmNWoyNGlsZ2ZiazI5a3N4OWJwZnFoeHltMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="350">
 </a>
 </picture>
 
@@ -21,13 +21,13 @@ new Person({
 ```
 
 ```console
-D:\deri-kurniawan> node index.js
+D:\Deri-Kurniawan> node index.js
 Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 ```
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/deri-kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/deri-kurniawan?label=Stars)
+[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
   
 </div>
 
@@ -37,7 +37,7 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">🔍Technology that's been explored🔎</h3></summary>
+    <summary><h3 style="display: inline-block">🔍Tech that's been explored🔎</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -88,11 +88,11 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deri-kurniawan/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Deri-Kurniawan/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deri561/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/derii561)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/deri-kurniawan)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19716588/deri-kurniawan)
+[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Deri-Kurniawan)
+[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19716588/Deri-Kurniawan)
 [![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://uiverse.io/profile/Deri-Kurniawan)
   
 </div>
