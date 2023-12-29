@@ -1,132 +1,122 @@
-<h1 align="left">Hi 👋, I'm Deri Kurniawan 👨‍💻</h1>
-<h3 align="left">A passionate full-stack developer from Indonesia</h3>
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) [![GitHub followers](https://img.shields.io/github/followers/deri-kurniawan.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/deri-kurniawan?tab=followers)
+<picture> 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px" style="object-fit:cover">
+</picture>
 
-- 🌱 I’m currently learning **React Js, React Native, Express Js, Next Js, CT3A, Tailwindcss and Laravel.**
+```js
+"use creativity";
+import { Person } from 'indonesia';
 
-- 💼 I’m currently working using **React Js, Next Js, CT3A, Tailwindcss and Laravel.**
-
-- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Deri-Kurniawan?tab=repositories) & [Gist Github](https://gist.github.com/Deri-Kurniawan)
-
-- 📝 I regularly write articles on [DEV](https://dev.to/deri_kurniawan)
-
-- 💬 Ask me about **Javascript, Typescript, React Js, React Native, Express Js, Next Js, Tailwindcss**
-
-- 📫 How to reach me **deri.netuchi@gmail.com**
-
-- 📄 Know about me at [My Portfolio Website](https://deri.my.id) and [LinkedIn](https://linkedin.com/in/deri-kurniawan/)
-
-- ⚡ Fun fact **I like to lick technology that I don't know the taste of🤣**
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-🌆 Daytime                1579 commits        ██████████░░░░░░░░░░░░░░░   40.42 % 
-🌃 Evening                1400 commits        █████████░░░░░░░░░░░░░░░░   35.84 % 
-🌙 Night                  525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+new Person({
+    name   : 'Deri Kurniawan',
+    title  : 'Full Stack Developer',
+    email  : 'deri.netuchi@gmail.com',
+    website: 'https://deri.my.id/',
+    married: !!!true,
+}).sayHello();
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               16 hrs 55 mins      ███████████████████░░░░░░   74.48 % 
-JavaScript               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Vue.js                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-CSS                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-
-🔥 Editors: 
-VS Code                  22 hrs 43 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  22 hrs 43 mins      █████████████████████████   100.00 % 
+```console
+D:\deri-kurniawan> node index.js
+Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 ```
 
+<div align="center">
 
- Last Updated on 29-12-2023 17:43:29 UTC
-<!--END_SECTION:waka-->
-
-<h3 align="left">Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deri-kurniawan" alt="deri-kurniawan" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://uiverse.io/profile/Deri-Kurniawan" target="blank" title="uiverse.io (@Deri-Kurniawan)"><img align="center" src="https://uiverse.io/favicon-32x32.png" alt="deri-kurniawan" height="30" width="30" /></a>
-<a href="https://dev.to/deri_kurniawan" target="blank" title="dev.to (@deri_kurniawan)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deri_kurniawan" height="30" width="40" /></a>
-<a href="https://medium.com/@deri-kurniawan" target="blank" title="medium.com (@deri-kurniawan)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deri-kurniawan" height="30" width="40" /></a>
-<a href="https://twitter.com/derii561" target="blank" title="twitter.com (@derii561)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="derii561" height="30" width="40" /></a>
-<a href="https://instagram.com/deri561" target="blank" title="instagram.com (@deri561)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deri561" height="30" width="40" /></a>
-<a href="https://dribbble.com/deri-kurniawan" target="blank" title="dribble.com (@deri-kurniawan)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="deri-kurniawan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19716588" target="blank" title="stackoverflow.com (@19716588/deri-kurniawan)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19716588" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deri-kurninawan" target="blank" title="linkedin.com (@deri-kurniawan)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deri-kurninawan" height="30" width="40" /></a>
-
-<h3 align="left">Current Languages and Tools:</h3>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-
-<h3 align="left">Stats:</h3>
-
-<div style="display: flex;">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deri-kurniawan&show_icons=true&include_all_commits=true&count_private=true"/>
-    
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deri-kurniawan&layout=compact&langs_count=8"/>
+[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/deri-kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/deri-kurniawan?label=Stars)
+  
 </div>
 
-<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=deri-kurniawan&" alt="deri-kurniawan" />
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-<h3 align="left">My Favorite Project:</h3>
-
-<a href="https://github.com/deri-kurniawan/deri-kurniawan.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=deri-kurniawan.github.io&theme=buefy" />
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Technology that's been explored👨🏻‍💻</h3></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,ts,react,nextjs,vue,nuxt,tailwindcss,nodejs,express,laravel,mongodb,mysql,postgresql,sqlite,planetscale,docker,linux,git,github,vscode,figma,postman,electron,firebase,vercel,netlify,php&perline=11" />
 </a>
+</p>
 
-<a href="https://github.com/deri-kurniawan/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=portfolio&theme=buefy" />
-</a>
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-<a href="https://github.com/deri-kurniawan/plant_shop_mobile_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=plant_shop_mobile_app&theme=buefy" />
-</a>
+<h3 align="center">🔥Streak Stats🔥</h3>
 
-<a href="https://github.com/deri-kurniawan/screen-recorder-online">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=screen-recorder-online&theme=buefy" />
-</a>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Deri-Kurniawan&theme=tokyonight_duo" alt="Deri-Kurniawan" /></p>
 
-<a href="https://github.com/deri-kurniawan/derizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=Derizer&theme=buefy" />
-</a>
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-<a href="https://github.com/deri-kurniawan/css-glassmorphism">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deri-kurniawan&repo=css-glassmorphism&theme=buefy" />
-</a>
+<h3 align="center">⭐My Favorite Repo⭐</h3>
 
-![Image](https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/output/github-snake.svg)
+<div>
+  <p align="center">
+	<a href="https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=Deri-Kurniawan.github.io&theme=transparent" alt="GitHub Stats" />
+    	</a>
+	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/derizer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	</a>
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with me🤝</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deri-kurniawan/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deri561/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/derii561)
+[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/deri-kurniawan)
+[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19716588/deri-kurniawan)
+[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://stackoverflow.com/users/19716588/deri-kurniawan)
+  
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Support me -->
+<h3 align="center">☕Support me☕</h3>
+
+<div align="center">
+
+  
+[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/derikurniawan) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/derikurniawan)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<div align="center">
+    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
