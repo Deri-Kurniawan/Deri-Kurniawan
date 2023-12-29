@@ -37,7 +37,7 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">Technology that's been explored👨🏻‍💻</h3></summary>
+    <summary><h3 style="display: inline-block">🔍Technology that's been explored🔎</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -85,7 +85,7 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!-- Connect with me -->
-<h3 align="center">🤝Connect with me🤝</h3>
+<h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deri-kurniawan/)
@@ -101,7 +101,7 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!-- Support me -->
-<h3 align="center">☕Support me☕</h3>
+<h3 align="center">☕Support Me☕</h3>
 
 <div align="center">
 
