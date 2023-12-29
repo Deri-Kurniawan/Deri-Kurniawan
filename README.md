@@ -93,7 +93,7 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/derii561)
 [![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/deri-kurniawan)
 [![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19716588/deri-kurniawan)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://stackoverflow.com/users/19716588/deri-kurniawan)
+[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://uiverse.io/profile/Deri-Kurniawan)
   
 </div>
 
