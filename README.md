@@ -20,7 +20,7 @@ new Person({
 }).sayHello();
 ```
 
-```console
+```cmd
 D:\Deri-Kurniawan> node index.js
 Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 ```
@@ -28,6 +28,9 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 </div>
 
@@ -103,7 +106,6 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 <h3 align="center">☕Support Me☕</h3>
 
 <div align="center">
-
   
 [![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/derikurniawan) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/derikurniawan)
 
