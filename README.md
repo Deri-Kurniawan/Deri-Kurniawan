@@ -86,7 +86,8 @@ Windows                  31 hrs 24 mins      ███████████�
 
 <h3 align="center">🔥Streak Stats🔥</h3>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Deri-Kurniawan&theme=tokyonight_duo" alt="Deri-Kurniawan" /></p>
+<!-- custom streak stats: https://git.io/streak-stats -->
+<a align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></a>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
