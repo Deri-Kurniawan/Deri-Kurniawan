@@ -15,9 +15,9 @@ new Person({
     name   : 'Deri Kurniawan',
     title  : 'Full Stack Developer',
     email  : 'deri.netuchi@gmail.com',
-    website: 'https://bitlie.deri.my.id/portfolio',
+    website: 'https://deri.my.id',
     married: !!!true,
-}).sayHello();
+}).introduce();
 ```
 
 ```cmd
