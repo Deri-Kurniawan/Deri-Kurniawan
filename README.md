@@ -71,13 +71,13 @@ Windows                  51 hrs 49 mins      ███████████�
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">🔍Tech that's been explored🔎</h3></summary>
+    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,php,py,ts,react,nextjs,vue,nuxt,tailwindcss,nodejs,express,laravel,mongodb,mysql,postgresql,sqlite,planetscale,docker,linux,git,github,vscode,figma,postman,electron,firebase,vercel,netlify,jest,jquery,vite,bootstrap,astro,sentry,cloudflare,arduino,redux,prisma,svelte&perline=11" />
+<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
 </a>
 </p>
 
