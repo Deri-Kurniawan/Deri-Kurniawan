@@ -30,8 +30,37 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 11-04-2024 17:19:17 UTC
+```text
+🌞 Morning                568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+🌆 Daytime                2385 commits        ███████████░░░░░░░░░░░░░░   43.26 % 
+🌃 Evening                1889 commits        █████████░░░░░░░░░░░░░░░░   34.26 % 
+🌙 Night                  671 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               5 hrs 35 mins       █████████████████████░░░░   83.70 % 
+CSS                      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 41 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  6 hrs 41 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 12-04-2024 17:19:05 UTC
 <!--END_SECTION:waka-->
   
 </div>
