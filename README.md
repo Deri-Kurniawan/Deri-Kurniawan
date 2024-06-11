@@ -23,7 +23,7 @@ new Person({
     title  : 'Full Stack Developer',
     email  : 'deri.netuchi@gmail.com',
     website: 'https://deri.my.id',
-    junior: !!!false,
+    junior : !!!false,
 }).introduce();
 ```
 
