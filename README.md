@@ -37,8 +37,37 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 ![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 15-06-2024 17:18:29 UTC
+```text
+🌞 Morning                604 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+🌆 Daytime                2412 commits        ███████████░░░░░░░░░░░░░░   43.14 % 
+🌃 Evening                1898 commits        ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌙 Night                  677 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               18 hrs 12 mins      █████████████████████░░░░   83.61 % 
+Markdown                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Ruby                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 46 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  21 hrs 46 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16-06-2024 17:18:24 UTC
 <!--END_SECTION:waka-->
   
 </div>
