@@ -103,11 +103,17 @@ Windows                  13 hrs 59 mins      ███████████�
 
 <div>
   <p align="center">
+	<a href="https://github.com/Deri-Kurniawan/Deri-Kurniawan">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=Deri-Kurniawan&theme=transparent" alt="GitHub Stats" />
+    	</a>
 	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
     	</a>
-	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
+	<a href="https://github.com/Deri-Kurniawan/3d-portfolio">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Deri-Kurniawan/smoothie">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=smoothie&theme=transparent" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
