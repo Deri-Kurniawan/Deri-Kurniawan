@@ -1,10 +1,3 @@
-<!--
-- !! Thank you for keeping this sign !!
-- Original Creation by Deri Kurniawan (Deri-Kurniawan)
-- Github Repository: https://github.com/Deri-Kurniawan/Deri-Kurniawan
-- ⭐ Don't forget to give a star ⭐
--->
-
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
