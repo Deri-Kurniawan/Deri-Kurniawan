@@ -9,14 +9,14 @@
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from "indonesia";
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id',
-    junior : !!!false,
+  name: "Deri Kurniawan",
+  title: "Full Stack Developer",
+  email: "deri.netuchi@gmail.com",
+  website: "https://deri.my.id",
+  junior: !!!false,
 }).introduce();
 ```
 
@@ -29,40 +29,52 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 
 ![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
 
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">✨My Portfolio Website✨</h3>
+
+<a href="https://www.deri.my.id" alt="Deri Kurniawan Super Portfolio">
+<img src="https://files.edgestore.dev/pm4x4vgchfn4kpfz/publicFiles/_public/showcase-super-portfolio-1714565100312.webp" align="right">
+</a>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-🌆 Daytime                2411 commits        ███████████░░░░░░░░░░░░░░   43.15 % 
-🌃 Evening                1896 commits        ████████░░░░░░░░░░░░░░░░░   33.94 % 
-🌙 Night                  677 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+🌞 Morning                603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+🌆 Daytime                2411 commits        ███████████░░░░░░░░░░░░░░   43.15 %
+🌃 Evening                1896 commits        ████████░░░░░░░░░░░░░░░░░   33.94 %
+🌙 Night                  677 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
-TypeScript               12 hrs 28 mins      ████████████████████░░░░░   78.49 % 
-JavaScript               1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+💬 Programming Languages:
+TypeScript               12 hrs 28 mins      ████████████████████░░░░░   78.49 %
+JavaScript               1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 
-🔥 Editors: 
-VS Code                  15 hrs 53 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  15 hrs 53 mins      █████████████████████████   100.00 %
 
-💻 Operating System: 
-Windows                  15 hrs 53 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  15 hrs 53 mins      █████████████████████████   100.00 %
 ```
 
+Last Updated on 28-06-2024 17:19:54 UTC
 
- Last Updated on 28-06-2024 17:19:54 UTC
 <!--END_SECTION:waka-->
-  
+
 </div>
 
 <!--x axis divider-->
@@ -134,7 +146,7 @@ Windows                  15 hrs 53 mins      ███████████�
 [![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
 [![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
 [![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
-  
+
 </div>
 
 <!--x axis divider-->
