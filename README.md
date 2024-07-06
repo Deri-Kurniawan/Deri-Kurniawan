@@ -1,42 +1,33 @@
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
-</a>
-</picture>
+<img  alt="coding" width="400"src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 ```js
 "use creativity";
-import { Person } from "indonesia";
+import { Person } from "Pakistan";
 
 new Person({
-  name: "Deri Kurniawan",
+  name: "Hamza Yaqub",
   title: "Full Stack Developer",
-  email: "deri.netuchi@gmail.com",
-  website: "https://deri.my.id",
+  email: "hamzayaqub06@gmail.com",
   junior: !!!false,
 }).introduce();
 ```
 
 ```cmd
 D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
-```
+Hi, my name is Hamza yaqub, I'm a Full Stack Developer from Pakistan.
+``
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <h3 align="center">✨My Portfolio Website✨</h3>
-
-<a href="https://www.deri.my.id" alt="Deri Kurniawan Super Portfolio">
-<img src="https://files.edgestore.dev/pm4x4vgchfn4kpfz/publicFiles/_public/showcase-super-portfolio-1714565100312.webp" align="right">
-</a>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
@@ -59,10 +50,10 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 
 💬 Programming Languages: 
 TypeScript               15 hrs 7 mins       ████████████████████████░   94.59 % 
-Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Nodejs                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+NestJs                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+TailwindCSS              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
 VS Code                  15 hrs 59 mins      █████████████████████████   100.00 % 
@@ -108,11 +99,8 @@ Windows                  15 hrs 59 mins      ███████████�
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-hamza-yaqub/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/mr-hamza-yaqub/)
 
 </div>
 
@@ -124,8 +112,6 @@ Windows                  15 hrs 59 mins      ███████████�
 
 <div align="center">
   
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
-
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
