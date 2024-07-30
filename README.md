@@ -93,7 +93,13 @@ JSON                     19 mins             ░░░░░░░░░░░�
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=light" />
+    <img alt="Deri Kurniawan Streak Stats" src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=light" />
+  </picture>
+</p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
