@@ -1,9 +1,14 @@
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
+![Banner](/assets//images/banner.png)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<picture>
+<a href="https://github.com/Deri-Kurniawan.png" alt="Developer">
+<img src="https://images.weserv.nl/?url=https://github.com/Deri-Kurniawan.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
 </a>
 </picture>
 
@@ -21,8 +26,8 @@ new Person({
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+D:\lab\Deri-Kurniawan> node index.js
+Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 ```
 
 <div align="center">
@@ -42,31 +47,31 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-🌆 Daytime                2479 commits        ███████████░░░░░░░░░░░░░░   42.54 % 
-🌃 Evening                1980 commits        ████████░░░░░░░░░░░░░░░░░   33.97 % 
-🌙 Night                  730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+🌞 Morning                639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+🌆 Daytime                2479 commits        ███████████░░░░░░░░░░░░░░   42.54 %
+🌃 Evening                1980 commits        ████████░░░░░░░░░░░░░░░░░   33.97 %
+🌙 Night                  730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
-TypeScript               23 hrs 30 mins      ███████████████████░░░░░░   76.27 % 
-CSS                      3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-MDX                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+💬 Programming Languages:
+TypeScript               23 hrs 30 mins      ███████████████████░░░░░░   76.27 %
+CSS                      3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+MDX                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
+Last Updated on 04-08-2024 17:18:23 UTC
 
- Last Updated on 04-08-2024 17:18:23 UTC
 <!--END_SECTION:waka-->
 
 </div>
