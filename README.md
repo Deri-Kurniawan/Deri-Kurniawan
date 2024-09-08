@@ -1,16 +1,18 @@
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <div align="center">
   
-![Banner](/assets//images/banner.png)
+![Banner](/assets/images/banner.png)
 
 ![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
 
 </div>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <picture>
 <a href="https://github.com/Deri-Kurniawan.png" alt="Developer">
@@ -39,7 +41,8 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 <div align="center">
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <h3 align="center">✨My Portfolio Website✨</h3>
 
@@ -48,40 +51,42 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 </a>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                657 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-🌆 Daytime                2501 commits        ██████████░░░░░░░░░░░░░░░   40.91 % 
-🌃 Evening                2083 commits        █████████░░░░░░░░░░░░░░░░   34.07 % 
-🌙 Night                  873 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+🌞 Morning                657 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+🌆 Daytime                2501 commits        ██████████░░░░░░░░░░░░░░░   40.91 %
+🌃 Evening                2083 commits        █████████░░░░░░░░░░░░░░░░   34.07 %
+🌙 Night                  873 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
-TypeScript               42 hrs 25 mins      ███████████████████████░░   90.32 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-CSS                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-YAML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+💬 Programming Languages:
+TypeScript               42 hrs 25 mins      ███████████████████████░░   90.32 %
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+CSS                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+YAML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
+Last Updated on 07-09-2024 17:21:03 UTC
 
- Last Updated on 07-09-2024 17:21:03 UTC
 <!--END_SECTION:waka-->
 
 </div>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -97,7 +102,8 @@ Bash                     24 mins             ░░░░░░░░░░░�
 </p>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <h3 align="center">🔥Streak Stats🔥</h3>
 
@@ -111,7 +117,8 @@ Bash                     24 mins             ░░░░░░░░░░░�
 </p>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
@@ -126,7 +133,8 @@ Bash                     24 mins             ░░░░░░░░░░░�
 </div>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <!-- Support me -->
 <h3 align="center">☕Support Me☕</h3>
@@ -136,7 +144,8 @@ Bash                     24 mins             ░░░░░░░░░░░�
 [![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" />
@@ -145,11 +154,13 @@ Bash                     24 mins             ░░░░░░░░░░░�
 </picture>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <div align="center">
     Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
 </div>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![](/assets/images/horizontal-divider-gradient.gif)
