@@ -100,22 +100,9 @@ CSS                      0 secs              ░░░░░░░░░░░�
 </p>
 
 <!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
 
-<h3 align="center">🔥Streak Stats🔥</h3>
-
-<!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=light" />
-    <img alt="Deri Kurniawan Streak Stats" src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=light" />
-  </picture>
-</p>
-
 <!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!-- Connect with me -->
@@ -131,7 +118,6 @@ CSS                      0 secs              ░░░░░░░░░░░�
 </div>
 
 <!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!-- Support me -->
@@ -142,7 +128,6 @@ CSS                      0 secs              ░░░░░░░░░░░�
 [![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
 
 <!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <picture>
@@ -152,7 +137,6 @@ CSS                      0 secs              ░░░░░░░░░░░�
 </picture>
 
 <!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <div align="center">
@@ -160,5 +144,4 @@ CSS                      0 secs              ░░░░░░░░░░░�
 </div>
 
 <!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
