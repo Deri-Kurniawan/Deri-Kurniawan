@@ -102,9 +102,6 @@ CSS                      0 secs              ░░░░░░░░░░░�
 <!--x axis divider-->
 ![](/assets/images/horizontal-divider-gradient.gif)
 
-<!--x axis divider-->
-![](/assets/images/horizontal-divider-gradient.gif)
-
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
