@@ -27,8 +27,8 @@ import { Person } from "indonesia";
 new Person({
   name: "Deri Kurniawan",
   title: "Full Stack Developer",
-  email: "deri.netuchi@gmail.com",
-  website: "https://deri.my.id",
+  email: "hi@derikn.com",
+  website: "https://derikn.com",
   junior: !!!false,
 }).introduce();
 ```
@@ -46,7 +46,7 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 
 <h3 align="center">✨My Portfolio Website✨</h3>
 
-<a href="https://www.deri.my.id" alt="Deri Kurniawan Super Portfolio">
+<a href="https://www.derikn.com" alt="Deri Kurniawan Super Portfolio">
 <img src="https://files.edgestore.dev/pm4x4vgchfn4kpfz/publicFiles/_public/showcase-super-portfolio-1714565100312.webp" align="right">
 </a>
 
@@ -55,31 +55,31 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                657 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-🌆 Daytime                2507 commits        ██████████░░░░░░░░░░░░░░░   40.91 % 
-🌃 Evening                2090 commits        █████████░░░░░░░░░░░░░░░░   34.11 % 
-🌙 Night                  874 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+🌞 Morning                657 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+🌆 Daytime                2507 commits        ██████████░░░░░░░░░░░░░░░   40.91 %
+🌃 Evening                2090 commits        █████████░░░░░░░░░░░░░░░░   34.11 %
+🌙 Night                  874 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
-TypeScript               15 hrs 18 mins      ███████████████████░░░░░░   74.41 % 
-JavaScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-HTML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Dart                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+💬 Programming Languages:
+TypeScript               15 hrs 18 mins      ███████████████████░░░░░░   74.41 %
+JavaScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+HTML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Dart                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
+Last Updated on 19-09-2024 17:21:18 UTC
 
- Last Updated on 19-09-2024 17:21:18 UTC
 <!--END_SECTION:waka-->
 
 </div>
@@ -96,8 +96,8 @@ Dart                     29 mins             █░░░░░░░░░░�
 </div>
 <!--tech stack icons by skillicons.dev-->
 <p align="center">
-<a href="https://deri.my.id/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6">
-<img src="https://deri.my.id/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<a href="https://derikn.com/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6">
+<img src="https://derikn.com/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
 </a>
 </p>
 
@@ -124,11 +124,11 @@ Dart                     29 mins             █░░░░░░░░░░�
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.derikn.com/linkedin)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.derikn.com/instagram)
+[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.derikn.com/dribbble)
+[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.derikn.com/stackoverflow)
+[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.derikn.com/uiverse)
 
 </div>
 
@@ -137,15 +137,15 @@ Dart                     29 mins             █░░░░░░░░░░�
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!-- Support me -->
-<h3 align="center">☕Support Me☕</h3>
+<!-- <h3 align="center">☕Support Me☕</h3> -->
 
 <div align="center">
   
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
+<!-- [![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.derikn.com/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.derikn.com/ko-fi) -->
 
 <!--x axis divider-->
 
-![](/assets/images/horizontal-divider-gradient.gif)
+<!-- ![](/assets/images/horizontal-divider-gradient.gif) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" />
@@ -158,7 +158,7 @@ Dart                     29 mins             █░░░░░░░░░░�
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
+    Made with ❤️ by <a href="https://derikn.com" target="_blank">Deri Kurniawan</a>
 </div>
 
 <!--x axis divider-->
