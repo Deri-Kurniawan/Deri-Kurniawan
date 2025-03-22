@@ -71,14 +71,14 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages:
-TypeScript               15 hrs 18 mins      ███████████████████░░░░░░   74.41 %
-JavaScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-HTML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Dart                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+TypeScript               21 hrs 37 mins      ███████████████████████░░   92.17 %
+Prisma                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Bash                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
-Last Updated on 19-09-2024 17:21:18 UTC
+Last Updated on 22-03-2025 17:19:53 UTC
 
 <!--END_SECTION:waka-->
 
@@ -99,21 +99,6 @@ Last Updated on 19-09-2024 17:21:18 UTC
 <a href="https://derikn.com/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6">
 <img src="https://derikn.com/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
 </a>
-</p>
-
-<!--x axis divider-->
-
-![](/assets/images/horizontal-divider-gradient.gif)
-
-<h3 align="center">🔥Streak Stats🔥</h3>
-
-<!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=light" />
-    <img alt="Deri Kurniawan Streak Stats" src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=light" />
-  </picture>
 </p>
 
 <!--x axis divider-->
