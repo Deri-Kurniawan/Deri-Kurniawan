@@ -96,8 +96,8 @@ Other                    0 secs              ░░░░░░░░░░░�
 </div>
 <!--tech stack icons by skillicons.dev-->
 <p align="center">
-<a href="https://derikn.com/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6">
-<img src="https://derikn.com/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<a href="https://v5-portfolio.derikn.com/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6">
+<img src="https://v5-portfolio.derikn.com/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
 </a>
 </p>
 
