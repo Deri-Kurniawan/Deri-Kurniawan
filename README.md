@@ -71,10 +71,11 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
     <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
   </ul>
 </div>
-<!--tech stack icons by skillicons.dev-->
+
+<!-- use https://skillicons-picker.derikn.com -->
 <p align="center">
-<a href="https://v5-portfolio.derikn.com/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6">
-<img src="https://v5-portfolio.derikn.com/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<a href="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6">
+<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
 </a>
 </p>
 
