@@ -55,27 +55,8 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-🌆 Daytime                2159 commits        █████████░░░░░░░░░░░░░░░░   36.73 % 
-🌃 Evening                2113 commits        █████████░░░░░░░░░░░░░░░░   35.95 % 
-🌙 Night                  969 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               35 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 01-12-2025 17:29:19 UTC
+ Last Updated on 02-12-2025 17:30:15 UTC
 <!--END_SECTION:waka-->
 
 </div>
