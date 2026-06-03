@@ -58,10 +58,10 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                897 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-🌆 Daytime                2575 commits        █████████░░░░░░░░░░░░░░░░   36.85 % 
-🌃 Evening                2389 commits        █████████░░░░░░░░░░░░░░░░   34.19 % 
-🌙 Night                  1126 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+🌞 Morning                899 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+🌆 Daytime                2570 commits        █████████░░░░░░░░░░░░░░░░   36.82 % 
+🌃 Evening                2385 commits        █████████░░░░░░░░░░░░░░░░   34.17 % 
+🌙 Night                  1126 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 ```
 
 
@@ -71,15 +71,15 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.94 % 
-JSON                     1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-JavaScript               1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+TypeScript               3 hrs 31 mins       ████████████████████░░░░░   78.13 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 
 
- Last Updated on 02-06-2026 20:13:26 UTC
+ Last Updated on 03-06-2026 20:23:21 UTC
 <!--END_SECTION:waka-->
 
 </div>
