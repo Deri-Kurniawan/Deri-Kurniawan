@@ -71,15 +71,15 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               14 hrs 27 mins      █████████████████████░░░░   85.20 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+TypeScript               14 hrs 17 mins      █████████████████░░░░░░░░   69.32 % 
+JSON                     2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Markdown                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+JavaScript               1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 
 
- Last Updated on 17-06-2026 19:31:01 UTC
+ Last Updated on 18-06-2026 19:37:21 UTC
 <!--END_SECTION:waka-->
 
 </div>
