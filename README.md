@@ -55,13 +55,13 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                935 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-🌆 Daytime                2616 commits        █████████░░░░░░░░░░░░░░░░   36.75 % 
-🌃 Evening                2433 commits        █████████░░░░░░░░░░░░░░░░   34.18 % 
-🌙 Night                  1134 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+🌞 Morning                956 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+🌆 Daytime                2664 commits        █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌃 Evening                2472 commits        █████████░░░░░░░░░░░░░░░░   34.17 % 
+🌙 Night                  1142 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 ```
 
 
@@ -71,15 +71,15 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 6 mins        ██████████████████░░░░░░░   70.53 % 
-JSON                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+TypeScript               4 hrs 9 mins        ██████████████████░░░░░░░   71.11 % 
+JSON                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+TSConfig                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 ```
 
 
- Last Updated on 25-06-2026 19:13:28 UTC
+ Last Updated on 26-06-2026 18:59:44 UTC
 <!--END_SECTION:waka-->
 
 </div>
