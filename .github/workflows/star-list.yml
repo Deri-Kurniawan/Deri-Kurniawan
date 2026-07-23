@@ -15,12 +15,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate starred repository list
-        id: starred
         uses: Deri-Kurniawan/github-starred-repository-action@v1
         with:
           username: Deri-Kurniawan
           output-file: REPOSITORY_STAR_LIST.md
-          token: ${{ github.token }}
+          group-by: language
+          sort-by: stars
+          sort-order: desc
+          format: table
 
       - name: Commit changes
         run: |
