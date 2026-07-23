@@ -3,9 +3,6 @@ name: Update Starred Repositories
 on:
   workflow_dispatch:
 
-  schedule:
-    - cron: "0 */6 * * *"
-
 permissions:
   contents: write
 
@@ -23,7 +20,7 @@ jobs:
         with:
           username: Deri-Kurniawan
 
-      - name: Commit changes
+      - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
