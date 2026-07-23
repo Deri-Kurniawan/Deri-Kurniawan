@@ -19,7 +19,7 @@ jobs:
 
       - name: Generate starred repositories
         id: starred
-        uses: Deri-Kurniawan/github-starred-repository-action@v1
+        uses: Deri-Kurniawan/github-starred-repository-action@v1.1.0
         with:
           username: Deri-Kurniawan
 
@@ -30,7 +30,7 @@ jobs:
 
           git add \
             REPOSITORY_STAR_LIST.md \
-            REPOSITORY_STAR_DIGEST.txt
+            REPOSITORY_STAR_DIGEST.md
 
           if git diff --cached --quiet; then
             echo "No changes detected."
