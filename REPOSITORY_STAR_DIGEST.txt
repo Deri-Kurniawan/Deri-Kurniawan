@@ -1,0 +1,5804 @@
+# GitHub Starred Repository Knowledge Base
+# Source: https://github.com/Deri-Kurniawan/github-starred-repository-action
+# User: Deri-Kurniawan
+# Total: 345
+# Access: public
+# Sort: name asc
+
+REPO 0xGF/boneyard
+url=https://github.com/0xGF/boneyard
+description=Auto generated skeleton loading framework
+language=TypeScript
+stars=6661
+forks=265
+watchers=6661
+license=MIT
+archived=false
+fork=false
+open_issues=4
+default_branch=main
+created=2026-04-01T15:25:45Z
+updated=2026-07-23T06:51:28Z
+pushed=2026-07-07T17:12:47Z
+
+REPO 10play/10tap-editor
+url=https://github.com/10play/10tap-editor
+description=React Native Rich Text Editor
+language=TypeScript
+stars=1177
+forks=81
+watchers=1177
+license=MIT
+archived=false
+fork=false
+open_issues=46
+default_branch=main
+created=2024-01-26T19:08:37Z
+updated=2026-07-15T02:49:54Z
+pushed=2025-11-27T10:40:08Z
+
+REPO 47ng/nuqs
+url=https://github.com/47ng/nuqs
+description=Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
+language=TypeScript
+topics=query-params,react,search-params,state-management,type-safe,type-safety,url-parameters,url-params,url-state
+stars=10696
+forks=286
+watchers=10696
+license=MIT
+archived=false
+fork=false
+open_issues=43
+default_branch=next
+created=2020-05-11T03:52:32Z
+updated=2026-07-23T07:56:31Z
+pushed=2026-07-21T20:58:07Z
+
+REPO abi/screenshot-to-code
+url=https://github.com/abi/screenshot-to-code
+description=Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+language=Python
+stars=73426
+forks=9030
+watchers=73426
+license=MIT
+archived=false
+fork=false
+open_issues=122
+default_branch=main
+created=2023-11-14T17:53:32Z
+updated=2026-07-23T10:25:08Z
+pushed=2026-07-22T19:55:11Z
+
+REPO adobe/react-spectrum
+url=https://github.com/adobe/react-spectrum
+description=A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+language=TypeScript
+topics=accessibility,design-systems,react,react-components,ui-components,wai-aria
+stars=15704
+forks=1525
+watchers=15704
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=573
+default_branch=main
+created=2019-09-13T23:32:51Z
+updated=2026-07-23T08:27:30Z
+pushed=2026-07-23T06:53:35Z
+
+REPO adonisjs/core
+url=https://github.com/adonisjs/core
+description=AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
+language=TypeScript
+topics=core,framework,mvc-framework,nodejs,nodejs-framework,typescript,typescript-framework,web-framework
+stars=19048
+forks=671
+watchers=19048
+license=MIT
+archived=false
+fork=false
+open_issues=9
+default_branch=7.x
+created=2015-08-15T17:03:54Z
+updated=2026-07-23T10:46:04Z
+pushed=2026-07-16T11:44:12Z
+
+REPO adrianhajdin/project_syncfusion_dashboard
+url=https://github.com/adrianhajdin/project_syncfusion_dashboard
+description=This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion
+language=JavaScript
+topics=react,reactjs,syncfusion,syncfusion-ej2
+stars=3131
+forks=1073
+watchers=3131
+license=AGPL-3.0
+archived=false
+fork=false
+open_issues=28
+default_branch=main
+created=2022-02-06T14:13:34Z
+updated=2026-07-14T15:22:01Z
+pushed=2024-10-29T08:40:09Z
+
+REPO aidenybai/react-scan
+url=https://github.com/aidenybai/react-scan
+description=Scan and fix React performance issues
+language=TypeScript
+topics=javascript,react,react-dom,react-scan,rendering
+stars=21700
+forks=384
+watchers=21700
+license=MIT
+archived=false
+fork=false
+open_issues=74
+default_branch=main
+created=2024-09-02T21:52:12Z
+updated=2026-07-23T10:44:01Z
+pushed=2026-07-19T11:23:54Z
+
+REPO air-verse/air
+url=https://github.com/air-verse/air
+description=☁️ Live reload for Go apps
+language=Go
+topics=docker,file-watcher,gin,go,live-reload,task-runner,tools,watcher
+stars=23803
+forks=921
+watchers=23803
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=3
+default_branch=master
+created=2017-10-12T14:31:40Z
+updated=2026-07-23T10:43:11Z
+pushed=2026-07-22T13:59:22Z
+
+REPO airbnb/visx
+url=https://github.com/airbnb/visx
+description=🐯 visx | visualization components
+language=TypeScript
+topics=chart,d3,data-visualization,react,svg,visualization,visx,vx
+stars=20976
+forks=767
+watchers=20976
+license=MIT
+archived=false
+fork=false
+open_issues=144
+default_branch=master
+created=2017-03-15T16:25:41Z
+updated=2026-07-23T07:50:58Z
+pushed=2026-06-22T14:25:22Z
+
+REPO akveo/react-native-ui-kitten
+url=https://github.com/akveo/react-native-ui-kitten
+description=:boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
+language=TypeScript
+topics=react,react-native,ui-kit
+stars=10676
+forks=966
+watchers=10676
+license=MIT
+archived=false
+fork=false
+open_issues=135
+default_branch=master
+created=2016-12-20T08:22:38Z
+updated=2026-07-21T22:34:28Z
+pushed=2026-03-04T19:26:29Z
+
+REPO alex8088/electron-vite
+url=https://github.com/alex8088/electron-vite
+description=Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
+language=TypeScript
+topics=bytecode,electron,hmr,hot-reloading,node-worker,source-code-protection,typescript-decorator,vite
+stars=5544
+forks=239
+watchers=5544
+license=MIT
+archived=false
+fork=false
+open_issues=84
+default_branch=master
+created=2022-02-09T08:54:54Z
+updated=2026-07-23T08:55:40Z
+pushed=2026-04-17T17:21:41Z
+
+REPO AmanVarshney01/create-better-t-stack
+url=https://github.com/AmanVarshney01/create-better-t-stack
+description=A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
+language=TypeScript
+topics=better-auth,bun,clack-prompt,cli,drizzle-orm,expo,fumadocs,hono,prisma,shadcn-ui,solid,sveltekit,tailwindcss,tanstack-router,turborepo,typescript
+stars=5587
+forks=311
+watchers=5587
+license=MIT
+archived=false
+fork=false
+open_issues=153
+default_branch=main
+created=2025-02-10T17:06:23Z
+updated=2026-07-23T08:34:11Z
+pushed=2026-07-23T06:54:17Z
+
+REPO andirkh/clean-code-javascript
+url=https://github.com/andirkh/clean-code-javascript
+description=:bathtub: Clean Code concepts adapted for JavaScript
+language=JavaScript
+stars=167
+forks=55
+watchers=167
+license=MIT
+archived=false
+fork=true
+open_issues=0
+default_branch=master
+created=2017-05-25T15:51:54Z
+updated=2026-07-16T07:31:59Z
+pushed=2021-07-13T04:24:17Z
+
+REPO anmol098/waka-readme-stats
+url=https://github.com/anmol098/waka-readme-stats
+description=This GitHub action helps to add cool dev metrics to your github profile Readme
+language=Python
+topics=awesome,profile,profile-page,profile-readme,readme,wakatime
+stars=3966
+forks=639
+watchers=3966
+license=MIT
+archived=false
+fork=false
+open_issues=67
+default_branch=master
+created=2020-07-19T14:29:40Z
+updated=2026-07-23T00:21:21Z
+pushed=2026-07-01T13:42:24Z
+
+REPO AnmolSaini16/mapcn
+url=https://github.com/AnmolSaini16/mapcn
+description=Beautiful map components. 100% Free, Zero config, one command setup.
+language=TypeScript
+stars=10938
+forks=616
+watchers=10938
+license=MIT
+archived=false
+fork=false
+open_issues=20
+default_branch=main
+created=2025-12-28T10:57:22Z
+updated=2026-07-23T09:48:15Z
+pushed=2026-07-22T10:06:38Z
+
+REPO apal21/nextjs-progressbar
+url=https://github.com/apal21/nextjs-progressbar
+description=A simple Next.js progressbar component using NProgress.
+language=TypeScript
+stars=789
+forks=64
+watchers=789
+license=MIT
+archived=false
+fork=false
+open_issues=12
+default_branch=master
+created=2019-01-19T11:57:42Z
+updated=2026-07-22T07:38:32Z
+pushed=2024-03-18T21:22:53Z
+
+REPO apify/crawlee
+url=https://github.com/apify/crawlee
+description=Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
+language=TypeScript
+topics=apify,automation,crawler,crawling,headless,headless-chrome,javascript,nodejs,npm,playwright,puppeteer,scraper,scraping,typescript,web-crawler,web-crawling,web-scraping
+stars=24897
+forks=1574
+watchers=24897
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=166
+default_branch=master
+created=2016-08-26T18:35:03Z
+updated=2026-07-23T12:21:37Z
+pushed=2026-07-23T12:19:19Z
+
+REPO AppAndFlow/react-native-safe-area-context
+url=https://github.com/AppAndFlow/react-native-safe-area-context
+description=A flexible way to handle safe area insets in JS. Also works on Android and Web!
+language=TypeScript
+topics=android,ios,react,react-native,safeareainsets,web
+stars=2743
+forks=252
+watchers=2743
+license=MIT
+archived=false
+fork=false
+open_issues=108
+default_branch=main
+created=2019-08-14T18:26:28Z
+updated=2026-07-21T22:46:20Z
+pushed=2026-07-06T17:53:31Z
+
+REPO AppFlowy-IO/AppFlowy
+url=https://github.com/AppFlowy-IO/AppFlowy
+description=Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+language=Dart
+topics=blog,confluence-alternative,content-management,content-services,documentation,flutter,note-taking,notion-alternative,project-management,task-management,team-collaboration,wiki
+stars=74202
+forks=5696
+watchers=74202
+license=AGPL-3.0
+archived=false
+fork=false
+open_issues=1002
+default_branch=main
+created=2021-06-16T12:56:48Z
+updated=2026-07-23T10:58:53Z
+pushed=2026-06-26T02:35:46Z
+
+REPO appwrite/appwrite
+url=https://github.com/appwrite/appwrite
+description=Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+language=TypeScript
+topics=android,appwrite,backend,backend-as-a-service,docker,firebase,flutter,hosting,ios,javascript,nextjs,react,react-native,reactnative,self-hosted,selfhosted,serverless,supabase,swift,web
+stars=56631
+forks=5567
+watchers=56631
+license=BSD-3-Clause
+archived=false
+fork=false
+open_issues=1080
+default_branch=main
+created=2019-04-08T16:36:25Z
+updated=2026-07-23T11:49:05Z
+pushed=2026-07-23T11:49:01Z
+
+REPO argotorg/solidity
+url=https://github.com/argotorg/solidity
+description=Solidity, the Smart Contract Programming Language
+language=C++
+topics=blockchain,cpp,ethereum,hacktoberfest,language,programming-language,smartcontracts,solidity
+stars=25682
+forks=6144
+watchers=25682
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=792
+default_branch=develop
+created=2015-08-17T12:27:26Z
+updated=2026-07-22T23:31:43Z
+pushed=2026-07-22T15:36:27Z
+
+REPO Arindam200/termui
+url=https://github.com/Arindam200/termui
+description=TypeScript terminal UI framework
+language=TypeScript
+stars=126
+forks=10
+watchers=126
+license=MIT
+archived=false
+fork=false
+open_issues=1
+default_branch=main
+created=2026-03-22T08:11:18Z
+updated=2026-06-03T11:45:52Z
+pushed=2026-04-29T05:44:19Z
+
+REPO asmraihan/snippet-ui
+url=https://github.com/asmraihan/snippet-ui
+description=SnippetUI is an Open source, TypeScript ready, Copy and paste library crafted for Design Engineers.
+language=TypeScript
+stars=35
+forks=1
+watchers=35
+license=N/A
+archived=false
+fork=false
+open_issues=0
+default_branch=main
+created=2024-06-04T18:41:33Z
+updated=2026-06-08T12:38:10Z
+pushed=2025-02-17T00:01:01Z
+
+REPO atlassian/react-beautiful-dnd
+url=https://github.com/atlassian/react-beautiful-dnd
+description=Beautiful and accessible drag and drop for lists with React
+language=JavaScript
+topics=dnd,drag,drag-and-drop,react,reordering,sortable
+stars=33973
+forks=2708
+watchers=33973
+license=NOASSERTION
+archived=true
+fork=false
+open_issues=643
+default_branch=master
+created=2017-08-09T03:37:15Z
+updated=2026-07-21T09:02:59Z
+pushed=2025-08-18T04:35:31Z
+
+REPO AutomaApp/automa
+url=https://github.com/AutomaApp/automa
+description=A browser extension for automating your browser by connecting blocks
+language=Vue
+topics=automation,browser-automation,browser-extension,chrome-extension,firefox-extension,hacktoberfest,javascript,vue,workflow
+stars=21512
+forks=2329
+watchers=21512
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=371
+default_branch=main
+created=2021-10-02T08:48:43Z
+updated=2026-07-23T09:29:19Z
+pushed=2026-03-02T11:56:23Z
+
+REPO aykutkardas/regexlearn.com
+url=https://github.com/aykutkardas/regexlearn.com
+description=Learn RegEx step by step, from zero to advanced.
+language=TypeScript
+topics=guide,learn,regex,regexp,tool,tutorial
+stars=4083
+forks=270
+watchers=4083
+license=MIT
+archived=false
+fork=false
+open_issues=2
+default_branch=main
+created=2021-08-28T15:34:48Z
+updated=2026-07-20T11:04:14Z
+pushed=2026-07-15T15:55:47Z
+
+REPO bagusindrayana/roastgithub
+url=https://github.com/bagusindrayana/roastgithub
+description=N/A
+language=Svelte
+stars=210
+forks=14
+watchers=210
+license=N/A
+archived=false
+fork=false
+open_issues=0
+default_branch=master
+created=2024-08-02T15:09:55Z
+updated=2026-07-21T18:19:53Z
+pushed=2025-07-23T11:23:52Z
+
+REPO barvian/fluid-tailwind
+url=https://github.com/barvian/fluid-tailwind
+description=Build better responsive designs in less code.
+language=TypeScript
+topics=clamp,fluid,fluid-type,fluid-typography,plugin,responsive,tailwind,tailwind-plugin,tailwindcss,tailwindcss-plugin,vw
+stars=1779
+forks=32
+watchers=1779
+license=MIT
+archived=false
+fork=false
+open_issues=7
+default_branch=main
+created=2024-02-12T22:49:35Z
+updated=2026-07-22T21:36:22Z
+pushed=2025-03-17T20:29:17Z
+
+REPO barvian/number-flow
+url=https://github.com/barvian/number-flow
+description=An animated number component for React, Vue, Svelte, and TS/JS.
+language=TypeScript
+topics=accessible,animation,odometer,react,svelte,vue
+stars=7583
+forks=152
+watchers=7583
+license=MIT
+archived=false
+fork=false
+open_issues=18
+default_branch=main
+created=2024-07-15T22:04:51Z
+updated=2026-07-22T21:23:30Z
+pushed=2026-07-18T20:09:36Z
+
+REPO bberak/react-native-game-engine
+url=https://github.com/bberak/react-native-game-engine
+description=A lightweight Game Engine for React Native 🕹⚡🎮
+language=JavaScript
+topics=game-2d,game-development,game-engine,react,react-native
+stars=3100
+forks=190
+watchers=3100
+license=MIT
+archived=false
+fork=false
+open_issues=19
+default_branch=master
+created=2017-06-19T05:41:41Z
+updated=2026-07-21T20:11:06Z
+pushed=2024-12-31T04:31:45Z
+
+REPO beefproject/beef
+url=https://github.com/beefproject/beef
+description=The Browser Exploitation Framework Project
+language=JavaScript
+stars=10951
+forks=2366
+watchers=10951
+license=N/A
+archived=false
+fork=false
+open_issues=42
+default_branch=master
+created=2011-11-23T06:53:25Z
+updated=2026-07-21T23:56:28Z
+pushed=2026-07-21T10:55:07Z
+
+REPO BerriAI/litellm
+url=https://github.com/BerriAI/litellm
+description=The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
+language=Python
+topics=ai-gateway,anthropic,azure-openai,bedrock,gateway,langchain,litellm,llm,llm-gateway,llmops,mcp-gateway,openai,openai-proxy,rust,rust-ai,vertex-ai
+stars=54463
+forks=10007
+watchers=54463
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=4138
+default_branch=litellm_internal_staging
+created=2023-07-27T00:09:52Z
+updated=2026-07-23T12:09:14Z
+pushed=2026-07-23T07:55:47Z
+
+REPO blackboardsh/colab
+url=https://github.com/blackboardsh/colab
+description=Co(lab) is a hybrid web browser + local code editor with integrated PTY Terminal and AI designed for startup builders who need to move fast.
+language=TypeScript
+stars=201
+forks=26
+watchers=201
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=7
+default_branch=main
+created=2025-11-07T18:30:37Z
+updated=2026-07-13T12:08:25Z
+pushed=2026-05-04T05:56:18Z
+
+REPO bmad-code-org/BMAD-METHOD
+url=https://github.com/bmad-code-org/BMAD-METHOD
+description=Breakthrough Method for Agile Ai Driven Development
+language=JavaScript
+stars=51020
+forks=5863
+watchers=51020
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=102
+default_branch=main
+created=2025-04-13T14:54:25Z
+updated=2026-07-23T12:11:06Z
+pushed=2026-07-23T02:58:22Z
+
+REPO bossadizenith/Framer-ground
+url=https://github.com/bossadizenith/Framer-ground
+description=Elevate your web projects with fine, small animated components.
+language=TypeScript
+topics=animation,framer-motion,javascript,nextjs,reactjs,typscript
+stars=441
+forks=39
+watchers=441
+license=MIT
+archived=false
+fork=false
+open_issues=0
+default_branch=main
+created=2024-06-29T13:32:17Z
+updated=2026-07-09T18:52:03Z
+pushed=2025-04-03T15:25:17Z
+
+REPO brunodev85/winlator
+url=https://github.com/brunodev85/winlator
+description=Android application for running Windows applications with Wine and Box86/Box64
+language=C
+stars=18332
+forks=1557
+watchers=18332
+license=LGPL-2.1
+archived=false
+fork=false
+open_issues=403
+default_branch=main
+created=2023-07-26T13:02:11Z
+updated=2026-07-23T11:00:06Z
+pushed=2026-06-12T20:18:10Z
+
+REPO callstack/linaria
+url=https://github.com/callstack/linaria
+description=Zero-runtime CSS in JS library
+language=TypeScript
+topics=css,css-in-js,css-in-react,react
+stars=12348
+forks=413
+watchers=12348
+license=MIT
+archived=false
+fork=false
+open_issues=70
+default_branch=master
+created=2017-05-23T00:52:34Z
+updated=2026-07-23T10:43:10Z
+pushed=2026-07-20T14:07:41Z
+
+REPO CapSoftware/Cap
+url=https://github.com/CapSoftware/Cap
+description=Open source Loom alternative. Beautiful, shareable screen recordings.
+language=TypeScript
+topics=app,cap,coss,loom,mac,nextjs,nextjs15,open-source,oss,react,record,rust,screen-capture,screen-recorder,screenshot,solidjs,tauri,tauri-app,typescript,vite
+stars=20298
+forks=1713
+watchers=20298
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=517
+default_branch=main
+created=2023-11-17T20:31:46Z
+updated=2026-07-23T12:15:22Z
+pushed=2026-07-21T15:32:15Z
+
+REPO chaitin/xray
+url=https://github.com/chaitin/xray
+description=一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
+language=Vue
+topics=passive-vulnerability-scanner,poc,security,sqlinjection,vulnerability,vulnerability-scanner,xss
+stars=11667
+forks=1878
+watchers=11667
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=70
+default_branch=master
+created=2019-06-10T07:16:37Z
+updated=2026-07-23T09:01:41Z
+pushed=2024-10-29T16:15:53Z
+
+REPO chartdb/chartdb
+url=https://github.com/chartdb/chartdb
+description=Database diagrams editor that allows you to visualize and design your DB with a single query.
+language=TypeScript
+topics=database,db,db-migration,editor,erd,mariadb,mssql,mysql,postgresql,react,react-flow,schema-migrations,sql,sqlite,typescript,visualization,xyflow
+stars=22639
+forks=1445
+watchers=22639
+license=AGPL-3.0
+archived=false
+fork=false
+open_issues=162
+default_branch=main
+created=2024-08-05T07:19:19Z
+updated=2026-07-23T12:10:44Z
+pushed=2026-07-16T00:47:50Z
+
+REPO chartjs/Chart.js
+url=https://github.com/chartjs/Chart.js
+description=Simple HTML5 Charts using the <canvas> tag
+language=JavaScript
+topics=canvas,chart,graph,html5,html5-charts,javascript
+stars=67598
+forks=11947
+watchers=67598
+license=MIT
+archived=false
+fork=false
+open_issues=574
+default_branch=master
+created=2013-03-17T23:56:36Z
+updated=2026-07-23T11:19:19Z
+pushed=2026-05-27T21:17:31Z
+
+REPO cheeselemon/ophiuchi-desktop
+url=https://github.com/cheeselemon/ophiuchi-desktop
+description=Localhost SSL Proxy Server Manager using Docker
+language=TypeScript
+stars=2027
+forks=74
+watchers=2027
+license=MIT
+archived=false
+fork=false
+open_issues=10
+default_branch=main
+created=2023-08-16T14:41:04Z
+updated=2026-07-23T09:31:13Z
+pushed=2025-06-13T02:18:38Z
+
+REPO chenglou/react-motion
+url=https://github.com/chenglou/react-motion
+description=A spring that solves your animation problems.
+language=JavaScript
+stars=21916
+forks=1149
+watchers=21916
+license=MIT
+archived=false
+fork=false
+open_issues=193
+default_branch=master
+created=2015-06-11T07:38:23Z
+updated=2026-07-23T09:24:16Z
+pushed=2024-01-05T12:11:49Z
+
+REPO chromium/chromium
+url=https://github.com/chromium/chromium
+description=The official GitHub mirror of the Chromium source
+language=C++
+topics=browser,chromium
+stars=24320
+forks=9094
+watchers=24320
+license=BSD-3-Clause
+archived=false
+fork=false
+open_issues=28
+default_branch=main
+created=2018-02-05T20:55:32Z
+updated=2026-07-23T12:21:01Z
+pushed=2026-07-23T12:20:46Z
+
+REPO chronark/envshare
+url=https://github.com/chronark/envshare
+description=Share Environnment Variables Securely
+language=TypeScript
+topics=environment,share,variables
+stars=661
+forks=73
+watchers=661
+license=MIT
+archived=false
+fork=false
+open_issues=14
+default_branch=main
+created=2023-01-12T14:17:37Z
+updated=2026-07-12T09:06:23Z
+pushed=2026-05-05T05:58:37Z
+
+REPO code-yeongyu/oh-my-openagent
+url=https://github.com/code-yeongyu/oh-my-openagent
+description=omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+language=TypeScript
+topics=ai,ai-agents,anthropic,chatgpt,claude,claude-skills,codex,cursor,gemini,ide,openai,opencode,orchestration,tui,typescript
+stars=66442
+forks=5412
+watchers=66442
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=905
+default_branch=dev
+created=2025-12-03T01:40:05Z
+updated=2026-07-23T11:55:16Z
+pushed=2026-07-23T11:06:12Z
+
+REPO codeigniter4/CodeIgniter4
+url=https://github.com/codeigniter4/CodeIgniter4
+description=Open Source PHP Framework (originally from EllisLab)
+language=PHP
+topics=codeigniter,codeigniter4,framework-php,hacktoberfest,php,php-framework,php8
+stars=5950
+forks=1996
+watchers=5950
+license=MIT
+archived=false
+fork=false
+open_issues=32
+default_branch=develop
+created=2015-08-27T03:32:45Z
+updated=2026-07-23T12:10:35Z
+pushed=2026-07-22T17:25:51Z
+
+REPO codeigniter4/translations
+url=https://github.com/codeigniter4/translations
+description=System message translations for CodeIgniter4
+language=PHP
+stars=218
+forks=215
+watchers=218
+license=MIT
+archived=false
+fork=false
+open_issues=3
+default_branch=develop
+created=2018-09-26T14:46:55Z
+updated=2026-07-23T11:02:21Z
+pushed=2026-07-22T09:13:10Z
+
+REPO codemirror/dev
+url=https://github.com/codemirror/dev
+description=Development repository for the CodeMirror editor project
+language=JavaScript
+stars=7828
+forks=474
+watchers=7828
+license=NOASSERTION
+archived=true
+fork=false
+open_issues=12
+default_branch=main
+created=2018-08-28T12:10:35Z
+updated=2026-07-23T09:20:41Z
+pushed=2026-04-15T10:24:43Z
+
+REPO coderamp-labs/gitingest
+url=https://github.com/coderamp-labs/gitingest
+description=Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
+language=Python
+topics=ai,code,developer-tool,ingestion
+stars=15213
+forks=1138
+watchers=15213
+license=MIT
+archived=false
+fork=false
+open_issues=29
+default_branch=main
+created=2024-11-29T08:27:18Z
+updated=2026-07-23T05:39:22Z
+pushed=2026-07-22T13:53:51Z
+
+REPO codex-team/editor.js
+url=https://github.com/codex-team/editor.js
+description=A block-style editor with clean JSON output
+language=TypeScript
+topics=codex-editor,editor,javascript,json,redactor,typescript,ui,wysiwyg
+stars=31861
+forks=2239
+watchers=31861
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=696
+default_branch=next
+created=2015-11-28T20:56:35Z
+updated=2026-07-23T10:48:55Z
+pushed=2026-07-21T22:12:52Z
+
+REPO colinhacks/zod
+url=https://github.com/colinhacks/zod
+description=TypeScript-first schema validation with static type inference
+language=TypeScript
+topics=runtime-validation,schema-validation,static-types,type-inference,typescript
+stars=43317
+forks=2092
+watchers=43317
+license=MIT
+archived=false
+fork=false
+open_issues=291
+default_branch=main
+created=2020-03-07T20:59:08Z
+updated=2026-07-23T10:55:32Z
+pushed=2026-07-22T13:42:50Z
+
+REPO CommandCodeAI/BaseAI
+url=https://github.com/CommandCodeAI/BaseAI
+description=BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
+language=TypeScript
+topics=ai,anthropic,artificial-intelligence,baseai,cohere,firewor,gemini,grok,groq,langbase,mistral,openai,perplexity,togetherai,xai
+stars=1266
+forks=108
+watchers=1266
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=11
+default_branch=main
+created=2024-09-29T22:05:49Z
+updated=2026-07-23T02:32:47Z
+pushed=2026-05-16T18:32:22Z
+
+REPO contentlayerdev/contentlayer
+url=https://github.com/contentlayerdev/contentlayer
+description=Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
+language=TypeScript
+stars=3540
+forks=192
+watchers=3540
+license=MIT
+archived=false
+fork=false
+open_issues=93
+default_branch=main
+created=2021-01-20T09:11:00Z
+updated=2026-07-18T19:56:13Z
+pushed=2024-11-07T07:51:24Z
+
+REPO cookpete/react-player
+url=https://github.com/cookpete/react-player
+description=A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
+language=TypeScript
+topics=audio,dailymotion,dash,facebook,hls,media,player,react,soundcloud,streamable,twitch,video,vimeo,wistia,youtube
+stars=10274
+forks=1203
+watchers=10274
+license=MIT
+archived=false
+fork=false
+open_issues=58
+default_branch=master
+created=2015-08-18T09:42:53Z
+updated=2026-07-22T21:35:37Z
+pushed=2025-11-13T19:27:44Z
+
+REPO coreybutler/nvm-windows
+url=https://github.com/coreybutler/nvm-windows
+description=A node.js version management utility for Windows. Ironically written in Go.
+language=Go
+topics=go,management,node,node-version-manager,nodejs,nvm,switch,version,version-manager,versioning,windows
+stars=47143
+forks=3856
+watchers=47143
+license=MIT
+archived=false
+fork=false
+open_issues=87
+default_branch=master
+created=2014-09-20T16:37:28Z
+updated=2026-07-23T11:16:08Z
+pushed=2026-04-17T17:58:18Z
+
+REPO CraterCrash/godot-orchestrator
+url=https://github.com/CraterCrash/godot-orchestrator
+description=Orchestrator: Unleashing Creativity with Visual Scripting
+language=C++
+topics=godot,godot-engine,godot-plugin,godot4,godotengine
+stars=1581
+forks=83
+watchers=1581
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=161
+default_branch=main
+created=2023-07-14T21:21:43Z
+updated=2026-07-22T08:53:03Z
+pushed=2026-07-19T14:02:04Z
+
+REPO crxjs/chrome-extension-tools
+url=https://github.com/crxjs/chrome-extension-tools
+description=Build cross-browser extensions with native HMR and zero-config setup
+language=TypeScript
+topics=chrome-extension,javascript,manifest-v2,manifest-v3,npm-package,rollup,rollup-js,rollup-plugin,typescript,vite-plugin,vitejs
+stars=4131
+forks=243
+watchers=4131
+license=N/A
+archived=false
+fork=false
+open_issues=39
+default_branch=main
+created=2019-03-15T14:11:45Z
+updated=2026-07-20T12:35:13Z
+pushed=2026-07-05T17:04:32Z
+
+REPO cure53/DOMPurify
+url=https://github.com/cure53/DOMPurify
+description=DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+language=JavaScript
+topics=cross-site-scripting,dom,dompurify,html,javascript,mathml,prevent-xss-attacks,sanitizer,security,svg,xss
+stars=17235
+forks=857
+watchers=17235
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=0
+default_branch=main
+created=2014-02-17T21:48:14Z
+updated=2026-07-23T02:33:45Z
+pushed=2026-07-23T09:33:09Z
+
+REPO cursor/cursor
+url=https://github.com/cursor/cursor
+description=N/A
+language=N/A
+stars=33053
+forks=2271
+watchers=33053
+license=N/A
+archived=false
+fork=false
+open_issues=2
+default_branch=main
+created=2023-03-12T00:19:42Z
+updated=2026-07-23T11:20:15Z
+pushed=2026-05-12T15:25:06Z
+
+REPO d3/d3
+url=https://github.com/d3/d3
+description=Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+language=Shell
+topics=chart,charts,d3,data-visualization,svg,visualization
+stars=113261
+forks=22694
+watchers=113261
+license=ISC
+archived=false
+fork=false
+open_issues=20
+default_branch=main
+created=2010-09-27T17:22:42Z
+updated=2026-07-23T11:57:01Z
+pushed=2026-05-28T14:43:01Z
+
+REPO damien-schneider/cuicui
+url=https://github.com/damien-schneider/cuicui
+description=Simplify your UI with clean, copy-paste components that minimize JavaScript, maximize CSS, spark creativity, and empower you with code you fully own and understand.
+language=TypeScript
+topics=components-library,components-react,copy-paste,framer-motion,tailwind-css,ui,ui-components
+stars=962
+forks=51
+watchers=962
+license=MIT
+archived=false
+fork=false
+open_issues=5
+default_branch=main
+created=2024-04-22T22:43:32Z
+updated=2026-07-20T16:57:17Z
+pushed=2026-06-01T21:41:25Z
+
+REPO darkroomengineering/lenis
+url=https://github.com/darkroomengineering/lenis
+description=Smooth scroll as it should be
+language=TypeScript
+topics=darkroom-engineering,performance,react,scroll,smooth,smooth-scroll,snap,vanilla,vue
+stars=14752
+forks=608
+watchers=14752
+license=MIT
+archived=false
+fork=false
+open_issues=27
+default_branch=main
+created=2022-02-21T14:57:09Z
+updated=2026-07-23T12:12:16Z
+pushed=2026-07-23T10:16:51Z
+
+REPO DavidHDev/react-bits
+url=https://github.com/DavidHDev/react-bits
+description=An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+language=JavaScript
+topics=3d,animations,component-library,components,components-library,components-react,css-animations,javascript,react,react-components,reactjs,tailwind,tailwindcss,ui-components,ui-library,web
+stars=44009
+forks=2079
+watchers=44009
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=2
+default_branch=main
+created=2024-08-06T06:54:54Z
+updated=2026-07-23T12:17:03Z
+pushed=2026-07-23T07:29:17Z
+
+REPO deepseek-ai/DeepSeek-R1
+url=https://github.com/deepseek-ai/DeepSeek-R1
+description=N/A
+language=N/A
+stars=91979
+forks=11706
+watchers=91979
+license=MIT
+archived=false
+fork=false
+open_issues=41
+default_branch=main
+created=2025-01-20T11:57:28Z
+updated=2026-07-23T11:08:26Z
+pushed=2025-06-27T08:35:54Z
+
+REPO deniscerri/ytdlnis
+url=https://github.com/deniscerri/ytdlnis
+description=Full-featured audio/video downloader for Android using yt-dlp
+language=Kotlin
+topics=android,audio,downloader,kotlin,material-design,mp3,video,youtube,youtube-dl,youtube-downloader,yt-dlp,yt-dlp-gui
+stars=9341
+forks=413
+watchers=9341
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=58
+default_branch=main
+created=2022-05-27T20:46:51Z
+updated=2026-07-23T11:49:23Z
+pushed=2026-07-22T19:14:56Z
+
+REPO denoland/deno
+url=https://github.com/denoland/deno
+description=A modern runtime for JavaScript and TypeScript.
+language=Rust
+topics=deno,javascript,rust,typescript
+stars=107766
+forks=6193
+watchers=107766
+license=MIT
+archived=false
+fork=false
+open_issues=1429
+default_branch=main
+created=2018-05-15T01:34:26Z
+updated=2026-07-23T12:01:32Z
+pushed=2026-07-23T12:13:40Z
+
+REPO DevToys-app/DevToys
+url=https://github.com/DevToys-app/DevToys
+description=A Swiss Army knife for developers.
+language=C#
+topics=blazor,cross-platform,csharp,desktop,desktop-app,desktop-application,developer-tools,extensible,fluent,fluent-design,linux,macos,mica,syntax-highlighting,typescript,windows,windows-10,windows-11,winui
+stars=31794
+forks=1752
+watchers=31794
+license=MIT
+archived=false
+fork=false
+open_issues=335
+default_branch=main
+created=2021-09-29T01:40:41Z
+updated=2026-07-23T10:58:18Z
+pushed=2026-02-25T11:53:38Z
+
+REPO dimartarmizi/web-flight-simulator
+url=https://github.com/dimartarmizi/web-flight-simulator
+description=A browser-based arcade flight simulator using Three.js and CesiumJS, focused on fast-paced flight experience over real-world terrain.
+language=JavaScript
+stars=541
+forks=100
+watchers=541
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=3
+default_branch=main
+created=2026-01-23T15:20:19Z
+updated=2026-07-23T09:47:47Z
+pushed=2026-02-12T05:29:13Z
+
+REPO dip/cmdk
+url=https://github.com/dip/cmdk
+description=Fast, unstyled command menu React component.
+language=TypeScript
+topics=combobox,command-menu,command-palette,radix-ui,react
+stars=12827
+forks=374
+watchers=12827
+license=MIT
+archived=false
+fork=false
+open_issues=72
+default_branch=main
+created=2022-07-15T20:22:47Z
+updated=2026-07-23T02:31:53Z
+pushed=2025-10-29T04:13:58Z
+
+REPO dockpeek/dockpeek
+url=https://github.com/dockpeek/dockpeek
+description=Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
+language=JavaScript
+topics=container-management,dashboard,docker,docker-swarm,selfhosted,traefik,update-checker
+stars=1973
+forks=94
+watchers=1973
+license=MIT
+archived=false
+fork=false
+open_issues=31
+default_branch=main
+created=2025-06-14T21:26:09Z
+updated=2026-07-23T05:25:04Z
+pushed=2025-11-05T10:56:53Z
+
+REPO Dokploy/dokploy
+url=https://github.com/Dokploy/dokploy
+description=Open Source Alternative to Vercel, Netlify and Heroku.
+language=TypeScript
+topics=agents,ai,backend,backups,databases,deployment,deployments,devops,docker,frontend,mariadb,mongodb,mysql,nextjs,postgresql,self-hosted,vps
+stars=36006
+forks=2783
+watchers=36006
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=727
+default_branch=canary
+created=2024-04-19T07:49:30Z
+updated=2026-07-23T12:08:07Z
+pushed=2026-07-22T20:33:42Z
+
+REPO drizzle-team/drizzle-orm
+url=https://github.com/drizzle-team/drizzle-orm
+description=ORM
+language=TypeScript
+topics=bunjs,mysql,nodejs,orm,postgres,postgresql,sql,sqlite,turso,typescript
+stars=35230
+forks=1489
+watchers=35230
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=1917
+default_branch=main
+created=2021-06-24T09:03:05Z
+updated=2026-07-23T12:24:47Z
+pushed=2026-07-23T09:09:05Z
+
+REPO drknzz/GitHub-Achievements
+url=https://github.com/drknzz/GitHub-Achievements
+description=🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
+language=Markdown
+topics=achievement,achievements,badge,badges,display,earn,extraordinaire,galaxy-brain,github,heart-on-your-sleeve,list,open-sourcerer,pair-extraordinaire,profile,profile-readme,readme,source,starstruck,stats,universe
+stars=3009
+forks=302
+watchers=3009
+license=MIT
+archived=false
+fork=false
+open_issues=50
+default_branch=main
+created=2022-06-09T17:44:31Z
+updated=2026-07-23T11:52:54Z
+pushed=2024-08-09T09:58:41Z
+
+REPO DuCanhGH/next-pwa
+url=https://github.com/DuCanhGH/next-pwa
+description=PWA for Next.js, powered by Workbox.
+language=TypeScript
+topics=nextjs,progressive-web-app,pwa,react,service-worker,workbox
+stars=683
+forks=33
+watchers=683
+license=MIT
+archived=false
+fork=true
+open_issues=3
+default_branch=master
+created=2022-11-29T09:31:01Z
+updated=2026-07-13T11:24:06Z
+pushed=2024-09-18T18:46:42Z
+
+REPO EbookFoundation/free-programming-books
+url=https://github.com/EbookFoundation/free-programming-books
+description=:books: Freely available programming books
+language=Python
+topics=books,education,hacktoberfest,list,resource
+stars=392763
+forks=66557
+watchers=392763
+license=CC-BY-4.0
+archived=false
+fork=false
+open_issues=76
+default_branch=main
+created=2013-10-11T06:50:37Z
+updated=2026-07-23T12:24:58Z
+pushed=2026-07-22T12:00:32Z
+
+REPO ecklf/react-native-heroicons
+url=https://github.com/ecklf/react-native-heroicons
+description=React Native components for heroicons
+language=TypeScript
+stars=143
+forks=15
+watchers=143
+license=MIT
+archived=false
+fork=false
+open_issues=1
+default_branch=main
+created=2020-05-12T11:27:46Z
+updated=2026-03-31T17:28:49Z
+pushed=2024-02-21T00:06:50Z
+
+REPO edgestorejs/edgestore
+url=https://github.com/edgestorejs/edgestore
+description=N/A
+language=TypeScript
+stars=451
+forks=31
+watchers=451
+license=MIT
+archived=false
+fork=false
+open_issues=36
+default_branch=main
+created=2022-12-28T02:11:24Z
+updated=2026-07-19T11:53:55Z
+pushed=2026-07-22T14:04:04Z
+
+REPO electron/electron
+url=https://github.com/electron/electron
+description=:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+language=C++
+topics=c-plus-plus,chrome,css,electron,html,javascript,nodejs,v8,works-with-codespaces
+stars=122147
+forks=17330
+watchers=122147
+license=MIT
+archived=false
+fork=false
+open_issues=876
+default_branch=main
+created=2013-04-12T01:47:36Z
+updated=2026-07-23T11:14:45Z
+pushed=2026-07-23T07:02:39Z
+
+REPO emilkowalski/sonner
+url=https://github.com/emilkowalski/sonner
+description=An opinionated toast component for React.
+language=TypeScript
+topics=notifications,react,toast
+stars=12694
+forks=453
+watchers=12694
+license=MIT
+archived=false
+fork=false
+open_issues=86
+default_branch=main
+created=2023-02-23T11:01:18Z
+updated=2026-07-23T12:15:50Z
+pushed=2025-12-23T23:47:55Z
+
+REPO emilkowalski/vaul
+url=https://github.com/emilkowalski/vaul
+description=A drawer component for React.
+language=TypeScript
+topics=dialog,drawer,react
+stars=8506
+forks=363
+watchers=8506
+license=MIT
+archived=false
+fork=false
+open_issues=157
+default_branch=main
+created=2023-07-16T11:24:46Z
+updated=2026-07-23T10:08:25Z
+pushed=2025-10-03T19:25:32Z
+
+REPO expo/examples
+url=https://github.com/expo/examples
+description=Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
+language=TypeScript
+topics=examples,expo,expo-examples,expo-web,react-native,react-native-example,react-native-web,react-native-web-examples
+stars=3680
+forks=1096
+watchers=3680
+license=MIT
+archived=false
+fork=false
+open_issues=133
+default_branch=master
+created=2017-03-30T21:18:03Z
+updated=2026-07-22T04:56:03Z
+pushed=2026-07-02T12:35:45Z
+
+REPO expo/expo
+url=https://github.com/expo/expo
+description=An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+language=TypeScript
+topics=android,app-framework,expo,framework,frontend,ios,javascript,mobile,native,native-apps,react,react-native,typescript,universal,web,web-framework
+stars=50961
+forks=13155
+watchers=50961
+license=MIT
+archived=false
+fork=false
+open_issues=695
+default_branch=main
+created=2016-08-15T17:14:25Z
+updated=2026-07-23T12:13:30Z
+pushed=2026-07-23T11:08:30Z
+
+REPO expressjs/express
+url=https://github.com/expressjs/express
+description=Fast, unopinionated, minimalist web framework for node.
+language=JavaScript
+topics=express,javascript,nodejs,server
+stars=69233
+forks=24306
+watchers=69233
+license=MIT
+archived=false
+fork=false
+open_issues=226
+default_branch=master
+created=2009-06-26T18:56:01Z
+updated=2026-07-23T11:57:01Z
+pushed=2026-07-12T18:27:44Z
+
+REPO facebook/docusaurus
+url=https://github.com/facebook/docusaurus
+description=Easy to maintain open source documentation websites.
+language=TypeScript
+topics=documentation,hacktoberfest,javascript,open-source,react,website
+stars=65714
+forks=9975
+watchers=65714
+license=MIT
+archived=false
+fork=false
+open_issues=385
+default_branch=main
+created=2017-06-20T16:13:53Z
+updated=2026-07-23T12:09:00Z
+pushed=2026-07-23T11:45:09Z
+
+REPO facebook/relay
+url=https://github.com/facebook/relay
+description=Relay is a JavaScript framework for building data-driven React applications.
+language=Rust
+stars=18950
+forks=1895
+watchers=18950
+license=MIT
+archived=false
+fork=false
+open_issues=862
+default_branch=main
+created=2015-08-10T22:09:16Z
+updated=2026-07-23T01:21:33Z
+pushed=2026-07-23T01:21:24Z
+
+REPO farm-fe/farm
+url=https://github.com/farm-fe/farm
+description=Extremely fast Vite-compatible web build tool written in Rust
+language=Rust
+topics=build-tool,bundler,compiler,farm,frontend,hmr,rust,typescript,vite
+stars=5593
+forks=191
+watchers=5593
+license=MIT
+archived=false
+fork=false
+open_issues=214
+default_branch=main
+created=2022-06-26T10:24:02Z
+updated=2026-07-20T03:15:21Z
+pushed=2026-06-14T13:57:04Z
+
+REPO feature-sliced/documentation
+url=https://github.com/feature-sliced/documentation
+description=Architectural methodology for frontend projects
+language=MDX
+topics=architecture,domain-driven,feature-sliced,frontend,frontend-architecture,high-cohesion,low-coupling,separation-of-concerns,vertical-slices
+stars=2324
+forks=223
+watchers=2324
+license=MIT
+archived=false
+fork=false
+open_issues=91
+default_branch=main
+created=2021-01-10T19:37:29Z
+updated=2026-07-23T06:06:28Z
+pushed=2026-07-13T08:19:05Z
+
+REPO fent/node-ytdl-core
+url=https://github.com/fent/node-ytdl-core
+description=YouTube video downloader in javascript.
+language=JavaScript
+topics=node,scraper,video-downloader,youtube,youtube-downloader
+stars=4733
+forks=855
+watchers=4733
+license=MIT
+archived=false
+fork=false
+open_issues=124
+default_branch=master
+created=2014-06-29T22:06:35Z
+updated=2026-07-13T22:30:44Z
+pushed=2025-11-10T17:51:03Z
+
+REPO FiloSottile/mkcert
+url=https://github.com/FiloSottile/mkcert
+description=A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+language=Go
+topics=certificates,chrome,firefox,https,ios,linux,local-development,localhost,macos,root-ca,tls,windows
+stars=59358
+forks=3132
+watchers=59358
+license=BSD-3-Clause
+archived=false
+fork=false
+open_issues=176
+default_branch=master
+created=2018-06-25T05:33:03Z
+updated=2026-07-23T11:57:57Z
+pushed=2024-08-13T13:37:46Z
+
+REPO filp/whoops
+url=https://github.com/filp/whoops
+description=PHP errors for cool kids
+language=PHP
+topics=error-handling,errors,php,php-errors,ui,whoops
+stars=13238
+forks=602
+watchers=13238
+license=MIT
+archived=false
+fork=false
+open_issues=9
+default_branch=master
+created=2013-03-11T16:58:27Z
+updated=2026-07-22T15:38:54Z
+pushed=2026-05-06T10:57:24Z
+
+REPO flightcontrolhq/superjson
+url=https://github.com/flightcontrolhq/superjson
+description=Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+language=TypeScript
+topics=blitzjs,hacktoberfest,javascript,json,superjson
+stars=5272
+forks=122
+watchers=5272
+license=MIT
+archived=false
+fork=false
+open_issues=46
+default_branch=main
+created=2014-12-30T10:48:42Z
+updated=2026-07-20T19:12:10Z
+pushed=2026-06-18T13:56:42Z
+
+REPO Flow-Launcher/Flow.Launcher
+url=https://github.com/Flow-Launcher/Flow.Launcher
+description=:mag: Quick file search & app launcher for Windows with community-made plugins
+language=C#
+topics=alfred,application-launcher,desktop,finder,flow-launcher,hacktoberfest,keyboard-launcher,launcher,launchy,listary,plugins,portable,productivity,productivity-tools,raycast,search,spotlight,windows,wox
+stars=15235
+forks=622
+watchers=15235
+license=MIT
+archived=false
+fork=false
+open_issues=289
+default_branch=dev
+created=2020-04-21T08:12:15Z
+updated=2026-07-23T10:17:03Z
+pushed=2026-07-20T22:42:42Z
+
+REPO flutter/flutter
+url=https://github.com/flutter/flutter
+description=Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+language=Dart
+topics=android,app-framework,cross-platform,dart,dart-platform,desktop,flutter,flutter-package,fuchsia,ios,linux-desktop,macos,material-design,mobile,mobile-development,skia,web,web-framework,windows
+stars=177906
+forks=30751
+watchers=177906
+license=BSD-3-Clause
+archived=false
+fork=false
+open_issues=12967
+default_branch=master
+created=2015-03-06T22:54:58Z
+updated=2026-07-23T09:38:58Z
+pushed=2026-07-23T07:28:52Z
+
+REPO FormidableLabs/nuka-carousel
+url=https://github.com/FormidableLabs/nuka-carousel
+description=Small, fast, and accessibility-first React carousel library with an easily customizable UI and behavior to fit your brand and site.
+language=TypeScript
+topics=carousel,javascript,nuka-carousel,react,reactjs,slide
+stars=3099
+forks=590
+watchers=3099
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=26
+default_branch=main
+created=2015-04-20T19:52:07Z
+updated=2026-07-15T17:50:56Z
+pushed=2026-04-07T23:05:12Z
+
+REPO FormidableLabs/victory
+url=https://github.com/FormidableLabs/victory
+description=A collection of composable React components for building interactive data visualizations
+language=TypeScript
+topics=charts,d3,data-visualization,react
+stars=11241
+forks=537
+watchers=11241
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=91
+default_branch=main
+created=2015-07-02T22:36:50Z
+updated=2026-07-15T17:50:59Z
+pushed=2025-12-19T23:11:18Z
+
+REPO formkit/auto-animate
+url=https://github.com/formkit/auto-animate
+description=A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+language=TypeScript
+topics=animation,javascript,react,ui,vue
+stars=13879
+forks=255
+watchers=13879
+license=MIT
+archived=false
+fork=false
+open_issues=42
+default_branch=master
+created=2022-05-11T18:50:01Z
+updated=2026-07-23T04:38:45Z
+pushed=2026-07-10T16:08:00Z
+
+REPO fuma-nama/fumadocs
+url=https://github.com/fuma-nama/fumadocs
+description=The beautiful & flexible React.js docs framework.
+language=TypeScript
+topics=app-router,content-collections,contentlayer,docs,fumadocs,mdx,next,nextjs,react-router,tailwindcss,tanstack-router,typescript
+stars=12651
+forks=705
+watchers=12651
+license=MIT
+archived=false
+fork=false
+open_issues=2
+default_branch=dev
+created=2023-07-03T10:27:50Z
+updated=2026-07-23T11:23:18Z
+pushed=2026-07-23T11:02:35Z
+
+REPO GantMan/jail-monkey
+url=https://github.com/GantMan/jail-monkey
+description=A React Native library for identifying if a phone is rooted or mocking locations
+language=Java
+topics=android,jailbreak,mock-locations,react,react-native,trust
+stars=752
+forks=168
+watchers=752
+license=MIT
+archived=false
+fork=false
+open_issues=29
+default_branch=master
+created=2016-07-20T13:59:01Z
+updated=2026-07-23T08:50:47Z
+pushed=2026-04-28T08:07:23Z
+
+REPO Genymobile/scrcpy
+url=https://github.com/Genymobile/scrcpy
+description=Display and control your Android device
+language=C
+topics=android,c,ffmpeg,libav,mirroring,recording,screen,sdl2
+stars=146232
+forks=13480
+watchers=146232
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=2858
+default_branch=master
+created=2017-11-21T18:00:27Z
+updated=2026-07-23T12:11:10Z
+pushed=2026-07-12T18:16:07Z
+
+REPO gin-gonic/gin
+url=https://github.com/gin-gonic/gin
+description=Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+language=Go
+topics=framework,gin,go,middleware,performance,router,server
+stars=88941
+forks=8649
+watchers=88941
+license=MIT
+archived=false
+fork=false
+open_issues=726
+default_branch=master
+created=2014-06-16T23:57:25Z
+updated=2026-07-23T12:12:28Z
+pushed=2026-07-16T22:32:47Z
+
+REPO github/copilot-cli
+url=https://github.com/github/copilot-cli
+description=GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
+language=Shell
+stars=11005
+forks=1806
+watchers=11005
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=1973
+default_branch=main
+created=2023-01-06T09:22:30Z
+updated=2026-07-23T09:36:29Z
+pushed=2026-07-22T22:41:33Z
+
+REPO github/copilot-docs
+url=https://github.com/github/copilot-docs
+description=Documentation for GitHub Copilot
+language=N/A
+stars=23209
+forks=2371
+watchers=23209
+license=CC-BY-4.0
+archived=true
+fork=false
+open_issues=17
+default_branch=main
+created=2021-10-23T16:07:04Z
+updated=2026-07-22T23:32:32Z
+pushed=2023-11-24T03:19:19Z
+
+REPO godotengine/godot
+url=https://github.com/godotengine/godot
+description=Godot Engine – Multi-platform 2D and 3D game engine
+language=C++
+topics=game-development,game-engine,gamedev,godot,godotengine,multi-platform,open-source
+stars=114524
+forks=26084
+watchers=114524
+license=MIT
+archived=false
+fork=false
+open_issues=18582
+default_branch=master
+created=2014-01-04T16:05:36Z
+updated=2026-07-23T11:39:39Z
+pushed=2026-07-22T21:28:37Z
+
+REPO googleapis/google-api-nodejs-client
+url=https://github.com/googleapis/google-api-nodejs-client
+description=Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
+language=TypeScript
+topics=client,client-library,google,google-api,nodejs
+stars=12209
+forks=2031
+watchers=12209
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=222
+default_branch=main
+created=2013-03-06T17:02:23Z
+updated=2026-07-22T19:16:25Z
+pushed=2026-07-17T20:47:37Z
+
+REPO gradio-app/gradio
+url=https://github.com/gradio-app/gradio
+description=Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+language=Python
+topics=data-analysis,data-science,data-visualization,deep-learning,deploy,gradio,gradio-interface,interface,machine-learning,models,python,python-notebook,ui,ui-components
+stars=43187
+forks=3558
+watchers=43187
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=221
+default_branch=main
+created=2018-12-19T08:24:04Z
+updated=2026-07-23T12:05:56Z
+pushed=2026-07-23T10:12:42Z
+
+REPO graphql/graphiql
+url=https://github.com/graphql/graphiql
+description=GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+language=TypeScript
+topics=codemirror,graphiql,graphql,lsp-mode,lsp-server,monaco-editor,vscode
+stars=16880
+forks=1850
+watchers=16880
+license=MIT
+archived=false
+fork=false
+open_issues=391
+default_branch=main
+created=2015-08-11T02:56:22Z
+updated=2026-07-23T10:48:52Z
+pushed=2026-07-20T21:00:31Z
+
+REPO grubersjoe/react-activity-calendar
+url=https://github.com/grubersjoe/react-activity-calendar
+description=React component for displaying activity data in a calendar (heatmap)
+language=TypeScript
+topics=activity,calendar,component,react
+stars=587
+forks=42
+watchers=587
+license=MIT
+archived=false
+fork=false
+open_issues=2
+default_branch=main
+created=2021-06-14T20:09:08Z
+updated=2026-07-22T14:51:54Z
+pushed=2026-07-22T14:50:59Z
+
+REPO gskinner/regexr
+url=https://github.com/gskinner/regexr
+description=RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
+language=JavaScript
+stars=10343
+forks=1004
+watchers=10343
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=218
+default_branch=master
+created=2014-03-07T06:21:39Z
+updated=2026-07-23T01:15:48Z
+pushed=2025-07-17T15:40:23Z
+
+REPO gtmassey/laravel-analytics
+url=https://github.com/gtmassey/laravel-analytics
+description=Run Google Analytics queries inside your Laravel Application
+language=PHP
+stars=37
+forks=9
+watchers=37
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=4
+default_branch=main
+created=2022-11-17T22:40:26Z
+updated=2026-07-07T14:39:48Z
+pushed=2024-11-13T16:40:02Z
+
+REPO guocaoyi/create-chrome-ext
+url=https://github.com/guocaoyi/create-chrome-ext
+description=🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
+language=TypeScript
+topics=chrome-extension,chrome-extension-boilerplate,chrome-extension-starter,create-chrome-extension,inferno,javascript,lit-element,manifest-v3,preact,react,solid,starter,stencil,stenciljs,svelte,typescript,vanilla-js,vite,vite4,vue
+stars=2121
+forks=156
+watchers=2121
+license=MIT
+archived=false
+fork=false
+open_issues=34
+default_branch=main
+created=2022-06-29T04:11:27Z
+updated=2026-07-07T10:38:42Z
+pushed=2025-08-23T01:22:47Z
+
+REPO guoyww/AnimateDiff
+url=https://github.com/guoyww/AnimateDiff
+description=Official implementation of AnimateDiff.
+language=Python
+stars=12193
+forks=1087
+watchers=12193
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=321
+default_branch=main
+created=2023-06-17T11:14:28Z
+updated=2026-07-23T10:43:38Z
+pushed=2024-07-31T01:14:15Z
+
+REPO H1R0GH057/Anonymous
+url=https://github.com/H1R0GH057/Anonymous
+description=N/A
+language=Python
+stars=2000
+forks=1152
+watchers=2000
+license=N/A
+archived=false
+fork=false
+open_issues=41
+default_branch=master
+created=2017-08-31T07:59:57Z
+updated=2026-07-17T13:25:40Z
+pushed=2023-06-25T10:14:54Z
+
+REPO hainguyents13/mechvibes
+url=https://github.com/hainguyents13/mechvibes
+description=Mechvibes
+language=JavaScript
+topics=keycaps,mechanical-keyboard,productivity,sound,switch
+stars=2273
+forks=206
+watchers=2273
+license=MIT
+archived=false
+fork=false
+open_issues=18
+default_branch=main
+created=2019-12-06T18:25:08Z
+updated=2026-07-22T23:17:09Z
+pushed=2026-07-20T21:20:55Z
+
+REPO halfnelson/svelte-native
+url=https://github.com/halfnelson/svelte-native
+description=Svelte controlling native components via Nativescript
+language=TypeScript
+stars=1819
+forks=82
+watchers=1819
+license=MIT
+archived=true
+fork=false
+open_issues=48
+default_branch=master
+created=2019-01-31T14:19:35Z
+updated=2026-07-22T21:36:32Z
+pushed=2025-03-13T22:11:00Z
+
+REPO HalilDeniz/PrivacyNet
+url=https://github.com/HalilDeniz/PrivacyNet
+description=PrivacyNet: Privacy Network
+language=Python
+topics=anonymous,hidden,hidden-service,hidden-services,network,privacy-tools,python3,tor,tor-browser,torbrowser
+stars=56
+forks=12
+watchers=56
+license=MIT
+archived=false
+fork=false
+open_issues=0
+default_branch=main
+created=2023-05-04T06:53:12Z
+updated=2026-07-03T15:31:19Z
+pushed=2026-05-07T06:55:51Z
+
+REPO hammerjs/hammer.js
+url=https://github.com/hammerjs/hammer.js
+description=A javascript library for multi-touch gestures :// You can touch this
+language=JavaScript
+stars=24351
+forks=2566
+watchers=24351
+license=MIT
+archived=false
+fork=false
+open_issues=317
+default_branch=master
+created=2012-03-02T12:58:28Z
+updated=2026-07-23T00:47:13Z
+pushed=2026-01-04T10:52:57Z
+
+REPO hashicorp/next-mdx-remote
+url=https://github.com/hashicorp/next-mdx-remote
+description=Load MDX content from anywhere
+language=TypeScript
+stars=3077
+forks=148
+watchers=3077
+license=MPL-2.0
+archived=true
+fork=false
+open_issues=66
+default_branch=main
+created=2020-04-23T00:07:26Z
+updated=2026-07-16T10:57:32Z
+pushed=2026-03-26T06:02:26Z
+
+REPO helmetjs/helmet
+url=https://github.com/helmetjs/helmet
+description=Help secure Express apps with various HTTP headers
+language=TypeScript
+topics=helmet,http-headers,javascript,middleware,security
+stars=10712
+forks=409
+watchers=10712
+license=MIT
+archived=false
+fork=false
+open_issues=5
+default_branch=main
+created=2012-02-01T22:54:45Z
+updated=2026-07-22T23:31:26Z
+pushed=2026-07-21T11:32:24Z
+
+REPO hevar/awesome-react-tailwindcss-ui-components
+url=https://github.com/hevar/awesome-react-tailwindcss-ui-components
+description=N/A
+language=N/A
+stars=502
+forks=20
+watchers=502
+license=N/A
+archived=false
+fork=false
+open_issues=3
+default_branch=master
+created=2024-05-05T20:38:51Z
+updated=2026-07-19T10:39:46Z
+pushed=2024-05-10T01:25:34Z
+
+REPO hexclave/hexclave
+url=https://github.com/hexclave/hexclave
+description=The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.
+language=TypeScript
+topics=analytics,api-keys,auth0,authentication,authorization,billing,clerk,emails,multi-tenancy,nextjs,oauth,passkeys,payments,posthog,rbac,self-hosted,subscriptions,supabase,teams
+stars=6838
+forks=521
+watchers=6838
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=51
+default_branch=dev
+created=2024-02-28T13:01:24Z
+updated=2026-07-23T10:01:03Z
+pushed=2026-07-23T01:23:01Z
+
+REPO honojs/hono
+url=https://github.com/honojs/hono
+description=Web framework built on Web Standards
+language=TypeScript
+topics=aws-lambda,bun,cloudflare,cloudflare-workers,deno,npm,router,typescript,web-framework
+stars=31450
+forks=1183
+watchers=31450
+license=MIT
+archived=false
+fork=false
+open_issues=369
+default_branch=main
+created=2021-12-14T20:05:30Z
+updated=2026-07-23T11:39:55Z
+pushed=2026-07-22T09:30:40Z
+
+REPO huggingface/transformers
+url=https://github.com/huggingface/transformers
+description=🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+language=Python
+topics=audio,deep-learning,deepseek,gemma,glm,hacktoberfest,llm,machine-learning,model-hub,natural-language-processing,nlp,pretrained-models,python,pytorch,pytorch-transformers,qwen,speech-recognition,transformer,vlm
+stars=162871
+forks=34000
+watchers=162871
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=2393
+default_branch=main
+created=2018-10-29T13:56:00Z
+updated=2026-07-23T12:23:17Z
+pushed=2026-07-23T12:23:17Z
+
+REPO HugoRCD/shelve
+url=https://github.com/HugoRCD/shelve
+description=Open-source secret & environment management. Secure, simple, collaborative. CLI & Github Sync
+language=TypeScript
+topics=cli,collaboration,developer-experience,developer-tools,env,environment-variables,github,open-source,secrets,secrets-management,security,self-hosted,workflow
+stars=434
+forks=38
+watchers=434
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=19
+default_branch=main
+created=2024-02-27T13:51:42Z
+updated=2026-07-23T08:31:34Z
+pushed=2026-05-31T19:18:00Z
+
+REPO HumanAIGC/EMO
+url=https://github.com/HumanAIGC/EMO
+description=Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
+language=N/A
+stars=7609
+forks=929
+watchers=7609
+license=N/A
+archived=false
+fork=false
+open_issues=257
+default_branch=main
+created=2024-02-27T11:23:44Z
+updated=2026-07-22T17:37:39Z
+pushed=2024-08-21T09:40:06Z
+
+REPO i18next/i18next-browser-languageDetector
+url=https://github.com/i18next/i18next-browser-languageDetector
+description=language detector used in browser environment for i18next
+language=JavaScript
+topics=detection,i18next,language,plugin
+stars=966
+forks=100
+watchers=966
+license=MIT
+archived=false
+fork=false
+open_issues=0
+default_branch=master
+created=2015-10-28T08:33:58Z
+updated=2026-06-30T04:30:48Z
+pushed=2026-06-30T04:40:53Z
+
+REPO i18next/i18next-http-backend
+url=https://github.com/i18next/i18next-http-backend
+description=i18next-http-backend is a backend layer for i18next using in Node.js, in the browser and for Deno.
+language=JavaScript
+topics=backend,deno,fetch,i18next,javascript,nodejs,plugin,xhr
+stars=524
+forks=70
+watchers=524
+license=MIT
+archived=false
+fork=false
+open_issues=0
+default_branch=master
+created=2020-04-13T15:37:02Z
+updated=2026-07-14T16:45:41Z
+pushed=2026-06-10T16:40:47Z
+
+REPO i18next/react-i18next
+url=https://github.com/i18next/react-i18next
+description=Internationalization for react done right. Using the i18next i18n ecosystem.
+language=JavaScript
+topics=i18n,i18next,internationalization,react,react-native,ssr,translation
+stars=10031
+forks=1052
+watchers=10031
+license=MIT
+archived=false
+fork=false
+open_issues=1
+default_branch=master
+created=2015-12-12T12:52:11Z
+updated=2026-07-23T10:43:06Z
+pushed=2026-07-22T21:24:33Z
+
+REPO iamkun/dayjs
+url=https://github.com/iamkun/dayjs
+description=⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+language=JavaScript
+topics=date,date-formatting,datetime,dayjs,moment,time
+stars=48661
+forks=2455
+watchers=48661
+license=MIT
+archived=false
+fork=false
+open_issues=1289
+default_branch=dev
+created=2018-04-10T09:26:44Z
+updated=2026-07-23T09:38:24Z
+pushed=2026-06-30T11:46:54Z
+
+REPO iBotPeaches/Apktool
+url=https://github.com/iBotPeaches/Apktool
+description=A tool for reverse engineering Android apk files
+language=Java
+topics=9patch,android,apk,apktool,arsc,reverse-engineering
+stars=25085
+forks=3972
+watchers=25085
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=84
+default_branch=main
+created=2012-03-19T17:46:53Z
+updated=2026-07-23T09:26:40Z
+pushed=2026-07-22T15:56:29Z
+
+REPO IceWhaleTech/CasaOS
+url=https://github.com/IceWhaleTech/CasaOS
+description=CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+language=Go
+topics=casaos,docker,golang,home-automation,home-cloud,home-server,iot,raspberry,self-hosted,vuejs
+stars=36817
+forks=2153
+watchers=36817
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=824
+default_branch=main
+created=2021-09-26T02:33:09Z
+updated=2026-07-23T08:46:27Z
+pushed=2025-08-06T08:54:04Z
+
+REPO iconify/iconify
+url=https://github.com/iconify/iconify
+description=Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). SVG framework, React, Vue and Svelte components!
+language=TypeScript
+topics=emoji,glyph-fonts,icons,svg,svg-framework,vector-icons
+stars=6231
+forks=198
+watchers=6231
+license=MIT
+archived=false
+fork=false
+open_issues=21
+default_branch=main
+created=2017-02-22T15:23:59Z
+updated=2026-07-22T08:19:46Z
+pushed=2026-07-22T07:09:46Z
+
+REPO idosal/git-mcp
+url=https://github.com/idosal/git-mcp
+description=Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+language=TypeScript
+topics=agentic-ai,agents,ai,claude,copilot,cursor,git,llm,mcp
+stars=8279
+forks=736
+watchers=8279
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=76
+default_branch=main
+created=2025-03-29T00:44:19Z
+updated=2026-07-23T09:05:46Z
+pushed=2026-05-08T14:21:24Z
+
+REPO iii-hq/iii
+url=https://github.com/iii-hq/iii
+description=Effortlessly compose, extend, and observe every service in real-time for the first time ever.
+language=Rust
+topics=agents,ai,api,backend,developer-tools,engine,genai,javascript,primitives,python,rust,typescript
+stars=18490
+forks=1241
+watchers=18490
+license=N/A
+archived=false
+fork=false
+open_issues=46
+default_branch=main
+created=2025-01-02T17:45:02Z
+updated=2026-07-23T11:17:58Z
+pushed=2026-07-23T11:28:52Z
+
+REPO illuminate/database
+url=https://github.com/illuminate/database
+description=[READ ONLY] Subtree split of the Illuminate Database component (see laravel/framework)
+language=PHP
+stars=2771
+forks=606
+watchers=2771
+license=MIT
+archived=false
+fork=false
+open_issues=7
+default_branch=master
+created=2012-06-05T01:43:19Z
+updated=2026-07-21T20:36:23Z
+pushed=2026-07-23T00:00:16Z
+
+REPO intentui/intentui
+url=https://github.com/intentui/intentui
+description=Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
+language=TypeScript
+topics=components,design-systems,intentui,justd,react,react-aria,react-aria-components,react-components,tailwind,tailwind-variants,tailwindcss,ui-components,ui-kit,wai-aria
+stars=1941
+forks=91
+watchers=1941
+license=MIT
+archived=false
+fork=false
+open_issues=2
+default_branch=3.x
+created=2024-07-05T06:07:10Z
+updated=2026-07-21T18:24:02Z
+pushed=2026-07-21T13:40:29Z
+
+REPO ionic-team/ionic-framework
+url=https://github.com/ionic-team/ionic-framework
+description=A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+language=TypeScript
+topics=angular,capacitor,framework,frontend,ionic,ios,javascript,material-design,mobile,pwa,react,stencil,stenciljs,typescript,ui-components,vue,web,webcomponents
+stars=52595
+forks=13334
+watchers=52595
+license=MIT
+archived=false
+fork=false
+open_issues=633
+default_branch=main
+created=2013-08-20T23:06:02Z
+updated=2026-07-23T10:04:41Z
+pushed=2026-07-23T01:53:07Z
+
+REPO ipfs/service-worker-gateway
+url=https://github.com/ipfs/service-worker-gateway
+description=IPFS Gateway implemented in Service Worker
+language=TypeScript
+topics=helia,ipfs,ipfs-gateway,ipfs-helia,service-worker,typescript
+stars=120
+forks=34
+watchers=120
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=31
+default_branch=main
+created=2023-03-31T18:34:49Z
+updated=2026-07-23T10:57:46Z
+pushed=2026-07-23T11:08:49Z
+
+REPO irsyadadl/paranoid
+url=https://github.com/irsyadadl/paranoid
+description=A library of beautifully crafted react icons, perfect for enhancing the visual appeal and user experience of your web applications.
+language=JavaScript
+topics=icon,react-icon
+stars=47
+forks=3
+watchers=47
+license=MIT
+archived=false
+fork=false
+open_issues=0
+default_branch=master
+created=2023-12-02T04:21:10Z
+updated=2026-04-24T14:31:40Z
+pushed=2024-08-07T13:40:03Z
+
+REPO jamdotdev/jam-dev-utilities
+url=https://github.com/jamdotdev/jam-dev-utilities
+description=Lightweight utils set - fast and open-source. It's got cmd+k search & everything's client-side. No ads, your data stays local.
+language=TypeScript
+stars=527
+forks=68
+watchers=527
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=13
+default_branch=main
+created=2024-07-08T17:39:11Z
+updated=2026-07-22T13:11:43Z
+pushed=2026-07-20T08:51:51Z
+
+REPO Jax-Core/JaxCore
+url=https://github.com/Jax-Core/JaxCore
+description=A beautiful set of tools and widgets to spice up your desktop.
+language=C++
+topics=customization,utilities,windows,windows-10
+stars=957
+forks=57
+watchers=957
+license=MPL-2.0
+archived=true
+fork=false
+open_issues=1
+default_branch=main
+created=2021-11-26T13:17:09Z
+updated=2026-07-21T15:56:00Z
+pushed=2022-11-14T13:46:43Z
+
+REPO jeasonstudio/chrome-ai
+url=https://github.com/jeasonstudio/chrome-ai
+description=Vercel AI provider for Chrome built-in model (Gemini Nano)
+language=TypeScript
+topics=chrome,gemini,gemini-nano,llm,vercel-ai-sdk
+stars=376
+forks=40
+watchers=376
+license=MIT
+archived=false
+fork=false
+open_issues=6
+default_branch=main
+created=2024-06-12T07:53:57Z
+updated=2026-07-22T05:09:25Z
+pushed=2024-09-09T02:05:20Z
+
+REPO joe-bell/cva
+url=https://github.com/joe-bell/cva
+description=Class Variance Authority
+language=TypeScript
+topics=class-variance-authority,classname,classnames,css,cva,variants
+stars=6865
+forks=137
+watchers=6865
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=3
+default_branch=main
+created=2022-01-02T10:00:57Z
+updated=2026-07-23T07:40:37Z
+pushed=2026-07-21T15:59:42Z
+
+REPO jsdom/jsdom
+url=https://github.com/jsdom/jsdom
+description=A JavaScript implementation of various web standards, for use with Node.js
+language=JavaScript
+topics=dom-apis,html,javascript,jsdom,nodejs
+stars=21615
+forks=1786
+watchers=21615
+license=MIT
+archived=false
+fork=false
+open_issues=413
+default_branch=main
+created=2010-01-19T06:55:19Z
+updated=2026-07-22T23:31:21Z
+pushed=2026-07-20T08:32:00Z
+
+REPO juliangarnier/anime
+url=https://github.com/juliangarnier/anime
+description=JavaScript animation engine
+language=JavaScript
+topics=animation,anime,canvas,css,javascript,javascript-library,svg
+stars=71345
+forks=4795
+watchers=71345
+license=MIT
+archived=false
+fork=false
+open_issues=112
+default_branch=master
+created=2016-03-13T21:37:45Z
+updated=2026-07-23T12:06:25Z
+pushed=2026-06-22T15:28:21Z
+
+REPO kaje94/menufic
+url=https://github.com/kaje94/menufic
+description=Create digital menus effortlessly with this restaurant menu generator. Built on the T3 stack (Next.js pages router, Prisma, PlanetScale, TRCP, NextAuth) for seamless functionality
+language=TypeScript
+topics=create-t3-app,imagekit,mantine,neondb,nextauth,nextauthjs,nextjs,nodejs,playwright,prisma,react,t3,t3-stack,trpc,typescript,vercel
+stars=136
+forks=60
+watchers=136
+license=MIT
+archived=false
+fork=false
+open_issues=6
+default_branch=main
+created=2023-01-16T08:11:52Z
+updated=2026-07-07T15:48:46Z
+pushed=2026-07-06T02:22:49Z
+
+REPO karthikmudunuri/eldoraui
+url=https://github.com/karthikmudunuri/eldoraui
+description=Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.
+language=TypeScript
+stars=1945
+forks=93
+watchers=1945
+license=MIT
+archived=false
+fork=false
+open_issues=0
+default_branch=main
+created=2024-06-01T17:18:15Z
+updated=2026-07-15T13:55:00Z
+pushed=2026-04-18T14:56:19Z
+
+REPO KeygraphHQ/shannon
+url=https://github.com/KeygraphHQ/shannon
+description=Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+language=TypeScript
+topics=penetration-testing,pentesting,security-audit,security-automation,security-tools
+stars=46080
+forks=5331
+watchers=46080
+license=AGPL-3.0
+archived=false
+fork=false
+open_issues=23
+default_branch=main
+created=2025-09-27T01:51:47Z
+updated=2026-07-23T11:06:48Z
+pushed=2026-07-20T06:27:08Z
+
+REPO kimjisub/unipad-android
+url=https://github.com/kimjisub/unipad-android
+description=UniPad for Android
+language=Kotlin
+stars=49
+forks=11
+watchers=49
+license=LGPL-2.1
+archived=false
+fork=false
+open_issues=4
+default_branch=main
+created=2017-05-17T04:01:52Z
+updated=2026-07-15T09:52:26Z
+pushed=2026-07-15T09:52:27Z
+
+REPO koala73/worldmonitor
+url=https://github.com/koala73/worldmonitor
+description=Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+language=TypeScript
+topics=agent,ai,dashboard,geopolitics,mcp,mcp-server,monitoring,news,opensource,osint,palantir,situation
+stars=70592
+forks=10695
+watchers=70592
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=257
+default_branch=main
+created=2026-01-08T17:26:06Z
+updated=2026-07-23T12:25:01Z
+pushed=2026-07-23T11:30:45Z
+
+REPO laravel/laravel
+url=https://github.com/laravel/laravel
+description=Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
+language=Blade
+topics=framework,laravel,php
+stars=84660
+forks=24796
+watchers=84660
+license=N/A
+archived=false
+fork=false
+open_issues=31
+default_branch=13.x
+created=2011-06-08T03:06:08Z
+updated=2026-07-23T11:54:03Z
+pushed=2026-07-16T14:43:42Z
+
+REPO lbjlaq/Antigravity-Manager
+url=https://github.com/lbjlaq/Antigravity-Manager
+description=Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+language=Rust
+topics=account-manager,antigravity
+stars=30198
+forks=3267
+watchers=30198
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=1770
+default_branch=main
+created=2025-11-26T10:47:13Z
+updated=2026-07-23T12:14:24Z
+pushed=2026-07-20T10:00:06Z
+
+REPO lerna/lerna
+url=https://github.com/lerna/lerna
+description=Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+language=TypeScript
+topics=lerna,monorepo,npm,package,publishing
+stars=36050
+forks=2271
+watchers=36050
+license=MIT
+archived=false
+fork=false
+open_issues=289
+default_branch=main
+created=2015-12-04T09:36:55Z
+updated=2026-07-23T09:27:52Z
+pushed=2026-07-17T11:31:57Z
+
+REPO LionSec/katoolin
+url=https://github.com/LionSec/katoolin
+description=Automatically install all Kali linux tools
+language=Python
+stars=5321
+forks=1420
+watchers=5321
+license=GPL-2.0
+archived=false
+fork=false
+open_issues=305
+default_branch=master
+created=2015-08-21T17:30:19Z
+updated=2026-07-18T16:55:08Z
+pushed=2024-04-29T16:00:01Z
+
+REPO lipis/flag-icons
+url=https://github.com/lipis/flag-icons
+description=:flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
+language=HTML
+topics=country,country-flags,css,icon-css,svg
+stars=12286
+forks=1948
+watchers=12286
+license=MIT
+archived=false
+fork=false
+open_issues=36
+default_branch=main
+created=2013-09-25T16:39:58Z
+updated=2026-07-23T10:03:48Z
+pushed=2026-07-10T02:02:50Z
+
+REPO liveblocks/frimousse
+url=https://github.com/liveblocks/frimousse
+description=A lightweight, unstyled, and composable emoji picker for React.
+language=TypeScript
+topics=component,emoji,emoji-picker,emojibase,liveblocks,react,unstyled
+stars=1761
+forks=41
+watchers=1761
+license=MIT
+archived=false
+fork=false
+open_issues=17
+default_branch=main
+created=2025-02-03T15:21:06Z
+updated=2026-07-17T15:11:20Z
+pushed=2026-06-04T08:33:59Z
+
+REPO lllyasviel/Fooocus
+url=https://github.com/lllyasviel/Fooocus
+description=Focus on prompting and generating
+language=Python
+stars=51162
+forks=8296
+watchers=51162
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=308
+default_branch=main
+created=2023-08-09T18:43:40Z
+updated=2026-07-23T10:59:54Z
+pushed=2025-12-01T19:17:07Z
+
+REPO lowlighter/metrics
+url=https://github.com/lowlighter/metrics
+description=📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+language=JavaScript
+topics=automated,automation,github,github-action,github-api,github-metrics,github-profile,javascript,metrics,profile,profile-card,profile-readme,readme,readme-generator,readme-profile,svg-image
+stars=16952
+forks=2240
+watchers=16952
+license=MIT
+archived=false
+fork=false
+open_issues=65
+default_branch=master
+created=2020-09-08T16:01:43Z
+updated=2026-07-22T19:33:23Z
+pushed=2026-05-29T21:41:23Z
+
+REPO lynx-family/lynx
+url=https://github.com/lynx-family/lynx
+description=Empower the Web community and invite more to build across platforms.
+language=C++
+topics=cross-platform,lynx,lynxjs
+stars=15001
+forks=540
+watchers=15001
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=974
+default_branch=develop
+created=2025-03-04T07:41:43Z
+updated=2026-07-23T11:12:58Z
+pushed=2026-07-23T12:23:39Z
+
+REPO magicuidesign/magicui
+url=https://github.com/magicuidesign/magicui
+description=UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
+language=MDX
+topics=components,framer-motion,nextjs,react,shadcn-ui,tailwindcss,typescript
+stars=21654
+forks=1069
+watchers=21654
+license=MIT
+archived=false
+fork=false
+open_issues=1
+default_branch=main
+created=2023-06-26T19:17:10Z
+updated=2026-07-23T07:49:40Z
+pushed=2026-07-21T14:44:46Z
+
+REPO malwaredllc/byob
+url=https://github.com/malwaredllc/byob
+description=An open-source post-exploitation framework for students, researchers and developers.
+language=Python
+topics=encrypted-connections,no-dependencies,platform-independent,post-exploitation,reverse-shells
+stars=9494
+forks=2148
+watchers=9494
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=5
+default_branch=master
+created=2017-12-18T09:10:12Z
+updated=2026-07-23T05:44:12Z
+pushed=2026-07-10T09:22:00Z
+
+REPO Mantan21/Genshin-Impact-Wish-Simulator
+url=https://github.com/Mantan21/Genshin-Impact-Wish-Simulator
+description=Best Genshin Impact Wish Simulator Website, no need to download, 100% running on browser!
+language=Svelte
+topics=game,genshin,genshin-impact,hacktoberfest,hoyoverse,javascript,mihoyo,svelte,sveltekit,webapp
+stars=288
+forks=90
+watchers=288
+license=MIT
+archived=false
+fork=false
+open_issues=18
+default_branch=master
+created=2021-09-07T22:47:51Z
+updated=2026-07-13T03:28:54Z
+pushed=2026-06-13T09:12:42Z
+
+REPO mantinedev/mantine
+url=https://github.com/mantinedev/mantine
+description=A fully featured React components library
+language=TypeScript
+topics=dark-mode,dark-theme,hooks,react,typescript,uikit
+stars=31473
+forks=2330
+watchers=31473
+license=MIT
+archived=false
+fork=false
+open_issues=52
+default_branch=master
+created=2021-01-07T14:02:19Z
+updated=2026-07-23T11:17:52Z
+pushed=2026-07-21T07:57:49Z
+
+REPO markmead/hyperui
+url=https://github.com/markmead/hyperui
+description=Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
+language=HTML
+topics=accessibility,components,css,design-system,frontend,html,tailwind,tailwindcss,tailwindui,templates,ui
+stars=12166
+forks=503
+watchers=12166
+license=MIT
+archived=false
+fork=false
+open_issues=1
+default_branch=main
+created=2021-11-12T17:14:11Z
+updated=2026-07-23T12:10:40Z
+pushed=2026-07-22T15:16:52Z
+
+REPO MatrixTM/MHDDoS
+url=https://github.com/MatrixTM/MHDDoS
+description=Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
+language=Python
+topics=amazon-bypass,attack,auto-proxy,bypass,cloudflare,cloudflare-bypass,ddos,ddos-attack-script,ddos-attack-tools,ddos-attacks,ddos-script,ddos-tool,ddosguard-bypass,dos,flood,hacking-tool,layer4,minecraftbot,ovh-bypass
+stars=16442
+forks=3599
+watchers=16442
+license=MIT
+archived=false
+fork=false
+open_issues=2
+default_branch=main
+created=2020-10-13T19:02:46Z
+updated=2026-07-23T12:00:30Z
+pushed=2026-05-01T15:02:14Z
+
+REPO mdx-js/mdx
+url=https://github.com/mdx-js/mdx
+description=Markdown for the component era
+language=JavaScript
+topics=jsx,markdown,mdx,react,remark,unified,vue
+stars=19703
+forks=1181
+watchers=19703
+license=MIT
+archived=false
+fork=false
+open_issues=20
+default_branch=main
+created=2017-12-24T00:01:48Z
+updated=2026-07-22T19:32:05Z
+pushed=2026-07-21T17:33:09Z
+
+REPO mehdibha/dotUI
+url=https://github.com/mehdibha/dotUI
+description=Build your design system within seconds.
+language=TypeScript
+topics=base-ui,components,react,react-aria-components,shadcn,tailwindcss,tanstack-start,ui
+stars=1349
+forks=34
+watchers=1349
+license=MIT
+archived=false
+fork=false
+open_issues=34
+default_branch=main
+created=2024-03-07T14:32:17Z
+updated=2026-07-23T03:37:15Z
+pushed=2026-07-23T03:44:09Z
+
+REPO Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client
+url=https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client
+description=A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
+language=JavaScript
+topics=cross-platform,desktop-app,desktop-assistant,electron,electron-app,g-assist,gassist,gaudc,google-assistant,google-assistant-sdk,linux,macos,virtual-assistant,windows
+stars=3629
+forks=412
+watchers=3629
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=349
+default_branch=master
+created=2020-01-12T20:40:54Z
+updated=2026-07-21T23:48:41Z
+pushed=2024-01-25T20:33:42Z
+
+REPO merakiuilabs/merakiui
+url=https://github.com/merakiuilabs/merakiui
+description=Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
+language=HTML
+topics=alpinejs,css-components,merakiui,tailwindcss,tailwindui,ui-components
+stars=2696
+forks=176
+watchers=2696
+license=MIT
+archived=false
+fork=false
+open_issues=3
+default_branch=main
+created=2020-05-01T20:02:07Z
+updated=2026-07-12T03:01:20Z
+pushed=2025-07-11T15:49:34Z
+
+REPO michalsnik/aos
+url=https://github.com/michalsnik/aos
+description=Animate on scroll library
+language=JavaScript
+stars=28071
+forks=2629
+watchers=28071
+license=MIT
+archived=false
+fork=false
+open_issues=373
+default_branch=next
+created=2015-07-09T17:49:00Z
+updated=2026-07-22T21:36:32Z
+pushed=2024-03-26T15:58:43Z
+
+REPO microsoft/monaco-editor
+url=https://github.com/microsoft/monaco-editor
+description=A browser based code editor
+language=JavaScript
+topics=browser,editor,monaco-editor,typescript,vscode
+stars=46410
+forks=4096
+watchers=46410
+license=MIT
+archived=false
+fork=false
+open_issues=837
+default_branch=main
+created=2016-06-07T16:56:31Z
+updated=2026-07-23T10:49:00Z
+pushed=2026-07-20T21:26:33Z
+
+REPO microsoft/playwright-mcp
+url=https://github.com/microsoft/playwright-mcp
+description=Playwright MCP server
+language=TypeScript
+topics=mcp,playwright
+stars=35433
+forks=2952
+watchers=35433
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=1
+default_branch=main
+created=2025-03-21T17:48:36Z
+updated=2026-07-23T11:31:51Z
+pushed=2026-07-15T01:32:35Z
+
+REPO microsoft/PowerToys
+url=https://github.com/microsoft/PowerToys
+description=Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+language=C
+topics=advanced-paste,color-picker,command-palette,desktop,fancyzones,keyboard-manager,microsoft-powertoys,powerrename,powertoys,windows,windows-10,windows-11
+stars=136672
+forks=8300
+watchers=136672
+license=MIT
+archived=false
+fork=false
+open_issues=7427
+default_branch=main
+created=2019-05-01T17:44:02Z
+updated=2026-07-23T12:22:03Z
+pushed=2026-07-23T09:33:55Z
+
+REPO microsoft/vscode
+url=https://github.com/microsoft/vscode
+description=Visual Studio Code
+language=TypeScript
+topics=editor,electron,microsoft,typescript,visual-studio-code
+stars=187812
+forks=41398
+watchers=187812
+license=MIT
+archived=false
+fork=false
+open_issues=19510
+default_branch=main
+created=2015-09-03T20:23:38Z
+updated=2026-07-23T12:09:00Z
+pushed=2026-07-23T11:58:21Z
+
+REPO microsoft/Web-Dev-For-Beginners
+url=https://github.com/microsoft/Web-Dev-For-Beginners
+description=24 Lessons, 12 Weeks, Get Started as a Web Developer
+language=JavaScript
+topics=css,curriculum,education,html,javascript,learning,microsoft-for-beginners,tutorials
+stars=96055
+forks=15683
+watchers=96055
+license=MIT
+archived=false
+fork=false
+open_issues=89
+default_branch=main
+created=2020-11-10T02:44:00Z
+updated=2026-07-23T10:33:25Z
+pushed=2026-07-23T12:11:25Z
+
+REPO microsoft/winget-pkgs
+url=https://github.com/microsoft/winget-pkgs
+description=The Microsoft community Windows Package Manager manifest repository
+language=N/A
+topics=hacktoberfest
+stars=10864
+forks=8168
+watchers=10864
+license=MIT
+archived=false
+fork=false
+open_issues=2095
+default_branch=master
+created=2019-07-16T22:21:48Z
+updated=2026-07-23T12:10:52Z
+pushed=2026-07-23T12:25:05Z
+
+REPO Microwawe/mamba-ui
+url=https://github.com/Microwawe/mamba-ui
+description=Mamba UI is a free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
+language=HTML
+topics=angular,component,component-library,dark-theme,mamba-ui,prismjs,tailwind,tailwindcss,template,ui-kit
+stars=1193
+forks=52
+watchers=1193
+license=MIT
+archived=false
+fork=false
+open_issues=9
+default_branch=master
+created=2020-11-07T16:02:20Z
+updated=2026-07-22T02:35:18Z
+pushed=2024-04-03T19:48:41Z
+
+REPO MinJieLiu/react-photo-view
+url=https://github.com/MinJieLiu/react-photo-view
+description=An exquisite React photo preview component.
+language=TypeScript
+topics=gallery,gallery-images,image,image-preview,image-swipe,photo,photo-swipe,react,react-component
+stars=1889
+forks=150
+watchers=1889
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=63
+default_branch=master
+created=2018-09-03T01:30:40Z
+updated=2026-07-17T03:00:29Z
+pushed=2026-01-30T11:56:55Z
+
+REPO mintlify/starter
+url=https://github.com/mintlify/starter
+description=The starter kit for your mintlify project
+language=MDX
+stars=1877
+forks=531
+watchers=1877
+license=MIT
+archived=false
+fork=false
+open_issues=13
+default_branch=main
+created=2022-12-22T03:50:30Z
+updated=2026-07-21T22:01:59Z
+pushed=2026-06-15T22:54:56Z
+
+REPO MishanPoudel/Windows11-3.0
+url=https://github.com/MishanPoudel/Windows11-3.0
+description=Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
+language=JavaScript
+topics=clone-app,portfolio,portfolio-website,reactjs,windows-11,windows-11-web
+stars=825
+forks=171
+watchers=825
+license=N/A
+archived=false
+fork=false
+open_issues=3
+default_branch=main
+created=2024-03-27T11:53:36Z
+updated=2026-07-22T21:35:11Z
+pushed=2025-12-19T13:36:07Z
+
+REPO mistweaverco/bananas
+url=https://github.com/mistweaverco/bananas
+description=Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
+language=Svelte
+topics=cross-platform,multi-cursor,p2p,pair-programming,pairing,peer-to-peer,screensharing
+stars=6251
+forks=271
+watchers=6251
+license=MIT
+archived=false
+fork=false
+open_issues=18
+default_branch=main
+created=2024-10-10T16:05:25Z
+updated=2026-07-22T18:46:26Z
+pushed=2025-11-24T12:02:20Z
+
+REPO mlynch/nextjs-tailwind-ionic-capacitor-starter
+url=https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter
+description=A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor
+language=TypeScript
+topics=capacitor,ionic,ionic-framework,nextjs,react,tailwind,tailwind-css
+stars=1933
+forks=371
+watchers=1933
+license=MIT
+archived=false
+fork=false
+open_issues=5
+default_branch=main
+created=2020-12-21T03:54:02Z
+updated=2026-07-12T13:47:06Z
+pushed=2025-09-23T17:57:16Z
+
+REPO modelcontextprotocol/servers
+url=https://github.com/modelcontextprotocol/servers
+description=Model Context Protocol Servers
+language=TypeScript
+stars=88802
+forks=11274
+watchers=88802
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=679
+default_branch=main
+created=2024-11-19T01:10:17Z
+updated=2026-07-23T11:35:07Z
+pushed=2026-07-10T03:30:19Z
+
+REPO morceaudebois/bonjourr.fr
+url=https://github.com/morceaudebois/bonjourr.fr
+description=Website for Bonjourr, a browser startpage extension inspired by iOS.
+language=MDX
+topics=astro,chrome-extension,firefox-addon,safari-extension,starlight-astro
+stars=19
+forks=8
+watchers=19
+license=N/A
+archived=false
+fork=false
+open_issues=1
+default_branch=master
+created=2019-06-01T18:25:01Z
+updated=2026-07-17T16:50:13Z
+pushed=2026-07-17T16:50:08Z
+
+REPO morethanwords/tweb
+url=https://github.com/morethanwords/tweb
+description=Telegram Web K, GPL v3
+language=TypeScript
+topics=javascript,progressive-web-app,single-page-app,telegram,webapp
+stars=2601
+forks=928
+watchers=2601
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=77
+default_branch=master
+created=2020-02-06T15:36:55Z
+updated=2026-07-22T12:09:01Z
+pushed=2026-07-22T01:45:33Z
+
+REPO motiondivision/motion
+url=https://github.com/motiondivision/motion
+description=A modern animation library for React and JavaScript
+language=TypeScript
+topics=animation,animation-js,motion,react,reactanimations,spring
+stars=32915
+forks=1275
+watchers=32915
+license=MIT
+archived=false
+fork=false
+open_issues=121
+default_branch=main
+created=2018-11-16T09:48:38Z
+updated=2026-07-23T12:06:13Z
+pushed=2026-07-01T08:38:21Z
+
+REPO mpetazzoni/leaflet-gpx
+url=https://github.com/mpetazzoni/leaflet-gpx
+description=A GPX track plugin for Leaflet.js
+language=JavaScript
+topics=gps-track,gpx,leaflet-gpx,leaflet-plugin
+stars=617
+forks=127
+watchers=617
+license=BSD-2-Clause
+archived=false
+fork=false
+open_issues=12
+default_branch=main
+created=2013-01-16T00:40:29Z
+updated=2026-06-18T08:28:14Z
+pushed=2026-03-05T18:23:45Z
+
+REPO mrdoob/three.js
+url=https://github.com/mrdoob/three.js
+description=JavaScript 3D Library.
+language=JavaScript
+topics=3d,augmented-reality,canvas,html5,javascript,svg,virtual-reality,webaudio,webgl,webgl2,webgpu,webxr
+stars=113930
+forks=36440
+watchers=113930
+license=MIT
+archived=false
+fork=false
+open_issues=383
+default_branch=dev
+created=2010-03-23T18:58:01Z
+updated=2026-07-23T12:24:23Z
+pushed=2026-07-23T12:24:10Z
+
+REPO mui/base-ui
+url=https://github.com/mui/base-ui
+description=Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+language=TypeScript
+topics=accessibility,base-ui,components,design-system,react,react-components,ui,wai-aria
+stars=10417
+forks=494
+watchers=10417
+license=MIT
+archived=false
+fork=false
+open_issues=397
+default_branch=master
+created=2024-02-23T13:23:54Z
+updated=2026-07-23T11:13:03Z
+pushed=2026-07-23T11:10:51Z
+
+REPO muxinc/next-video
+url=https://github.com/muxinc/next-video
+description=The easiest way to add video in your Nextjs app.
+language=TypeScript
+topics=hacktoberfest,next,nextjs,react,react-video,video,video-player,video-processing,video-streaming
+stars=1217
+forks=68
+watchers=1217
+license=MIT
+archived=false
+fork=false
+open_issues=1
+default_branch=main
+created=2023-07-25T17:53:12Z
+updated=2026-07-22T21:36:24Z
+pushed=2026-06-09T05:23:11Z
+
+REPO n8n-io/n8n
+url=https://github.com/n8n-io/n8n
+description=Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language=TypeScript
+topics=ai,apis,automation,cli,data-flow,development,integration-framework,integrations,ipaas,low-code,low-code-platform,mcp,mcp-client,mcp-server,n8n,no-code,self-hosted,typescript,workflow,workflow-automation
+stars=197596
+forks=59561
+watchers=197596
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=1375
+default_branch=master
+created=2019-06-22T09:24:21Z
+updated=2026-07-23T12:11:22Z
+pushed=2026-07-23T12:25:06Z
+
+REPO Naereen/badges
+url=https://github.com/Naereen/badges
+description=:pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
+language=Makefile
+topics=awesome,badges,forthebadge,forthebadge-cc,markdown,markdown-cheatsheet,markup,meta-badge,pokemon,python,restructuredtext
+stars=4624
+forks=541
+watchers=4624
+license=MIT
+archived=false
+fork=false
+open_issues=1
+default_branch=master
+created=2016-10-12T22:02:20Z
+updated=2026-07-20T08:18:20Z
+pushed=2026-05-07T06:03:10Z
+
+REPO nandorojo/moti
+url=https://github.com/nandorojo/moti
+description=🐼  The React Native (+ Web) animation library, powered by Reanimated 3.
+language=TypeScript
+stars=4546
+forks=156
+watchers=4546
+license=MIT
+archived=false
+fork=false
+open_issues=43
+default_branch=master
+created=2020-10-17T15:31:32Z
+updated=2026-07-23T09:08:56Z
+pushed=2025-03-11T20:26:04Z
+
+REPO NativeScript/NativeScript
+url=https://github.com/NativeScript/NativeScript
+description=⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible.
+language=TypeScript
+topics=android,angular,capacitor,cross-platform,flutter,ios,java,javascript,kotlin,nativescript,objective-c,react,solidjs,svelte,swift,swiftui,typescript,visionos,visionpro,vue
+stars=25562
+forks=1736
+watchers=25562
+license=MIT
+archived=false
+fork=false
+open_issues=838
+default_branch=main
+created=2015-03-01T09:47:08Z
+updated=2026-07-23T09:37:29Z
+pushed=2026-07-22T20:48:28Z
+
+REPO nativewind/nativewind
+url=https://github.com/nativewind/nativewind
+description=The utility-first workflow you love from Tailwind CSS in your React Native applications.
+language=TypeScript
+topics=css,nativewind,react,react-native,react-native-web,tailwind,tailwindcss
+stars=8018
+forks=396
+watchers=8018
+license=MIT
+archived=false
+fork=false
+open_issues=62
+default_branch=main
+created=2022-04-02T12:30:41Z
+updated=2026-07-23T10:40:46Z
+pushed=2026-07-17T05:30:31Z
+
+REPO ncdai/chanhdai.com
+url=https://github.com/ncdai/chanhdai.com
+description=A pixel-perfect dev portfolio and shadcn registry.
+language=TypeScript
+topics=base-ui,components,dev-portfolio,motion,nextjs,portfolio,radix-ui,react,shadcn,shadcn-components,shadcn-registry,shadcn-ui,tailwindcss,ui
+stars=2141
+forks=314
+watchers=2141
+license=MIT
+archived=false
+fork=false
+open_issues=3
+default_branch=main
+created=2023-08-20T15:34:19Z
+updated=2026-07-23T00:42:31Z
+pushed=2026-07-22T08:24:07Z
+
+REPO ndeet/unzipper
+url=https://github.com/ndeet/unzipper
+description=Small class to extract + compress .zip, .gz, .rar archives via browser.
+language=PHP
+stars=1078
+forks=1325
+watchers=1078
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=12
+default_branch=master
+created=2013-02-16T19:39:32Z
+updated=2026-07-21T20:08:49Z
+pushed=2024-03-07T16:23:27Z
+
+REPO neovim/neovim
+url=https://github.com/neovim/neovim
+description=Vim-fork focused on extensibility and usability
+language=Vim Script
+topics=api,c,lua,neovim,nvim,text-editor,vim
+stars=101301
+forks=6981
+watchers=101301
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=1877
+default_branch=master
+created=2014-01-31T13:39:22Z
+updated=2026-07-23T12:23:50Z
+pushed=2026-07-23T11:57:19Z
+
+REPO nestjs/nest
+url=https://github.com/nestjs/nest
+description=A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+language=TypeScript
+topics=framework,hacktoberfest,javascript,javascript-framework,microservices,nest,nestjs,node,nodejs,nodejs-framework,typescript,typescript-framework,websockets
+stars=76173
+forks=8380
+watchers=76173
+license=MIT
+archived=false
+fork=false
+open_issues=49
+default_branch=master
+created=2017-02-04T20:12:52Z
+updated=2026-07-23T10:27:13Z
+pushed=2026-07-22T17:49:00Z
+
+REPO NewEraCracker/LOIC
+url=https://github.com/NewEraCracker/LOIC
+description=Deprecated - Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project. USE ON YOUR OWN RISK. WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. IF YOU GET V& IT IS YOUR FAULT.
+language=C#
+topics=c-sharp,loic,praetox-loic
+stars=2972
+forks=695
+watchers=2972
+license=NOASSERTION
+archived=true
+fork=false
+open_issues=1
+default_branch=master
+created=2010-09-29T23:42:57Z
+updated=2026-07-21T10:09:47Z
+pushed=2024-01-09T18:07:23Z
+
+REPO nextapps-de/flexsearch
+url=https://github.com/nextapps-de/flexsearch
+description=Next-generation full-text search library for Browser and Node.js
+language=JavaScript
+topics=elasticsearch,full-text-search,fulltext-search,fuzzy,fuzzy-search,javascript,javascript-library,nodejs,open-source,search,search-algorithm,search-engine,search-in-text,searching,searching-algorithms,web,web-worker
+stars=13759
+forks=521
+watchers=13759
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=36
+default_branch=master
+created=2018-02-25T12:40:24Z
+updated=2026-07-23T11:32:52Z
+pushed=2026-06-28T18:05:03Z
+
+REPO nextauthjs/next-auth
+url=https://github.com/nextauthjs/next-auth
+description=Authentication for the Web.
+language=TypeScript
+topics=auth,authentication,csrf,jwt,nextauth,nextjs,nodejs,nuxt,nuxt-auth,oauth,oauth2,oidc,react,remix-auth,solid-auth,solidjs,sveltekit,web
+stars=28309
+forks=4040
+watchers=28309
+license=ISC
+archived=false
+fork=false
+open_issues=586
+default_branch=main
+created=2018-01-27T12:28:16Z
+updated=2026-07-23T10:43:12Z
+pushed=2026-07-22T19:42:19Z
+
+REPO nilbuild/developer-roadmap
+url=https://github.com/nilbuild/developer-roadmap
+description=Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+language=TypeScript
+topics=angular-roadmap,backend-roadmap,blockchain-roadmap,computer-science,dba-roadmap,developer-roadmap,devops-roadmap,frontend-roadmap,go-roadmap,java-roadmap,javascript-roadmap,nodejs-roadmap,python-roadmap,qa-roadmap,react-roadmap,roadmap,software-architect-roadmap,vue-roadmap
+stars=362367
+forks=44640
+watchers=362367
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=0
+default_branch=master
+created=2017-03-15T13:45:52Z
+updated=2026-07-23T12:17:08Z
+pushed=2026-07-22T15:41:16Z
+
+REPO NomicFoundation/hardhat
+url=https://github.com/NomicFoundation/hardhat
+description=Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
+language=TypeScript
+topics=blockchain,dapps,debugging,ethereum,javascript,smart-contracts,solidity,task-runner,tooling,typescript
+stars=8493
+forks=1728
+watchers=8493
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=614
+default_branch=main
+created=2018-04-14T22:20:59Z
+updated=2026-07-23T10:46:25Z
+pushed=2026-07-23T11:59:23Z
+
+REPO nuejs/nue
+url=https://github.com/nuejs/nue
+description=Fastest way to build modern websites
+language=JavaScript
+topics=design,design-system,javascript,javascript-framework,markdown-flavour,nuejs
+stars=8824
+forks=259
+watchers=8824
+license=MIT
+archived=false
+fork=false
+open_issues=76
+default_branch=master
+created=2023-09-13T00:18:50Z
+updated=2026-07-22T21:35:20Z
+pushed=2026-02-17T17:11:56Z
+
+REPO nusu/avvvatars
+url=https://github.com/nusu/avvvatars
+description=Beautifully crafted unique avatar placeholder for your next react project
+language=TypeScript
+topics=avatar,avatar-generator,avatar-placeholder,placeholder-avatars,profile-picture,react
+stars=1953
+forks=87
+watchers=1953
+license=MIT
+archived=false
+fork=false
+open_issues=7
+default_branch=main
+created=2022-03-13T14:01:39Z
+updated=2026-07-22T03:53:28Z
+pushed=2024-07-08T23:46:44Z
+
+REPO nut-tree/nut.js
+url=https://github.com/nut-tree/nut.js
+description=Native UI testing / controlling with node
+language=TypeScript
+topics=automation,desktop-automation,electron,native,node,test-automation,testing,testing-tools,ui
+stars=2840
+forks=183
+watchers=2840
+license=N/A
+archived=false
+fork=false
+open_issues=43
+default_branch=develop
+created=2018-08-21T21:27:13Z
+updated=2026-07-21T08:51:50Z
+pushed=2024-05-01T19:50:22Z
+
+REPO Nutlope/roomGPT
+url=https://github.com/Nutlope/roomGPT
+description=Upload a photo of your room to generate your dream room with AI.
+language=TypeScript
+stars=10660
+forks=1493
+watchers=10660
+license=MIT
+archived=false
+fork=false
+open_issues=36
+default_branch=main
+created=2023-02-21T19:54:43Z
+updated=2026-07-22T06:18:23Z
+pushed=2024-04-20T12:17:17Z
+
+REPO nuxt/nuxt
+url=https://github.com/nuxt/nuxt
+description=the full-stack Vue framework
+language=TypeScript
+topics=csr,framework,full-stack,hacktoberfest,hybrid,node,nuxt,server-rendering,ssg,ssr,static-site-generator,universal,vue
+stars=60671
+forks=5751
+watchers=60671
+license=MIT
+archived=false
+fork=false
+open_issues=549
+default_branch=main
+created=2016-10-26T11:18:47Z
+updated=2026-07-23T12:17:26Z
+pushed=2026-07-23T11:36:53Z
+
+REPO nuxt/website-v2
+url=https://github.com/nuxt/website-v2
+description=Nuxt 2 Documentation Website
+language=Vue
+topics=nuxt
+stars=2242
+forks=1136
+watchers=2242
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=117
+default_branch=main
+created=2016-11-09T15:11:12Z
+updated=2026-07-21T13:59:22Z
+pushed=2026-07-23T11:41:11Z
+
+REPO nvm-sh/nvm
+url=https://github.com/nvm-sh/nvm
+description=Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+language=Shell
+topics=bash,install,lts,node,node-js,nodejs,nvm,nvmrc,posix,posix-compliant,shell,version-manager,zsh
+stars=94210
+forks=10273
+watchers=94210
+license=MIT
+archived=false
+fork=false
+open_issues=388
+default_branch=master
+created=2010-04-15T17:47:47Z
+updated=2026-07-23T11:32:22Z
+pushed=2026-07-15T22:55:36Z
+
+REPO nyaggah/bedframe
+url=https://github.com/nyaggah/bedframe
+description=Your Browser Extension Development Framework
+language=TypeScript
+stars=583
+forks=8
+watchers=583
+license=MIT
+archived=false
+fork=false
+open_issues=4
+default_branch=main
+created=2023-05-22T01:00:57Z
+updated=2026-07-06T20:59:54Z
+pushed=2026-07-08T05:52:54Z
+
+REPO oblador/react-native-animatable
+url=https://github.com/oblador/react-native-animatable
+description=Standard set of easy to use animations and declarative transitions for React Native
+language=JavaScript
+topics=animation,react-native,transition
+stars=9941
+forks=694
+watchers=9941
+license=MIT
+archived=false
+fork=false
+open_issues=172
+default_branch=master
+created=2015-10-18T02:04:35Z
+updated=2026-07-17T22:16:36Z
+pushed=2023-10-26T16:46:05Z
+
+REPO oframe/ogl
+url=https://github.com/oframe/ogl
+description=Minimal WebGL Library
+language=JavaScript
+stars=4587
+forks=232
+watchers=4587
+license=N/A
+archived=false
+fork=false
+open_issues=24
+default_branch=master
+created=2018-05-25T16:21:37Z
+updated=2026-07-22T22:50:40Z
+pushed=2025-04-13T07:51:49Z
+
+REPO ollama/ollama
+url=https://github.com/ollama/ollama
+description=Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+language=Go
+topics=deepseek,gemma,gemma3,glm,go,golang,gpt-oss,llama,llama3,llm,llms,minimax,mistral,ollama,qwen
+stars=176695
+forks=17075
+watchers=176695
+license=MIT
+archived=false
+fork=false
+open_issues=3520
+default_branch=main
+created=2023-06-26T19:39:32Z
+updated=2026-07-23T12:24:54Z
+pushed=2026-07-23T05:40:27Z
+
+REPO onlook-dev/onlook
+url=https://github.com/onlook-dev/onlook
+description=The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+language=TypeScript
+topics=ai,cursor,cursor-ai,design,design-to-code,drizzle,editor,figma,frontend,ide,low-code,nextjs,react,supabase,tailwindcss,typescript,ui,vibe-coding,vibecoding
+stars=26245
+forks=2046
+watchers=26245
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=373
+default_branch=main
+created=2024-06-25T19:16:02Z
+updated=2026-07-23T10:30:37Z
+pushed=2026-07-22T02:07:29Z
+
+REPO OpenHands/OpenHands
+url=https://github.com/OpenHands/OpenHands
+description=🙌 OpenHands: AI-Driven Development
+language=Python
+topics=agent,artificial-intelligence,chatgpt,claude-ai,cli,developer-tools,gpt,llm,openai
+stars=81808
+forks=10458
+watchers=81808
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=370
+default_branch=main
+created=2024-03-13T03:33:31Z
+updated=2026-07-23T11:59:59Z
+pushed=2026-07-23T12:12:20Z
+
+REPO oven-sh/bun
+url=https://github.com/oven-sh/bun
+description=Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+language=Rust
+topics=bun,bundler,javascript,javascriptcore,jsx,nodejs,npm,react,rust,rust-lang,transpiler,typescript
+stars=94959
+forks=4893
+watchers=94959
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=8008
+default_branch=main
+created=2021-04-14T00:48:17Z
+updated=2026-07-23T12:11:20Z
+pushed=2026-07-23T12:21:51Z
+
+REPO paperless-ngx/paperless-ngx
+url=https://github.com/paperless-ngx/paperless-ngx
+description=A community-supported supercharged document management system: scan, index and archive all your documents
+language=Python
+topics=angular,archiving,django,dms,document-management,document-management-system,hacktoberfest,machine-learning,ocr,optical-character-recognition,pdf
+stars=43368
+forks=2930
+watchers=43368
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=13
+default_branch=dev
+created=2022-02-12T21:56:52Z
+updated=2026-07-23T12:00:28Z
+pushed=2026-07-23T05:34:11Z
+
+REPO payloadcms/payload
+url=https://github.com/payloadcms/payload
+description=Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
+language=TypeScript
+topics=cms,content-management,content-management-system,express,graphql,headless,headless-cms,jamstack,javascript,mit-license,mongodb,nextjs,nodejs,open-source,payload,payloadcms,postgres,react,typescript
+stars=43748
+forks=3963
+watchers=43748
+license=MIT
+archived=false
+fork=false
+open_issues=905
+default_branch=main
+created=2021-01-05T18:49:45Z
+updated=2026-07-23T11:40:21Z
+pushed=2026-07-23T11:40:02Z
+
+REPO PCSX2/pcsx2
+url=https://github.com/PCSX2/pcsx2
+description=PCSX2 - The Playstation 2 Emulator
+language=C++
+topics=cpp,emulation,emulator,pcsx2,ps2
+stars=15175
+forks=2080
+watchers=15175
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=793
+default_branch=master
+created=2013-12-22T17:56:48Z
+updated=2026-07-23T12:21:04Z
+pushed=2026-07-21T21:31:32Z
+
+REPO permissionlesstech/bitchat
+url=https://github.com/permissionlesstech/bitchat
+description=bluetooth mesh chat, IRC vibes
+language=Swift
+stars=26183
+forks=2507
+watchers=26183
+license=Unlicense
+archived=false
+fork=false
+open_issues=63
+default_branch=main
+created=2025-07-04T14:34:38Z
+updated=2026-07-23T11:26:49Z
+pushed=2026-07-12T16:08:06Z
+
+REPO phaserjs/phaser
+url=https://github.com/phaserjs/phaser
+description=Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+language=JavaScript
+topics=canvas,discord-activities,facebook-instant-games,game-development,game-frameworks,gamedev,html5-game-development,javascript,phaser,phaser-development,phaserjs,webgl,youtube-playables
+stars=40009
+forks=7142
+watchers=40009
+license=MIT
+archived=false
+fork=false
+open_issues=119
+default_branch=master
+created=2013-04-12T12:27:51Z
+updated=2026-07-23T12:24:58Z
+pushed=2026-07-09T14:33:40Z
+
+REPO pheralb/svgl
+url=https://github.com/pheralb/svgl
+description=🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
+language=TypeScript
+topics=hacktoberfest,logos,open-source,optimized,svelte,sveltekit,svg,svg-icons,svg-images,tailwindcss
+stars=6201
+forks=854
+watchers=6201
+license=MIT
+archived=false
+fork=false
+open_issues=298
+default_branch=main
+created=2022-01-16T22:27:26Z
+updated=2026-07-22T13:11:32Z
+pushed=2026-07-19T10:48:20Z
+
+REPO phosphor-icons/homepage
+url=https://github.com/phosphor-icons/homepage
+description=The homepage of Phosphor Icons, a flexible icon family for everyone
+language=TypeScript
+topics=icon-font,icon-pack,icons,phosphor,svgs
+stars=7104
+forks=190
+watchers=7104
+license=MIT
+archived=false
+fork=false
+open_issues=481
+default_branch=master
+created=2020-07-14T21:45:56Z
+updated=2026-07-23T11:52:05Z
+pushed=2026-02-13T00:15:07Z
+
+REPO phuctm97/shell.how
+url=https://github.com/phuctm97/shell.how
+description=Explain shell commands using next-generation autocomplete Fig.
+language=TypeScript
+topics=autocomplete,bash,commandline,howto,shell
+stars=275
+forks=9
+watchers=275
+license=MIT
+archived=true
+fork=false
+open_issues=7
+default_branch=main
+created=2021-11-07T07:26:13Z
+updated=2026-07-02T22:19:15Z
+pushed=2023-11-01T06:59:54Z
+
+REPO picocss/pico
+url=https://github.com/picocss/pico
+description=Minimal CSS Framework for semantic HTML
+language=CSS
+topics=css,css-framework,dark-mode,dark-theme,lightweight,minimal,minimalist,minimalistic,native-html,scss,scss-framework,semantic
+stars=16730
+forks=503
+watchers=16730
+license=MIT
+archived=false
+fork=false
+open_issues=124
+default_branch=main
+created=2019-11-15T09:42:54Z
+updated=2026-07-23T12:07:28Z
+pushed=2026-05-09T18:16:06Z
+
+REPO pinokiocomputer/pinokio
+url=https://github.com/pinokiocomputer/pinokio
+description=AI Browser
+language=JavaScript
+stars=7779
+forks=783
+watchers=7779
+license=MIT
+archived=false
+fork=false
+open_issues=457
+default_branch=main
+created=2023-07-09T10:02:41Z
+updated=2026-07-23T06:07:31Z
+pushed=2026-07-22T06:03:02Z
+
+REPO pinokiocomputer/program.pinokio.computer
+url=https://github.com/pinokiocomputer/program.pinokio.computer
+description=pinokio official documentation
+language=CSS
+topics=pinokio-community
+stars=284
+forks=37
+watchers=284
+license=N/A
+archived=false
+fork=false
+open_issues=18
+default_branch=main
+created=2024-04-07T22:56:15Z
+updated=2026-07-16T16:23:55Z
+pushed=2025-06-06T04:11:43Z
+
+REPO plouc/nivo
+url=https://github.com/plouc/nivo
+description=nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
+language=TypeScript
+topics=canvas,charts,components,d3js,dataviz,isomorphic,react,svg
+stars=14067
+forks=1079
+watchers=14067
+license=MIT
+archived=false
+fork=false
+open_issues=48
+default_branch=master
+created=2016-04-16T03:27:56Z
+updated=2026-07-23T10:48:01Z
+pushed=2026-07-21T02:46:40Z
+
+REPO pmndrs/gltf-react-three
+url=https://github.com/pmndrs/gltf-react-three
+description=Convert GLTF files to React Three Fiber Components
+language=JavaScript
+stars=362
+forks=65
+watchers=362
+license=N/A
+archived=false
+fork=false
+open_issues=10
+default_branch=main
+created=2021-04-06T18:37:15Z
+updated=2026-06-02T20:53:00Z
+pushed=2024-05-24T21:59:52Z
+
+REPO pmndrs/gltfjsx
+url=https://github.com/pmndrs/gltfjsx
+description=🎮 Turns GLTFs into JSX components
+language=JavaScript
+stars=5822
+forks=381
+watchers=5822
+license=MIT
+archived=false
+fork=false
+open_issues=110
+default_branch=master
+created=2019-09-24T08:02:27Z
+updated=2026-07-23T00:19:54Z
+pushed=2024-11-04T16:51:26Z
+
+REPO pmndrs/jotai
+url=https://github.com/pmndrs/jotai
+description=👻 Primitive and flexible state management for React
+language=TypeScript
+topics=atomic,hacktoberfest,management,react,state
+stars=21229
+forks=724
+watchers=21229
+license=MIT
+archived=false
+fork=false
+open_issues=5
+default_branch=main
+created=2020-08-11T23:15:36Z
+updated=2026-07-23T11:09:29Z
+pushed=2026-07-23T07:04:06Z
+
+REPO pmndrs/react-spring
+url=https://github.com/pmndrs/react-spring
+description=✌️ A spring physics based React animation library
+language=TypeScript
+topics=animation-library,react,react-spring,spring-physics,springs
+stars=29123
+forks=1220
+watchers=29123
+license=MIT
+archived=false
+fork=false
+open_issues=77
+default_branch=next
+created=2018-03-07T15:39:32Z
+updated=2026-07-23T09:36:06Z
+pushed=2026-07-22T16:02:02Z
+
+REPO pmndrs/react-three-rapier
+url=https://github.com/pmndrs/react-three-rapier
+description=🤺 Rapier physics in React
+language=TypeScript
+stars=1415
+forks=82
+watchers=1415
+license=MIT
+archived=false
+fork=false
+open_issues=44
+default_branch=main
+created=2022-04-30T13:48:17Z
+updated=2026-07-23T05:16:43Z
+pushed=2025-11-03T00:39:13Z
+
+REPO pmndrs/zustand
+url=https://github.com/pmndrs/zustand
+description=🐻 Bear necessities for state management in React
+language=TypeScript
+topics=hacktoberfest,hooks,react,react-context,reactjs,redux,state-management
+stars=58465
+forks=2161
+watchers=58465
+license=MIT
+archived=false
+fork=false
+open_issues=5
+default_branch=main
+created=2019-04-09T09:10:06Z
+updated=2026-07-23T09:57:50Z
+pushed=2026-07-21T23:08:05Z
+
+REPO prisma/prisma
+url=https://github.com/prisma/prisma
+description=Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+language=TypeScript
+topics=cockroachdb,database,javascript,mariadb,mongo,mongodb,mongodb-orm,mssql,mysql,nodejs,orm,postgres,postgresql,prisma,prisma-client,query-builder,sql-server,sqlite,sqlserver,typescript
+stars=47378
+forks=2402
+watchers=47378
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=2535
+default_branch=main
+created=2019-06-20T13:33:47Z
+updated=2026-07-23T12:04:09Z
+pushed=2026-07-23T12:13:42Z
+
+REPO proksh/atomize
+url=https://github.com/proksh/atomize
+description=Design System for developers build on styled-components & React JS.
+language=JavaScript
+topics=design,design-system,reactjs,ui,ui-framework
+stars=1764
+forks=336
+watchers=1764
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=27
+default_branch=master
+created=2019-07-03T12:28:04Z
+updated=2026-06-24T22:04:18Z
+pushed=2024-01-09T18:22:08Z
+
+REPO puppeteer/puppeteer
+url=https://github.com/puppeteer/puppeteer
+description=JavaScript API for Chrome and Firefox
+language=TypeScript
+topics=automation,chrome,chromium,developer-tools,firefox,headless-chrome,node-module,testing,web
+stars=95332
+forks=9541
+watchers=95332
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=276
+default_branch=main
+created=2017-05-09T22:16:13Z
+updated=2026-07-23T11:06:29Z
+pushed=2026-07-23T11:13:36Z
+
+REPO radix-ui/primitives
+url=https://github.com/radix-ui/primitives
+description=Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+language=TypeScript
+topics=accessibility,colors,component-library,design-systems,radix-ui,react,ui,ui-components,ui-kit
+stars=19090
+forks=1221
+watchers=19090
+license=MIT
+archived=false
+fork=false
+open_issues=306
+default_branch=main
+created=2020-06-19T13:23:22Z
+updated=2026-07-23T10:43:18Z
+pushed=2026-07-22T22:30:37Z
+
+REPO rahuldkjain/github-profile-readme-generator
+url=https://github.com/rahuldkjain/github-profile-readme-generator
+description=🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+language=TypeScript
+topics=gatsby,generator,github,hacktoberfest,markdown,react,readme
+stars=24360
+forks=8374
+watchers=24360
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=408
+default_branch=main
+created=2020-07-15T11:20:48Z
+updated=2026-07-23T11:43:35Z
+pushed=2025-10-28T10:27:15Z
+
+REPO react-hook-form/react-hook-form
+url=https://github.com/react-hook-form/react-hook-form
+description=📋 React Hooks for form state management and validation (Web + React Native)
+language=TypeScript
+topics=dx,form-builder,forms,react-hooks,react-native,reactjs,typescript,ux,validation
+stars=44802
+forks=2455
+watchers=44802
+license=MIT
+archived=false
+fork=false
+open_issues=10
+default_branch=master
+created=2019-03-05T23:47:10Z
+updated=2026-07-23T10:55:42Z
+pushed=2026-07-23T10:43:02Z
+
+REPO react-monaco-editor/react-monaco-editor
+url=https://github.com/react-monaco-editor/react-monaco-editor
+description=Monaco Editor for React.
+language=TypeScript
+topics=editor,monaco-editor,react
+stars=4202
+forks=388
+watchers=4202
+license=MIT
+archived=false
+fork=false
+open_issues=78
+default_branch=master
+created=2016-09-05T07:11:05Z
+updated=2026-07-20T22:35:51Z
+pushed=2026-07-20T22:36:59Z
+
+REPO react-native-elements/react-native-elements
+url=https://github.com/react-native-elements/react-native-elements
+description=Cross-Platform React Native UI Toolkit
+language=MDX
+topics=android,cross-platform,hacktoberfest,ios,mobile-app,react,react-native,ui,ui-components
+stars=25851
+forks=4676
+watchers=25851
+license=MIT
+archived=false
+fork=false
+open_issues=153
+default_branch=next
+created=2016-09-08T14:21:41Z
+updated=2026-07-23T09:39:48Z
+pushed=2026-05-21T14:17:40Z
+
+REPO react-navigation/react-navigation
+url=https://github.com/react-navigation/react-navigation
+description=Routing and navigation for React Native and Web apps
+language=TypeScript
+topics=navigation,react,react-native,react-navigation
+stars=24490
+forks=5122
+watchers=24490
+license=N/A
+archived=false
+fork=false
+open_issues=839
+default_branch=main
+created=2017-01-26T19:51:40Z
+updated=2026-07-23T08:26:43Z
+pushed=2026-07-22T21:46:35Z
+
+REPO react/react
+url=https://github.com/react/react
+description=The library for web and native user interfaces.
+language=JavaScript
+topics=declarative,frontend,javascript,library,react,ui
+stars=246676
+forks=51294
+watchers=246676
+license=MIT
+archived=false
+fork=false
+open_issues=1216
+default_branch=main
+created=2013-05-24T16:15:54Z
+updated=2026-07-23T11:59:40Z
+pushed=2026-07-23T09:40:08Z
+
+REPO react/react-native
+url=https://github.com/react/react-native
+description=A framework for building native applications using React
+language=C++
+topics=android,app-framework,cross-platform,ios,mobile,mobile-development,react,react-native
+stars=126250
+forks=25188
+watchers=126250
+license=MIT
+archived=false
+fork=false
+open_issues=1016
+default_branch=main
+created=2015-01-09T18:10:16Z
+updated=2026-07-23T12:10:30Z
+pushed=2026-07-23T12:15:39Z
+
+REPO refinedev/refine
+url=https://github.com/refinedev/refine
+description=A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+language=TypeScript
+topics=admin,admin-ui,ant-design,crud,developer-tools,frontend-framework,good-first-issue,graphql,hacktoberfest,headless,internal-tools,javascript,low-code,nestjs,nextjs,open-source-project,react,react-framework,react-hooks,typescript
+stars=35360
+forks=3166
+watchers=35360
+license=MIT
+archived=false
+fork=false
+open_issues=64
+default_branch=main
+created=2021-01-20T12:01:32Z
+updated=2026-07-23T10:24:09Z
+pushed=2026-06-05T15:19:38Z
+
+REPO remarkjs/remark-gfm
+url=https://github.com/remarkjs/remark-gfm
+description=remark plugin to support GFM (autolink literals, footnotes, strikethrough, tables, tasklists)
+language=JavaScript
+topics=autolink,gfm,github,remark,remark-plugin,strikethrough,table,tasklist
+stars=1227
+forks=40
+watchers=1227
+license=MIT
+archived=false
+fork=false
+open_issues=2
+default_branch=main
+created=2020-10-04T09:42:34Z
+updated=2026-07-23T02:55:37Z
+pushed=2025-02-10T12:43:08Z
+
+REPO remix-run/react-router
+url=https://github.com/remix-run/react-router
+description=Declarative routing for React
+language=TypeScript
+stars=56516
+forks=10897
+watchers=56516
+license=MIT
+archived=false
+fork=false
+open_issues=138
+default_branch=main
+created=2014-05-16T22:22:51Z
+updated=2026-07-23T08:49:23Z
+pushed=2026-07-22T15:15:30Z
+
+REPO remotion-dev/remotion
+url=https://github.com/remotion-dev/remotion
+description=🎥      Make videos programmatically with React
+language=TypeScript
+topics=javascript,react,video
+stars=54024
+forks=3936
+watchers=54024
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=178
+default_branch=main
+created=2020-06-23T19:49:10Z
+updated=2026-07-23T12:19:26Z
+pushed=2026-07-23T12:24:33Z
+
+REPO remy/nodemon
+url=https://github.com/remy/nodemon
+description=Monitor for any changes in your node.js application and automatically restart the server - perfect for development
+language=JavaScript
+topics=node,nodemon,watch
+stars=26682
+forks=1743
+watchers=26682
+license=MIT
+archived=false
+fork=false
+open_issues=11
+default_branch=main
+created=2010-10-03T12:50:52Z
+updated=2026-07-21T06:02:14Z
+pushed=2026-07-16T12:39:47Z
+
+REPO responsively-org/responsively-app
+url=https://github.com/responsively-org/responsively-app
+description=A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+language=TypeScript
+topics=contributions-welcome,desktop-app,developer-tools,electron,good-first-issue,hacktoberfest,javascript,opensource-alternative,react,redux,responsive,responsive-web-design,web-development
+stars=25046
+forks=1386
+watchers=25046
+license=AGPL-3.0
+archived=false
+fork=false
+open_issues=311
+default_branch=main
+created=2019-08-10T02:48:18Z
+updated=2026-07-23T12:23:32Z
+pushed=2026-07-17T04:45:20Z
+
+REPO Ripple-TS/ripple
+url=https://github.com/Ripple-TS/ripple
+description=the elegant TypeScript UI framework
+language=JavaScript
+stars=7373
+forks=293
+watchers=7373
+license=MIT
+archived=false
+fork=false
+open_issues=26
+default_branch=main
+created=2025-02-16T21:53:59Z
+updated=2026-07-23T05:13:05Z
+pushed=2026-07-22T20:30:42Z
+
+REPO router-for-me/CLIProxyAPI
+url=https://github.com/router-for-me/CLIProxyAPI
+description=Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
+language=Go
+topics=antigravity,claude-code,cluade,codex,gemini,openai
+stars=44432
+forks=6961
+watchers=44432
+license=MIT
+archived=false
+fork=false
+open_issues=363
+default_branch=main
+created=2025-07-01T19:43:27Z
+updated=2026-07-23T12:21:36Z
+pushed=2026-07-23T06:31:47Z
+
+REPO router-for-me/EasyCLIProxyAPI
+url=https://github.com/router-for-me/EasyCLIProxyAPI
+description=A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents.
+language=TypeScript
+stars=879
+forks=86
+watchers=879
+license=N/A
+archived=false
+fork=false
+open_issues=2
+default_branch=main
+created=2025-09-07T19:30:58Z
+updated=2026-07-23T08:31:00Z
+pushed=2026-07-23T05:38:44Z
+
+REPO rtk-ai/rtk
+url=https://github.com/rtk-ai/rtk
+description=CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+language=Rust
+topics=agentic-coding,ai-coding,anthropic,claude-code,cli,command-line-tool,cost-reduction,developer-tools,llm,open-source,productivity,rust,token-optimization
+stars=72747
+forks=4536
+watchers=72747
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=1707
+default_branch=develop
+created=2026-01-22T16:54:16Z
+updated=2026-07-23T12:09:41Z
+pushed=2026-07-23T11:23:20Z
+
+REPO ryo-ma/github-profile-trophy
+url=https://github.com/ryo-ma/github-profile-trophy
+description=🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+language=TypeScript
+topics=deno,github,github-profile,github-profile-readme,github-profile-trophy,github-readme,github-readme-trophy,github-trophy,hacktoberfest,rank,readme,typescript
+stars=6616
+forks=1971
+watchers=6616
+license=MIT
+archived=false
+fork=false
+open_issues=27
+default_branch=master
+created=2020-08-22T16:21:19Z
+updated=2026-07-23T11:06:36Z
+pushed=2026-06-30T23:44:01Z
+
+REPO saadeghi/daisyui
+url=https://github.com/saadeghi/daisyui
+description=🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+language=Svelte
+topics=component,component-library,components,css,css-components,css-framework,daisyui,design-system,design-systems,front-end,postcss,svelte,tailwind,tailwind-css,tailwindcss,ui-design,ui-framework,ui-kit,ui-library,ui-pattern
+stars=41780
+forks=1664
+watchers=41780
+license=MIT
+archived=false
+fork=false
+open_issues=29
+default_branch=master
+created=2020-11-28T22:57:27Z
+updated=2026-07-23T12:14:12Z
+pushed=2026-07-21T15:22:29Z
+
+REPO sadmann7/tablecn
+url=https://github.com/sadmann7/tablecn
+description=Data table and data grid components built with shadcn/ui, featuring sorting, filtering, pagination, infinite scrolling, and real-time collaboration.
+language=TypeScript
+topics=data-grid,data-table,multiplayer,nextjs,partykit,shadcn-table,shadcn-ui,table,tanstack-db,tanstack-table
+stars=6220
+forks=556
+watchers=6220
+license=MIT
+archived=false
+fork=false
+open_issues=41
+default_branch=main
+created=2023-07-10T13:41:17Z
+updated=2026-07-22T21:36:24Z
+pushed=2026-06-14T12:36:24Z
+
+REPO samanhappy/mcphub
+url=https://github.com/samanhappy/mcphub
+description=A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies.
+language=TypeScript
+topics=mcp,mcp-gateway,mcp-hub,mcp-router,mcp-server
+stars=2237
+forks=272
+watchers=2237
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=33
+default_branch=main
+created=2025-03-31T07:39:22Z
+updated=2026-07-23T11:35:38Z
+pushed=2026-07-22T13:36:45Z
+
+REPO sampotts/plyr
+url=https://github.com/sampotts/plyr
+description=A simple HTML5, YouTube and Vimeo player
+language=JavaScript
+topics=html5-video,javascript,plyr,vimeo,youtube
+stars=29913
+forks=3114
+watchers=29913
+license=MIT
+archived=false
+fork=false
+open_issues=935
+default_branch=master
+created=2015-02-14T11:33:07Z
+updated=2026-07-23T02:02:30Z
+pushed=2026-01-03T16:10:02Z
+
+REPO sass/sass
+url=https://github.com/sass/sass
+description=Sass makes CSS fun!
+language=TypeScript
+stars=15374
+forks=2235
+watchers=15374
+license=MIT
+archived=false
+fork=false
+open_issues=117
+default_branch=main
+created=2010-09-22T06:16:55Z
+updated=2026-07-23T09:40:10Z
+pushed=2026-07-22T22:27:11Z
+
+REPO satya164/react-native-tab-view
+url=https://github.com/satya164/react-native-tab-view
+description=A cross-platform Tab View component for React Native
+language=TypeScript
+topics=hacktoberfest,pager-component,react-native,swipe,swipeview,tabbar,tabs
+stars=5109
+forks=1049
+watchers=5109
+license=MIT
+archived=true
+fork=false
+open_issues=47
+default_branch=main
+created=2016-06-15T21:38:19Z
+updated=2026-07-13T08:48:03Z
+pushed=2022-11-27T18:40:20Z
+
+REPO scalar/scalar
+url=https://github.com/scalar/scalar
+description=Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
+language=TypeScript
+topics=api,api-client,docs,http-client,openapi,openapi3,reference,rest-api,swagger,vue
+stars=15679
+forks=903
+watchers=15679
+license=MIT
+archived=false
+fork=false
+open_issues=98
+default_branch=main
+created=2023-08-16T13:42:32Z
+updated=2026-07-23T10:51:15Z
+pushed=2026-07-23T06:24:03Z
+
+REPO scriptkavi/hooks
+url=https://github.com/scriptkavi/hooks
+description=Empower your react project with accessible and customizable hooks. Copy paste the modern hooks and use them in your React or NextJS applications.
+language=TypeScript
+topics=hooks-library,javascript,nextjs,react,react-hook,react-hooks,typescript
+stars=161
+forks=4
+watchers=161
+license=MIT
+archived=false
+fork=false
+open_issues=1
+default_branch=main
+created=2024-07-18T15:21:09Z
+updated=2026-05-09T14:45:53Z
+pushed=2025-02-12T00:43:49Z
+
+REPO shadcn-ui/ui
+url=https://github.com/shadcn-ui/ui
+description=A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+language=TypeScript
+topics=base-ui,components,laravel,nextjs,radix-ui,react,shadcn,tailwindcss,tanstack,ui,vite
+stars=119615
+forks=9496
+watchers=119615
+license=MIT
+archived=false
+fork=false
+open_issues=2167
+default_branch=main
+created=2023-01-04T12:43:27Z
+updated=2026-07-23T11:53:25Z
+pushed=2026-07-22T23:13:38Z
+
+REPO shadcnstudio/shadcn-studio
+url=https://github.com/shadcnstudio/shadcn-studio
+description=An open-source collection of copy-and-paste shadcn components, blocks, and templates - paired with a powerful theme generator to craft, customize, and ship faster.
+language=TypeScript
+topics=component,components-library,css,html,javascript,shadcn,shadcn-admin,shadcn-components,shadcn-registry,shadcn-template,shadcn-theme,shadcn-theme-customizer,shadcn-theme-editor,shadcn-ui,shadcnblocks,shadcnui,shadcnui-blocks,tailwindcss,typescript,uikit
+stars=1722
+forks=125
+watchers=1722
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=8
+default_branch=main
+created=2025-04-21T10:23:13Z
+updated=2026-07-23T05:41:37Z
+pushed=2026-02-16T05:48:49Z
+
+REPO shikijs/shiki
+url=https://github.com/shikijs/shiki
+description=A beautiful yet powerful syntax highlighter
+language=TypeScript
+topics=markdown,shiki,syntax-highlighting,textmate-grammar
+stars=13564
+forks=595
+watchers=13564
+license=MIT
+archived=false
+fork=false
+open_issues=111
+default_branch=main
+created=2018-10-29T22:16:21Z
+updated=2026-07-23T10:49:27Z
+pushed=2026-07-03T13:46:36Z
+
+REPO shuding/nextra
+url=https://github.com/shuding/nextra
+description=Simple, powerful and flexible site generation framework with everything you love from Next.js.
+language=TypeScript
+topics=markdown,mdx,nextjs,nextra,react,static-site-generator
+stars=13870
+forks=1414
+watchers=13870
+license=MIT
+archived=false
+fork=false
+open_issues=332
+default_branch=main
+created=2020-06-15T16:39:34Z
+updated=2026-07-23T04:01:14Z
+pushed=2026-06-23T16:02:07Z
+
+REPO skylot/jadx
+url=https://github.com/skylot/jadx
+description=Dex to Java decompiler
+language=Java
+topics=android,decompiler,dex,java
+stars=49743
+forks=5659
+watchers=49743
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=437
+default_branch=master
+created=2013-03-18T17:08:21Z
+updated=2026-07-23T12:10:56Z
+pushed=2026-07-14T19:26:37Z
+
+REPO solidtime-io/solidtime
+url=https://github.com/solidtime-io/solidtime
+description=Modern open-source time-tracking app
+language=PHP
+topics=laravel,self-hosted,time-tracker,time-tracking,timetracker,timetracking,timetrackingapp,vue
+stars=8808
+forks=478
+watchers=8808
+license=AGPL-3.0
+archived=false
+fork=false
+open_issues=29
+default_branch=main
+created=2024-01-16T15:30:47Z
+updated=2026-07-23T11:41:33Z
+pushed=2026-07-23T10:17:03Z
+
+REPO sourcegit-scm/sourcegit
+url=https://github.com/sourcegit-scm/sourcegit
+description=Windows/macOS/Linux GUI client for GIT users
+language=C#
+topics=cross-platform,git,git-gui,gui
+stars=5587
+forks=460
+watchers=5587
+license=MIT
+archived=false
+fork=false
+open_issues=173
+default_branch=master
+created=2021-11-08T12:55:18Z
+updated=2026-07-23T12:09:34Z
+pushed=2026-07-23T06:42:39Z
+
+REPO spatie/laravel-analytics
+url=https://github.com/spatie/laravel-analytics
+description=A Laravel package to retrieve pageviews and other data from Google Analytics
+language=PHP
+topics=analytics,google,laravel,php,statistics
+stars=3240
+forks=471
+watchers=3240
+license=MIT
+archived=false
+fork=false
+open_issues=0
+default_branch=main
+created=2015-03-12T08:58:50Z
+updated=2026-07-21T20:10:52Z
+pushed=2026-06-26T09:43:28Z
+
+REPO star-history/star-history
+url=https://github.com/star-history/star-history
+description=The de facto GitHub star history graph.
+language=TypeScript
+topics=github,github-star,github-star-history,github-trending,graph,history,star,star-history
+stars=9310
+forks=356
+watchers=9310
+license=MIT
+archived=false
+fork=false
+open_issues=9
+default_branch=main
+created=2015-09-23T03:30:28Z
+updated=2026-07-23T03:52:54Z
+pushed=2026-07-08T07:32:38Z
+
+REPO Steake/shannon-uncontained
+url=https://github.com/Steake/shannon-uncontained
+description=Shannon-Uncontained. A Docker-free, black‑box‑first fork that treats AI as a fallible witness rather than an oracle: treats uncertainty as a first class citizen via EQBSL epistemic bookkeeping, and agentic recon/analysis/synthesis tuned for “paste url -> pwn box  -> ???? -> profit”
+language=JavaScript
+topics=agentic-ai,agentic-pentest,ai,ai-penetration-testing,automated-pentesting,hacking-tool,penetration-testing,pentest-tool
+stars=57
+forks=8
+watchers=57
+license=AGPL-3.0
+archived=false
+fork=true
+open_issues=1
+default_branch=main
+created=2025-12-20T03:22:15Z
+updated=2026-06-14T14:07:55Z
+pushed=2026-03-16T03:15:29Z
+
+REPO SteamDatabase/BrowserExtension
+url=https://github.com/SteamDatabase/BrowserExtension
+description=💻 SteamDB's extension for Steam websites
+language=JavaScript
+topics=chrome-extension,edge-extension,firefox-extension,steam,steamdb
+stars=1206
+forks=88
+watchers=1206
+license=BSD-3-Clause
+archived=false
+fork=false
+open_issues=18
+default_branch=master
+created=2016-05-18T07:50:13Z
+updated=2026-07-21T18:01:59Z
+pushed=2026-07-10T10:07:01Z
+
+REPO stenzek/duckstation
+url=https://github.com/stenzek/duckstation
+description=Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
+language=C++
+topics=appimage,emulator,enhancements,fast,hardware-renderers,jit-compiler,opengl,playstation,ps1,psx,vulkan
+stars=10455
+forks=944
+watchers=10455
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=76
+default_branch=master
+created=2019-09-09T07:00:39Z
+updated=2026-07-23T10:17:57Z
+pushed=2026-07-21T11:02:33Z
+
+REPO steven-tey/novel
+url=https://github.com/steven-tey/novel
+description=Notion-style WYSIWYG editor with AI-powered autocompletion.
+language=TypeScript
+topics=ai-sdk,chatgpt,nextjs,notion,openai,prosemirror,tiptap,vercel
+stars=16383
+forks=1384
+watchers=16383
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=118
+default_branch=main
+created=2023-03-21T21:14:33Z
+updated=2026-07-23T09:03:40Z
+pushed=2025-01-18T14:26:33Z
+
+REPO Stirling-Tools/Stirling-PDF
+url=https://github.com/Stirling-Tools/Stirling-PDF
+description=#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+language=Java
+topics=docker,hacktoberfest,java,pdf,pdf-converter,pdf-editor,pdf-manipulation,pdf-merger,pdf-ocr,pdf-tools,pdf-web-apps,pdfmerger,self-hosted
+stars=87817
+forks=7773
+watchers=87817
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=508
+default_branch=main
+created=2023-01-27T18:22:42Z
+updated=2026-07-23T12:20:57Z
+pushed=2026-07-23T12:03:44Z
+
+REPO stitchesjs/stitches
+url=https://github.com/stitchesjs/stitches
+description=[Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
+language=JavaScript
+topics=css,css-framework,css-in-js,react,stitches
+stars=7783
+forks=259
+watchers=7783
+license=MIT
+archived=true
+fork=false
+open_issues=120
+default_branch=canary
+created=2020-04-14T07:07:35Z
+updated=2026-07-23T08:34:35Z
+pushed=2025-02-10T18:37:23Z
+
+REPO storybookjs/storybook
+url=https://github.com/storybookjs/storybook
+description=Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+language=TypeScript
+topics=angular,components,design-systems,documentation,html,javascript,react,react-native,stories,storybook,styleguide,svelte,testing,typescript,ui,vite,vue,web-components,webpack,workshop
+stars=90646
+forks=10236
+watchers=90646
+license=MIT
+archived=false
+fork=false
+open_issues=1742
+default_branch=next
+created=2016-03-18T04:23:44Z
+updated=2026-07-23T12:18:30Z
+pushed=2026-07-23T12:25:00Z
+
+REPO sudheerj/reactjs-interview-questions
+url=https://github.com/sudheerj/reactjs-interview-questions
+description=List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+language=JavaScript
+topics=interview-preparation,interview-questions,javascript,javascript-applications,javascript-framework,javascript-interview-questions,react,react-interview-questions,react-native,react-router,react16,reactjs,redux
+stars=44699
+forks=10367
+watchers=44699
+license=MIT
+archived=false
+fork=false
+open_issues=8
+default_branch=master
+created=2018-05-31T17:17:01Z
+updated=2026-07-23T10:00:03Z
+pushed=2026-07-21T01:46:52Z
+
+REPO suren-atoyan/monaco-react
+url=https://github.com/suren-atoyan/monaco-react
+description=Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
+language=TypeScript
+topics=editor,monaco,react,vscode
+stars=4726
+forks=320
+watchers=4726
+license=MIT
+archived=false
+fork=false
+open_issues=24
+default_branch=master
+created=2019-06-16T07:46:31Z
+updated=2026-07-23T01:22:16Z
+pushed=2026-04-20T22:20:02Z
+
+REPO sveltejs/svelte
+url=https://github.com/sveltejs/svelte
+description=web development for the rest of us
+language=JavaScript
+topics=compiler,template,ui
+stars=87651
+forks=5052
+watchers=87651
+license=MIT
+archived=false
+fork=false
+open_issues=1093
+default_branch=main
+created=2016-11-20T18:13:05Z
+updated=2026-07-23T10:43:08Z
+pushed=2026-07-22T12:20:10Z
+
+REPO symfony/console
+url=https://github.com/symfony/console
+description=Eases the creation of beautiful and testable command line interfaces
+language=PHP
+topics=cli,command-line,component,console,php,symfony,symfony-component,terminal
+stars=9812
+forks=267
+watchers=9812
+license=MIT
+archived=false
+fork=false
+open_issues=0
+default_branch=8.2
+created=2011-02-22T18:00:31Z
+updated=2026-07-23T06:53:25Z
+pushed=2026-07-23T06:53:14Z
+
+REPO t3-oss/create-t3-app
+url=https://github.com/t3-oss/create-t3-app
+description=The best way to start a full-stack, typesafe Next.js app
+language=TypeScript
+topics=cli,create-t3-app,hacktoberfest,next-auth,nextjs,npx,prisma,t3,t3-stack,tailwindcss,trpc,typescript
+stars=29053
+forks=1526
+watchers=29053
+license=MIT
+archived=false
+fork=false
+open_issues=129
+default_branch=main
+created=2022-05-24T13:31:01Z
+updated=2026-07-23T05:20:35Z
+pushed=2025-12-13T10:39:23Z
+
+REPO t3-oss/create-t3-turbo
+url=https://github.com/t3-oss/create-t3-turbo
+description=Clean and simple starter repo using the T3 Stack along with Expo React Native
+language=TypeScript
+topics=better-auth,expo,nextjs,t3-stack,tailwindcss,tanstack,tanstack-form,tanstack-query,tanstack-start,trpc,vite
+stars=6083
+forks=566
+watchers=6083
+license=MIT
+archived=false
+fork=false
+open_issues=57
+default_branch=main
+created=2022-08-21T21:53:40Z
+updated=2026-07-23T07:03:59Z
+pushed=2026-07-22T11:59:29Z
+
+REPO tailwindlabs/tailwindcss
+url=https://github.com/tailwindlabs/tailwindcss
+description=A utility-first CSS framework for rapid UI development.
+language=TypeScript
+topics=css,css-framework,functional-css,postcss,responsive,tailwindcss,utility-classes
+stars=96023
+forks=5406
+watchers=96023
+license=MIT
+archived=false
+fork=false
+open_issues=57
+default_branch=main
+created=2017-10-06T14:59:14Z
+updated=2026-07-23T09:11:01Z
+pushed=2026-07-16T17:15:19Z
+
+REPO tandpfun/skill-icons
+url=https://github.com/tandpfun/skill-icons
+description=Showcase your skills on your Github readme or resumé with ease ✨
+language=SVG
+topics=github-profile,github-readme,icons,readme-stats
+stars=12796
+forks=1663
+watchers=12796
+license=MIT
+archived=false
+fork=false
+open_issues=1270
+default_branch=main
+created=2022-03-02T05:27:58Z
+updated=2026-07-23T10:53:34Z
+pushed=2026-02-27T03:42:02Z
+
+REPO tauri-apps/tauri
+url=https://github.com/tauri-apps/tauri
+description=Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language=Rust
+topics=desktop-app,high-performance,mobile-app,native-app,rust,web-frontend,webview
+stars=109365
+forks=3791
+watchers=109365
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=1421
+default_branch=dev
+created=2019-07-13T09:09:37Z
+updated=2026-07-23T12:08:34Z
+pushed=2026-07-23T10:23:59Z
+
+REPO TeamVanced/VancedManager
+url=https://github.com/TeamVanced/VancedManager
+description=Vanced Installer
+language=Kotlin
+topics=apk,vanced,vanced-developers
+stars=8155
+forks=1088
+watchers=8155
+license=GPL-3.0
+archived=true
+fork=false
+open_issues=61
+default_branch=compose
+created=2020-03-14T11:29:50Z
+updated=2026-07-22T23:32:18Z
+pushed=2022-03-14T13:59:17Z
+
+REPO tecnickcom/TCPDF
+url=https://github.com/tecnickcom/TCPDF
+description=Deprecated: PHP PDF library, superseded by tc-lib-pdf (https://github.com/tecnickcom/tc-lib-pdf)
+language=PHP
+topics=pdf,pdf-generation
+stars=4543
+forks=1583
+watchers=4543
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=1
+default_branch=main
+created=2014-08-08T08:49:17Z
+updated=2026-07-22T18:52:43Z
+pushed=2026-07-13T10:07:19Z
+
+REPO TheAlgorithms/TypeScript
+url=https://github.com/TheAlgorithms/TypeScript
+description=Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.
+language=TypeScript
+topics=algorithms,data-structures,hacktoberfest,typescript
+stars=2872
+forks=574
+watchers=2872
+license=MIT
+archived=false
+fork=false
+open_issues=74
+default_branch=master
+created=2022-09-03T22:58:50Z
+updated=2026-07-23T06:47:51Z
+pushed=2024-10-16T18:21:48Z
+
+REPO theatre-js/theatre
+url=https://github.com/theatre-js/theatre
+description=Motion design editor for the web
+language=TypeScript
+topics=animation,devtools,generative-art,motion-design,r3f,threejs
+stars=12551
+forks=461
+watchers=12551
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=139
+default_branch=main
+created=2013-12-23T11:02:52Z
+updated=2026-07-22T21:36:33Z
+pushed=2024-08-14T13:20:18Z
+
+REPO thebuilder/react-intersection-observer
+url=https://github.com/thebuilder/react-intersection-observer
+description=React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
+language=TypeScript
+topics=hook,hooks,intersection-observer,intersectionobserver,intersectionobserver-api,lazy-loading,monitor,performance,react,react-hooks,reactjs,scrolling,viewport,visibility
+stars=5538
+forks=189
+watchers=5538
+license=MIT
+archived=false
+fork=false
+open_issues=0
+default_branch=main
+created=2017-05-02T09:05:52Z
+updated=2026-07-23T01:21:00Z
+pushed=2026-07-20T09:27:17Z
+
+REPO thedevdojo/pines
+url=https://github.com/thedevdojo/pines
+description=The Pines UI library
+language=HTML
+topics=alpinejs,library,tailwindcss,ui
+stars=3315
+forks=131
+watchers=3315
+license=MIT
+archived=false
+fork=false
+open_issues=24
+default_branch=main
+created=2023-05-24T12:28:18Z
+updated=2026-07-22T09:13:10Z
+pushed=2025-08-23T13:25:31Z
+
+REPO thedevdojo/tails
+url=https://github.com/thedevdojo/tails
+description=This is the Tails composer package for Laravel. Easily fetch designs in your Laravel application that you design inside of the Tails Site/Page Builder.
+language=PHP
+topics=api,pagebuilder,tailwindcss
+stars=68
+forks=12
+watchers=68
+license=MIT
+archived=false
+fork=false
+open_issues=2
+default_branch=main
+created=2022-07-14T17:47:48Z
+updated=2026-03-17T00:15:51Z
+pushed=2026-03-17T00:16:36Z
+
+REPO themeselection/flyonui
+url=https://github.com/themeselection/flyonui
+description=🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
+language=TypeScript
+topics=component-library,components,css,design-system,html,hugo,javascript,postcss,semantic,tailwind,tailwind-css,tailwind-css-template,tailwind-plugin,tailwindcss,tailwindcss-components-library,typescript,ui-framework,ui-library,uikit,webpack
+stars=2454
+forks=98
+watchers=2454
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=17
+default_branch=main
+created=2024-09-10T06:07:12Z
+updated=2026-07-23T10:01:03Z
+pushed=2026-03-20T06:34:41Z
+
+REPO TibixDev/winboat
+url=https://github.com/TibixDev/winboat
+description=Run Windows apps on 🐧 Linux with ✨ seamless integration
+language=TypeScript
+topics=docker,docker-compose,linux,rdp,virtualization,windows
+stars=22015
+forks=685
+watchers=22015
+license=MIT
+archived=false
+fork=false
+open_issues=332
+default_branch=main
+created=2025-04-04T12:03:11Z
+updated=2026-07-23T10:44:46Z
+pushed=2026-07-16T01:42:08Z
+
+REPO tldraw/tldraw
+url=https://github.com/tldraw/tldraw
+description=Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
+language=TypeScript
+topics=canvas,collaboration,design,diagram,drawing,infinite,multiplayer,react,sdk,sketch,sync,whiteboard
+stars=49196
+forks=3411
+watchers=49196
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=449
+default_branch=main
+created=2021-05-09T11:48:37Z
+updated=2026-07-23T12:22:03Z
+pushed=2026-07-23T12:04:29Z
+
+REPO toeverything/AFFiNE
+url=https://github.com/toeverything/AFFiNE
+description=There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+language=TypeScript
+topics=app,crdt,editor,electron,knowledge-base,markdown,miro,notes,notion,notion-alternative,rust,rust-lang,rust-language,table,tableview,whiteboard,wiki,workspace
+stars=70719
+forks=5084
+watchers=70719
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=684
+default_branch=canary
+created=2022-07-31T18:45:21Z
+updated=2026-07-23T12:24:41Z
+pushed=2026-07-23T10:57:54Z
+
+REPO tolgee/tolgee-platform
+url=https://github.com/tolgee/tolgee-platform
+description=Developer & translator friendly web-based localization platform
+language=TypeScript
+topics=angular,hacktoberfest,i18n,i18next,internationalization,javascript,l10n,localization,localization-tool,react,svelte,translation,translation-management,translations,translations-api,vue
+stars=4043
+forks=364
+watchers=4043
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=194
+default_branch=main
+created=2020-10-13T16:36:39Z
+updated=2026-07-23T10:03:35Z
+pushed=2026-07-23T12:14:35Z
+
+REPO Tongyi-MAI/Z-Image
+url=https://github.com/Tongyi-MAI/Z-Image
+description=N/A
+language=Python
+stars=11782
+forks=807
+watchers=11782
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=109
+default_branch=main
+created=2025-11-26T09:18:10Z
+updated=2026-07-23T11:41:01Z
+pushed=2026-02-09T12:49:43Z
+
+REPO toon-format/toon
+url=https://github.com/toon-format/toon
+description=🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
+language=TypeScript
+topics=data-format,llm,serialization,tokenization
+stars=24957
+forks=1107
+watchers=24957
+license=MIT
+archived=false
+fork=false
+open_issues=14
+default_branch=main
+created=2025-10-22T18:17:32Z
+updated=2026-07-23T10:25:20Z
+pushed=2026-07-22T20:15:57Z
+
+REPO topjohnwu/Magisk
+url=https://github.com/topjohnwu/Magisk
+description=The Magic Mask for Android
+language=Kotlin
+stars=61854
+forks=18056
+watchers=61854
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=73
+default_branch=master
+created=2016-09-08T12:42:53Z
+updated=2026-07-23T12:08:47Z
+pushed=2026-06-11T07:48:28Z
+
+REPO tremorlabs/tremor
+url=https://github.com/tremorlabs/tremor
+description=Copy & Paste React components to build modern web applications.
+language=TypeScript
+topics=components,dashboard,radix-ui,react,tailwindcss,typescript,ui
+stars=3530
+forks=179
+watchers=3530
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=31
+default_branch=main
+created=2024-03-26T02:38:57Z
+updated=2026-07-23T03:21:30Z
+pushed=2025-10-10T13:08:24Z
+
+REPO tremorlabs/tremor-npm
+url=https://github.com/tremorlabs/tremor-npm
+description=React components to build charts and dashboards
+language=TypeScript
+topics=react-components,reactjs,tailwindcss,typescript,ui-system
+stars=16459
+forks=475
+watchers=16459
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=63
+default_branch=main
+created=2022-04-19T20:54:32Z
+updated=2026-07-21T20:11:28Z
+pushed=2025-01-13T13:06:10Z
+
+REPO triggerdotdev/trigger.dev
+url=https://github.com/triggerdotdev/trigger.dev
+description=Trigger.dev – build and deploy fully‑managed AI agents and workflows
+language=TypeScript
+topics=ai,ai-agent-framework,ai-agents,automation,background-jobs,mcp,mcp-server,nextjs,orchestration,scheduler,serverless,workflow-automation,workflows
+stars=15725
+forks=1369
+watchers=15725
+license=Apache-2.0
+archived=false
+fork=false
+open_issues=400
+default_branch=main
+created=2022-11-30T14:59:07Z
+updated=2026-07-23T10:51:40Z
+pushed=2026-07-23T11:50:09Z
+
+REPO ts-rest/ts-rest
+url=https://github.com/ts-rest/ts-rest
+description=RPC-like client, contract, and server implementation for a pure REST API
+language=TypeScript
+topics=api,fastify,nestjs,nextjs,openapi,react,react-query,rest,rpc,solid,typescript
+stars=3329
+forks=176
+watchers=3329
+license=MIT
+archived=false
+fork=false
+open_issues=141
+default_branch=main
+created=2022-07-23T11:23:01Z
+updated=2026-07-23T11:11:27Z
+pushed=2026-02-06T20:47:21Z
+
+REPO tusen-ai/naive-ui
+url=https://github.com/tusen-ai/naive-ui
+description=A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+language=TypeScript
+topics=component-library,ui-components,vue,vue-typescript,vue3-components
+stars=18452
+forks=1854
+watchers=18452
+license=MIT
+archived=false
+fork=false
+open_issues=674
+default_branch=main
+created=2021-06-04T13:47:28Z
+updated=2026-07-23T09:01:30Z
+pushed=2026-07-14T16:52:32Z
+
+REPO TypeCellOS/BlockNote
+url=https://github.com/TypeCellOS/BlockNote
+description=A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
+language=TypeScript
+topics=block-based,editor,javascript,notion,notion-editor,prosemirror,react,rich-text-editor,tiptap,typescript,wysiwyg,yjs
+stars=10005
+forks=755
+watchers=10005
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=201
+default_branch=main
+created=2022-03-02T07:24:48Z
+updated=2026-07-23T10:43:24Z
+pushed=2026-07-22T16:24:36Z
+
+REPO typesense/typesense
+url=https://github.com/typesense/typesense
+description=Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+language=C++
+topics=algolia,datastore,elasticsearch,enterprise-search,faceting,full-text-search,fuzzy-search,geosearch,in-memory,instantsearch,merchandising,pinecone,search,search-engine,semantic-search,similarity-search,site-search,synonyms,typo-tolerance,vector-search
+stars=26347
+forks=955
+watchers=26347
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=852
+default_branch=v31
+created=2017-01-18T08:01:47Z
+updated=2026-07-23T11:04:51Z
+pushed=2026-07-18T15:03:12Z
+
+REPO typicode/json-server
+url=https://github.com/typicode/json-server
+description=Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+language=JavaScript
+topics=api,fake,frontend,json,mock,rest,test
+stars=75664
+forks=7267
+watchers=75664
+license=MIT
+archived=false
+fork=false
+open_issues=718
+default_branch=main
+created=2013-11-27T13:21:13Z
+updated=2026-07-23T09:37:34Z
+pushed=2026-03-23T19:40:00Z
+
+REPO udecode/plate
+url=https://github.com/udecode/plate
+description=Rich-text editor with AI and shadcn/ui
+language=TypeScript
+topics=ai,mcp,react,shadcn-ui,slate,typescript,wysiwyg
+stars=16437
+forks=990
+watchers=16437
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=13
+default_branch=main
+created=2019-12-02T01:40:10Z
+updated=2026-07-23T02:27:23Z
+pushed=2026-07-17T06:53:21Z
+
+REPO ui-layouts/cursify
+url=https://github.com/ui-layouts/cursify
+description=Cursor Animation Library for React & Next.js
+language=TypeScript
+stars=1980
+forks=99
+watchers=1980
+license=N/A
+archived=false
+fork=false
+open_issues=9
+default_branch=main
+created=2024-11-24T20:57:38Z
+updated=2026-07-22T13:19:40Z
+pushed=2026-03-31T12:15:21Z
+
+REPO uiverse-io/galaxy
+url=https://github.com/uiverse-io/galaxy
+description=The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+language=HTML
+topics=community,css,tailwind,ui
+stars=11590
+forks=805
+watchers=11590
+license=MIT
+archived=false
+fork=false
+open_issues=14
+default_branch=main
+created=2023-10-01T17:22:04Z
+updated=2026-07-23T12:04:35Z
+pushed=2024-09-02T14:32:05Z
+
+REPO umami-software/umami
+url=https://github.com/umami-software/umami
+description=Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+language=TypeScript
+topics=analytics,audience-segmentation,charts,cohort-analysis,google-analytics,product-analytics,statistics,user-journey,web-analytics
+stars=37845
+forks=7616
+watchers=37845
+license=MIT
+archived=false
+fork=false
+open_issues=118
+default_branch=master
+created=2020-07-17T07:59:00Z
+updated=2026-07-23T12:02:35Z
+pushed=2026-07-22T20:26:56Z
+
+REPO upscayl/upscayl
+url=https://github.com/upscayl/upscayl
+description=🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+language=TypeScript
+topics=ai,electron,esrgan,gigapixel,gigapixel-images,image,image-upscaling,topaz,upscale,upscalerimage,upscayl
+stars=47486
+forks=2352
+watchers=47486
+license=AGPL-3.0
+archived=false
+fork=false
+open_issues=53
+default_branch=main
+created=2022-07-30T17:19:20Z
+updated=2026-07-23T11:38:43Z
+pushed=2026-07-21T00:59:28Z
+
+REPO upstash/context7
+url=https://github.com/upstash/context7
+description=Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+language=TypeScript
+topics=llm,mcp,mcp-server,vibe-coding
+stars=59629
+forks=2857
+watchers=59629
+license=MIT
+archived=false
+fork=false
+open_issues=23
+default_branch=master
+created=2025-03-26T23:40:39Z
+updated=2026-07-23T12:10:25Z
+pushed=2026-07-23T11:50:30Z
+
+REPO usebruno/bruno
+url=https://github.com/usebruno/bruno
+description=Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+language=JavaScript
+topics=api-client,api-testing,automation,developer-tools,git,graphql-client,http-client,javascript,openapi,openapi3,opensource,rest-api,testing,testing-tools
+stars=45821
+forks=2711
+watchers=45821
+license=MIT
+archived=false
+fork=false
+open_issues=1804
+default_branch=main
+created=2022-09-27T20:51:45Z
+updated=2026-07-23T12:23:39Z
+pushed=2026-07-23T12:23:34Z
+
+REPO ventoy/Ventoy
+url=https://github.com/ventoy/Ventoy
+description=A new bootable USB solution.
+language=C
+topics=arm64,auto-install,bootable-usb,bsd,chromeos,iso-files,legacy,linux,multiboot,persistence,secure-boot,uefi,unattended,unix,usb,windows,x86,x86-64
+stars=78196
+forks=4866
+watchers=78196
+license=GPL-3.0
+archived=false
+fork=false
+open_issues=995
+default_branch=master
+created=2020-03-10T15:19:19Z
+updated=2026-07-23T10:15:29Z
+pushed=2026-06-29T05:46:23Z
+
+REPO vercel/chatbot
+url=https://github.com/vercel/chatbot
+description=A full-featured, hackable Next.js AI chatbot built by Vercel
+language=TypeScript
+topics=ai,chatgpt,nextjs,react,redis,shadcn-ui,vercel
+stars=20664
+forks=6702
+watchers=20664
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=21
+default_branch=main
+created=2023-05-19T16:36:23Z
+updated=2026-07-23T10:37:13Z
+pushed=2026-07-08T21:55:02Z
+
+REPO vercel/mcp-handler
+url=https://github.com/vercel/mcp-handler
+description=Easily spin up an MCP Server on Next.js, Nuxt, Svelte, and more
+language=TypeScript
+stars=628
+forks=86
+watchers=628
+license=N/A
+archived=false
+fork=false
+open_issues=32
+default_branch=main
+created=2025-05-09T21:19:44Z
+updated=2026-07-22T13:49:44Z
+pushed=2026-03-24T00:13:04Z
+
+REPO vercel/next-view-transition-example
+url=https://github.com/vercel/next-view-transition-example
+description=N/A
+language=TypeScript
+stars=104
+forks=19
+watchers=104
+license=N/A
+archived=false
+fork=false
+open_issues=3
+default_branch=main
+created=2025-02-28T19:02:43Z
+updated=2026-07-19T00:27:37Z
+pushed=2025-12-12T07:58:37Z
+
+REPO vercel/next.js
+url=https://github.com/vercel/next.js
+description=The React Framework
+language=JavaScript
+topics=blog,browser,compiler,components,hybrid,nextjs,node,react,server-rendering,ssg,static,static-site-generator,universal,vercel
+stars=141087
+forks=31490
+watchers=141087
+license=MIT
+archived=false
+fork=false
+open_issues=4244
+default_branch=canary
+created=2016-10-05T23:32:51Z
+updated=2026-07-23T12:19:07Z
+pushed=2026-07-23T12:18:58Z
+
+REPO vercel/turborepo
+url=https://github.com/vercel/turborepo
+description=Build system optimized for JavaScript and TypeScript, written in Rust
+language=Rust
+topics=build-system,build-tool,javascript,monorepo,typescript
+stars=30769
+forks=2395
+watchers=30769
+license=MIT
+archived=false
+fork=false
+open_issues=18
+default_branch=main
+created=2021-10-05T17:37:11Z
+updated=2026-07-23T11:19:44Z
+pushed=2026-07-22T21:47:43Z
+
+REPO vernesong/OpenClash
+url=https://github.com/vernesong/OpenClash
+description=A Clash Client For OpenWrt
+language=HTML
+topics=clash,luci,mihomo,openclash,openwrt,shadowsocks,snell,v2ray,vmess
+stars=26807
+forks=3968
+watchers=26807
+license=MIT
+archived=false
+fork=false
+open_issues=66
+default_branch=master
+created=2019-05-29T15:52:27Z
+updated=2026-07-23T12:19:16Z
+pushed=2026-07-22T21:10:11Z
+
+REPO VERT-sh/VERT
+url=https://github.com/VERT-sh/VERT
+description=The next-generation file converter. Open source, fully local* and free forever.
+language=Svelte
+topics=conversion,ffmpeg,imagemagick,magick,pandoc,svelte,sveltekit,wasm
+stars=15283
+forks=809
+watchers=15283
+license=AGPL-3.0
+archived=false
+fork=false
+open_issues=70
+default_branch=main
+created=2024-11-11T14:27:14Z
+updated=2026-07-23T11:40:24Z
+pushed=2026-07-01T11:10:07Z
+
+REPO VincentGarreau/particles.js
+url=https://github.com/VincentGarreau/particles.js
+description=A lightweight JavaScript library for creating particles
+language=JavaScript
+stars=30230
+forks=4825
+watchers=30230
+license=MIT
+archived=false
+fork=false
+open_issues=367
+default_branch=master
+created=2014-09-06T14:29:47Z
+updated=2026-07-23T04:22:47Z
+pushed=2024-03-28T03:21:07Z
+
+REPO vitejs/vite
+url=https://github.com/vitejs/vite
+description=Next generation frontend tooling. It's fast!
+language=TypeScript
+topics=build-tool,dev-server,frontend,hmr,vite
+stars=82037
+forks=8524
+watchers=82037
+license=MIT
+archived=false
+fork=false
+open_issues=728
+default_branch=main
+created=2020-04-21T05:03:57Z
+updated=2026-07-23T12:18:29Z
+pushed=2026-07-23T09:47:00Z
+
+REPO wasmerio/winterjs
+url=https://github.com/wasmerio/winterjs
+description=Winter is coming... ❄️
+language=JavaScript
+stars=3196
+forks=60
+watchers=3196
+license=MIT
+archived=true
+fork=false
+open_issues=13
+default_branch=main
+created=2023-09-21T17:46:09Z
+updated=2026-07-19T14:10:05Z
+pushed=2026-03-17T18:35:03Z
+
+REPO wasp-lang/wasp
+url=https://github.com/wasp-lang/wasp
+description=The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, background jobs, RPC, email sending, end-to-end type safety, single-command deployment, and more.
+language=TypeScript
+topics=javascript,node,open-source,prisma,react,wasp,web-app
+stars=18589
+forks=1467
+watchers=18589
+license=MIT
+archived=false
+fork=false
+open_issues=806
+default_branch=main
+created=2020-01-30T13:48:54Z
+updated=2026-07-23T10:02:47Z
+pushed=2026-07-23T11:40:41Z
+
+REPO withastro/astro
+url=https://github.com/withastro/astro
+description=The web framework for content-driven websites. ⭐️ Star to support our work!
+language=TypeScript
+topics=astro,blog,browser,components,hybrid,islands,node,server,static,static-site-generator,universal
+stars=61239
+forks=3650
+watchers=61239
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=132
+default_branch=main
+created=2021-03-15T17:19:47Z
+updated=2026-07-23T11:24:02Z
+pushed=2026-07-23T03:36:59Z
+
+REPO withastro/starlight
+url=https://github.com/withastro/starlight
+description=🌟 Build beautiful, accessible, high-performance documentation websites with Astro
+language=TypeScript
+topics=astro,docs-generator,documentation,starlight,static-site-generator
+stars=8938
+forks=1018
+watchers=8938
+license=MIT
+archived=false
+fork=false
+open_issues=23
+default_branch=main
+created=2023-03-16T15:55:33Z
+updated=2026-07-23T09:59:35Z
+pushed=2026-07-22T14:16:31Z
+
+REPO woltapp/react-blurhash
+url=https://github.com/woltapp/react-blurhash
+description=React components for blurhash
+language=TypeScript
+stars=623
+forks=22
+watchers=623
+license=N/A
+archived=false
+fork=false
+open_issues=25
+default_branch=master
+created=2019-06-29T11:39:42Z
+updated=2026-07-13T08:48:05Z
+pushed=2023-01-09T08:24:59Z
+
+REPO wxt-dev/wxt
+url=https://github.com/wxt-dev/wxt
+description=⚡ Next-gen Web Extension Framework
+language=TypeScript
+topics=build-tool,chrome-extensions,dev-server,hmr,wxt
+stars=10224
+forks=547
+watchers=10224
+license=MIT
+archived=false
+fork=false
+open_issues=214
+default_branch=main
+created=2023-06-25T15:48:11Z
+updated=2026-07-23T10:13:55Z
+pushed=2026-07-21T17:57:14Z
+
+REPO xandemon/developer-icons
+url=https://github.com/xandemon/developer-icons
+description=A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.
+language=TypeScript
+topics=astro,github-action,icons,logos,npm,npm-packages,npmjs,open-source,optimized,react,react-libraries,svg,svg-icon,svg-images,tailwindcss,typescript,vector-icons,vite
+stars=2548
+forks=205
+watchers=2548
+license=MIT
+archived=false
+fork=false
+open_issues=8
+default_branch=main
+created=2023-11-20T14:01:29Z
+updated=2026-07-23T10:45:14Z
+pushed=2026-07-02T08:29:29Z
+
+REPO xenova/whisper-web
+url=https://github.com/xenova/whisper-web
+description=ML-powered speech recognition directly in your browser
+language=TypeScript
+topics=javascript,transformers,whisper
+stars=3337
+forks=425
+watchers=3337
+license=MIT
+archived=false
+fork=false
+open_issues=49
+default_branch=main
+created=2023-03-17T17:41:18Z
+updated=2026-07-23T09:29:09Z
+pushed=2024-10-01T11:32:32Z
+
+REPO xinntao/Real-ESRGAN
+url=https://github.com/xinntao/Real-ESRGAN
+description=Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+language=Python
+topics=amine,denoise,esrgan,image-restoration,jpeg-compression,pytorch,real-esrgan,super-resolution
+stars=36240
+forks=4417
+watchers=36240
+license=BSD-3-Clause
+archived=false
+fork=false
+open_issues=645
+default_branch=master
+created=2021-07-19T03:23:30Z
+updated=2026-07-23T11:58:49Z
+pushed=2024-08-06T13:15:18Z
+
+REPO xyflow/xyflow
+url=https://github.com/xyflow/xyflow
+description=React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+language=TypeScript
+topics=flowchart,graph,javascript,node-based-ui,react,react-flow,svelte,svelte-flow,typescript,typescript-library,workflow
+stars=37761
+forks=2476
+watchers=37761
+license=MIT
+archived=false
+fork=false
+open_issues=135
+default_branch=main
+created=2019-07-15T14:47:30Z
+updated=2026-07-23T12:20:28Z
+pushed=2026-07-22T09:48:32Z
+
+REPO yoshi389111/github-profile-3d-contrib
+url=https://github.com/yoshi389111/github-profile-3d-contrib
+description=This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
+language=TypeScript
+topics=github-action,github-contribution-graph,github-contributions,github-profile,github-profile-readme,profile-readme,readme-generator,svg-image
+stars=1680
+forks=340
+watchers=1680
+license=MIT
+archived=false
+fork=false
+open_issues=8
+default_branch=main
+created=2021-05-08T14:12:59Z
+updated=2026-07-22T18:45:16Z
+pushed=2026-07-20T18:56:03Z
+
+REPO zce/velite
+url=https://github.com/zce/velite
+description=Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
+language=TypeScript
+topics=content,contentlayer,datalayer,esbuild,headless-cms,markdown,mdx,typescript,velite,zod
+stars=799
+forks=43
+watchers=799
+license=MIT
+archived=false
+fork=false
+open_issues=30
+default_branch=main
+created=2023-10-26T07:21:29Z
+updated=2026-07-16T13:51:29Z
+pushed=2026-07-21T09:38:51Z
+
+REPO zhongyang219/TrafficMonitor
+url=https://github.com/zhongyang219/TrafficMonitor
+description=这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+language=C++
+stars=45336
+forks=3731
+watchers=45336
+license=NOASSERTION
+archived=false
+fork=false
+open_issues=1321
+default_branch=master
+created=2017-07-30T02:51:17Z
+updated=2026-07-23T10:33:34Z
+pushed=2026-07-22T03:19:43Z
