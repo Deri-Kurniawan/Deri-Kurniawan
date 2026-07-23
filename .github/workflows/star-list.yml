@@ -1,0 +1,17 @@
+name: Update Starred Repositories
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate starred repository list
+        uses: Deri-Kurniawan/github-starred-repository-action@v1
+        with:
+          username: Deri-Kurniawan
