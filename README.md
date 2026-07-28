@@ -55,56 +55,10 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2038%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1107 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-🌆 Daytime                3033 commits        █████████░░░░░░░░░░░░░░░░   36.84 % 
-🌃 Evening                2811 commits        █████████░░░░░░░░░░░░░░░░   34.15 % 
-🌙 Night                  1281 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%202%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               7 hrs               ████████████████░░░░░░░░░   64.68 % 
-JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-YAML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-MDX                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 51 mins (17.22%)
-
-✍️ 324 lines written by AI, 3,415 lines written by hand (8.67% AI-written)
-
-🔤 631,025 Input Tokens, 49,105 Output Tokens
-
-💵 $2.63 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 45 AI Prompts
-
-Deepseek                 366 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.67% of written lines came from AI
-📄 Detailed Prompter — average 974 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 92.68% of changed lines were hand-edited
-```
-
-
- Last Updated on 27-07-2026 18:30:25 UTC
+ Last Updated on 28-07-2026 18:24:04 UTC
 <!--END_SECTION:waka-->
 
 </div>
