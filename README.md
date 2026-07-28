@@ -4,7 +4,7 @@
 
 <div align="center">
   
-![Banner](/assets/images/banner.png)
+[![Banner](https://www.derikn.com/og?title=%3C%20Full-Stack%20Web%20Developer%20/%3E&textTopRight=Portfolio%20Website)](https://www.derikn.com)
 
 ![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
 
@@ -39,16 +39,6 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 ```
 
 <div align="center">
-
-<!--x axis divider-->
-
-![](/assets/images/horizontal-divider-gradient.gif)
-
-<h3 align="center">✨My Portfolio Website✨</h3>
-
-<a href="https://www.derikn.com" alt="Deri Kurniawan Web Portfolio">
-<img src="https://github.com/user-attachments/assets/5b8f8308-53dc-4e8a-8b58-5707529860e4" align="right">
-</a>
 
 <!--x axis divider-->
 
