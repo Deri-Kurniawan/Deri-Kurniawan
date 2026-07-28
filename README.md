@@ -73,6 +73,18 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 
 <!--x axis divider-->
 
+[![Sessify](/assets/images/horizontal-divider-gradient.gif)](https://sessify.derikn.com)
+
+<!-- Connect with me -->
+<h3 align="center">📱My Products📱</h3>
+<!--x axis divider-->
+
+[![Sessify Browser Extension](https://og.derikn.com/api/og/portfolio-project?theme=paper&index=01&sectionLabel=Selected+Project&author=Deri+Kurniawan&project=Sessify&title=A+better+way+to+manage+your+browser+sessions.&stack=React.js+%C2%B7+TypeScript+%C2%B7+WXT&footerLabel=Portfolio&year=2025&cta=View+Project&decorativeInitial=S)](https://sessify.derikn.com)
+[![3D Portfolio Website](https://og.derikn.com/api/og/portfolio-project?theme=3d&index=02&sectionLabel=Selected+Project&author=Deri+Kurniawan&project=3D+Portfolio&title=3D+theme+portfolio+website+template.&stack=Next.js+%C2%B7+TypeScript+%C2%B7+Framer+Motion&footerLabel=Portfolio&year=2023&cta=View+Project&decorativeInitial=3D)](https://3d-portfolio.derikn.com)
+[![My Birthday Guesser](https://og.derikn.com/api/og/portfolio-project?theme=paper&index=03&sectionLabel=Selected+Project&author=Deri+Kurniawan&project=My+Birthday+Guesser&title=A+fun+game+to+guess+your+birthday.&stack=React.js+%C2%B7+TypeScript+%C2%B7+TailwindCSS&footerLabel=Portfolio&year=2026&cta=View+Project&decorativeInitial=M)](https://mbg.derikn.com)
+[![OG Template Studio](https://og.derikn.com/api/og/portfolio-project?theme=3d&index=04&sectionLabel=Selected+Project&author=Deri+Kurniawan&project=OG+Template+Studio&title=A+tool+to+create+beautiful+open+graph+images.&stack=Next.js+%C2%B7+TypeScript+%C2%B7+TailwindCSS&footerLabel=Portfolio&year=2026&cta=View+Project&decorativeInitial=O)](https://og.derikn.com)
+
+
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!-- Connect with me -->
