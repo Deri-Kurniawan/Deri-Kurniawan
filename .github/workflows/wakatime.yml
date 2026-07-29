@@ -26,3 +26,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_EDITORS: "False"
           DEBUG_LOGGING: "True"
+          SHOW_AI_CODING: "False"
