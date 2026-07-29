@@ -1,11 +1,9 @@
 <!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <div align="center">
-  
-<!-- [![Banner](https://www.derikn.com/og?title=%3C%20Full-Stack%20Web%20Developer%20/%3E&textTopRight=Portfolio%20Website)](https://www.derikn.com) -->
 
+<!-- [![Banner](https://www.derikn.com/og?title=%3C%20Full-Stack%20Web%20Developer%20/%3E&textTopRight=Portfolio%20Website)](https://www.derikn.com) -->
 [![Banner](/assets/images/banner.png)](https://www.derikn.com)
 
 ![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
@@ -13,7 +11,6 @@
 </div>
 
 <!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <picture>
@@ -43,7 +40,6 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 <div align="center">
 
 <!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--START_SECTION:waka-->
@@ -56,15 +52,12 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 </div>
 
 <!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
-  </ul>
-</div>
+<ul align="center">
+  <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+</ul>
 
 <!-- use https://skillicons-picker.derikn.com -->
 <p align="center">
@@ -74,7 +67,6 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 </p>
 
 <!--x axis divider-->
-
 [![Sessify](/assets/images/horizontal-divider-gradient.gif)](https://sessify.derikn.com)
 
 <!-- Connect with me -->
@@ -91,6 +83,7 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
+
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.derikn.com/linkedin)
@@ -102,7 +95,6 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 </div>
 
 <!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!-- Support me -->
@@ -113,7 +105,6 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 <!-- [![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.derikn.com/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.derikn.com/ko-fi) -->
 
 <!--x axis divider-->
-
 <!-- ![](/assets/images/horizontal-divider-gradient.gif) -->
 
 <picture>
@@ -122,8 +113,9 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
   <img alt="github-snake" src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
 </picture>
 
-<!--x axis divider-->
+</div>
 
+<!--x axis divider-->
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <div align="center">
@@ -131,5 +123,4 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 </div>
 
 <!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
