@@ -3,8 +3,8 @@
 
 <div align="center">
 
-<!-- [![Banner](https://www.derikn.com/og?title=%3C%20Full-Stack%20Web%20Developer%20/%3E&textTopRight=Portfolio%20Website)](https://www.derikn.com) -->
-[![Banner](/assets/images/banner.png)](https://www.derikn.com)
+[![Banner](https://www.derikn.com/og?title=%3C%20Full-Stack%20Web%20Developer%20/%3E&textTopRight=Portfolio%20Website&avatar=false)](https://www.derikn.com)
+<!-- [![Banner](/assets/images/banner.png)](https://www.derikn.com) -->
 
 ![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
 
