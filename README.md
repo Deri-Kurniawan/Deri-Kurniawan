@@ -45,8 +45,31 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%202%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 28-07-2026 18:24:04 UTC
+```text
+🌞 Morning                1112 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+🌆 Daytime                3034 commits        █████████░░░░░░░░░░░░░░░░   36.73 % 
+🌃 Evening                2824 commits        █████████░░░░░░░░░░░░░░░░   34.19 % 
+🌙 Night                  1290 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               17 hrs 48 mins      █████████████████████░░░░   83.10 % 
+JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+YAML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+MDX                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+```
+
+
+ Last Updated on 29-07-2026 14:59:59 UTC
 <!--END_SECTION:waka-->
 
 </div>
