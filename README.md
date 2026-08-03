@@ -4,7 +4,8 @@
 <div align="center">
 
 <!-- [![Banner](/assets/images/banner.png)](https://www.derikn.com) -->
-[![Banner](/assets/images/banner2.png)](https://www.derikn.com)
+<!-- [![Banner](/assets/images/banner2.png)](https://www.derikn.com) -->
+[![Banner](https://www.derikn.com/og?title=%3C+Full-Stack+Web+Developer+%2F%3E)](https://www.derikn.com)
 
 ![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
 
