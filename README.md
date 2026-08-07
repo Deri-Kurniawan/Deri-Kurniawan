@@ -44,33 +44,10 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2032%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1114 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-🌆 Daytime                3064 commits        █████████░░░░░░░░░░░░░░░░   36.57 % 
-🌃 Evening                2882 commits        █████████░░░░░░░░░░░░░░░░   34.40 % 
-🌙 Night                  1318 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2016%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               54 hrs 45 mins      ██████████████████████░░░   87.74 % 
-Other                    2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Markdown                 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-CSS                      46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Bash                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-```
-
-
- Last Updated on 05-08-2026 18:30:25 UTC
+ Last Updated on 07-08-2026 17:57:10 UTC
 <!--END_SECTION:waka-->
 
 </div>
