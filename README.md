@@ -44,15 +44,15 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2011%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                1240 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-🌆 Daytime                3402 commits        █████████░░░░░░░░░░░░░░░░   36.88 % 
-🌃 Evening                3169 commits        █████████░░░░░░░░░░░░░░░░   34.35 % 
-🌙 Night                  1414 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+🌆 Daytime                3402 commits        █████████░░░░░░░░░░░░░░░░   36.86 % 
+🌃 Evening                3169 commits        █████████░░░░░░░░░░░░░░░░   34.34 % 
+🌙 Night                  1418 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 ```
 
 
@@ -62,15 +62,15 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               9 hrs 27 mins       ████████████████████░░░░░   80.86 % 
-INI                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TypeScript               8 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.36 % 
+Other                    5 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
+INI                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+PowerShell               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 
- Last Updated on 19-08-2026 17:24:53 UTC
+ Last Updated on 21-08-2026 17:24:42 UTC
 <!--END_SECTION:waka-->
 
 </div>
