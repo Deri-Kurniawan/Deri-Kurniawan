@@ -44,7 +44,7 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2020%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -62,15 +62,15 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               8 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.36 % 
-Other                    5 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
-INI                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-PowerShell               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+TypeScript               9 hrs 44 mins       █████████████░░░░░░░░░░░░   53.31 % 
+Other                    5 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+INI                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+PowerShell               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 
- Last Updated on 21-08-2026 17:24:42 UTC
+ Last Updated on 23-08-2026 17:17:29 UTC
 <!--END_SECTION:waka-->
 
 </div>
