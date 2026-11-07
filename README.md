@@ -15,7 +15,7 @@
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <picture>
-<a href="https://github.com/Deri-Kurniawan.png" alt="Developer">
+<a href="https://github.com/Deri-Kurniawan" alt="Developer">
 <img src="https://images.weserv.nl/?url=https://github.com/Deri-Kurniawan.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
 </a>
 </picture>
