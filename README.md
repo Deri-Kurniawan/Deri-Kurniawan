@@ -44,15 +44,15 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-275%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%203%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1755 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-🌆 Daytime                4671 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌃 Evening                4272 commits        █████████░░░░░░░░░░░░░░░░   34.49 % 
-🌙 Night                  1687 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+🌞 Morning                1796 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+🌆 Daytime                4776 commits        █████████░░░░░░░░░░░░░░░░   37.79 % 
+🌃 Evening                4363 commits        █████████░░░░░░░░░░░░░░░░   34.52 % 
+🌙 Night                  1704 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 ```
 
 
@@ -62,15 +62,15 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               14 hrs 17 mins      ██████████████████░░░░░░░   73.48 % 
-JSON                     3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-CSS                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+TypeScript               11 hrs 34 mins      ████████████████░░░░░░░░░   62.12 % 
+Markdown                 2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+JSON                     2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 
 
- Last Updated on 01-11-2026 20:59:56 UTC
+ Last Updated on 08-11-2026 21:00:54 UTC
 <!--END_SECTION:waka-->
 
 </div>
